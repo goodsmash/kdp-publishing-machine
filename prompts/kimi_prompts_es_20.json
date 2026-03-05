@@ -1,0 +1,302 @@
+[
+  {
+    "id": "story_001",
+    "lang": "es",
+    "age": "5-7",
+    "theme": "friendship",
+    "prompt": "Escribe un cuento infantil ilustrado para ni\u00f1os de 5-7 a\u00f1os.\n\nPersonaje principal: Un lindo fox llamado Nube\nEscenario: garden\nTema: friendship\nProblema: El personaje est\u00e1 different\nSoluci\u00f3n: Aprende sobre teamwork\n\nPalabras nuevas para incluir (definir cada una naturalmente en el cuento): feroz, tremendo, caprichoso, curioso, determinado, v\u00edvido\n\nRequisitos:\n- Oraciones simples y atractivas\n- 500-800 palabras en total\n- 12-16 p\u00e1ginas de contenido\n- Incluir di\u00e1logo\n- Final tierno y positivo\n- T\u00edtulo que incluya el nombre del personaje\n\nFormato:\nT\u00cdTULO: [T\u00edtulo del Cuento]\n\nP\u00c1GINA 1: [Texto]\nP\u00c1GINA 2: [Texto]\n... etc\n\nPALABRAS NUEVAS:\npalabra1: definici\u00f3n\npalabra2: definici\u00f3n\n...",
+    "expected_vocab": [
+      "feroz",
+      "tremendo",
+      "caprichoso",
+      "curioso",
+      "determinado",
+      "v\u00edvido"
+    ]
+  },
+  {
+    "id": "story_002",
+    "lang": "es",
+    "age": "5-7",
+    "theme": "friendship",
+    "prompt": "Escribe un cuento infantil ilustrado para ni\u00f1os de 5-7 a\u00f1os.\n\nPersonaje principal: Un lindo bunny llamado Hope\nEscenario: meadow\nTema: friendship\nProblema: El personaje est\u00e1 shy\nSoluci\u00f3n: Aprende sobre kindness\n\nPalabras nuevas para incluir (definir cada una naturalmente en el cuento): misterioso, caprichoso, remarkable, tremendo, feroz, curioso\n\nRequisitos:\n- Oraciones simples y atractivas\n- 500-800 palabras en total\n- 12-16 p\u00e1ginas de contenido\n- Incluir di\u00e1logo\n- Final tierno y positivo\n- T\u00edtulo que incluya el nombre del personaje\n\nFormato:\nT\u00cdTULO: [T\u00edtulo del Cuento]\n\nP\u00c1GINA 1: [Texto]\nP\u00c1GINA 2: [Texto]\n... etc\n\nPALABRAS NUEVAS:\npalabra1: definici\u00f3n\npalabra2: definici\u00f3n\n...",
+    "expected_vocab": [
+      "misterioso",
+      "caprichoso",
+      "remarkable",
+      "tremendo",
+      "feroz",
+      "curioso"
+    ]
+  },
+  {
+    "id": "story_003",
+    "lang": "es",
+    "age": "5-7",
+    "theme": "friendship",
+    "prompt": "Escribe un cuento infantil ilustrado para ni\u00f1os de 5-7 a\u00f1os.\n\nPersonaje principal: Un lindo fox llamado Brisa\nEscenario: meadow\nTema: friendship\nProblema: El personaje est\u00e1 lost\nSoluci\u00f3n: Aprende sobre sharing\n\nPalabras nuevas para incluir (definir cada una naturalmente en el cuento): remarkable, misterioso, caprichoso, tremendo, curioso, gentil\n\nRequisitos:\n- Oraciones simples y atractivas\n- 500-800 palabras en total\n- 12-16 p\u00e1ginas de contenido\n- Incluir di\u00e1logo\n- Final tierno y positivo\n- T\u00edtulo que incluya el nombre del personaje\n\nFormato:\nT\u00cdTULO: [T\u00edtulo del Cuento]\n\nP\u00c1GINA 1: [Texto]\nP\u00c1GINA 2: [Texto]\n... etc\n\nPALABRAS NUEVAS:\npalabra1: definici\u00f3n\npalabra2: definici\u00f3n\n...",
+    "expected_vocab": [
+      "remarkable",
+      "misterioso",
+      "caprichoso",
+      "tremendo",
+      "curioso",
+      "gentil"
+    ]
+  },
+  {
+    "id": "story_004",
+    "lang": "es",
+    "age": "2-4",
+    "theme": "learning",
+    "prompt": "Escribe un cuento infantil ilustrado para ni\u00f1os de 2-4 a\u00f1os.\n\nPersonaje principal: Un lindo elephant llamado Sol\nEscenario: library\nTema: learning\nProblema: El personaje est\u00e1 confused\nSoluci\u00f3n: Aprende sobre patience\n\nPalabras nuevas para incluir (definir cada una naturalmente en el cuento): salt\u00f3n, centelleante, acogedor, risue\u00f1o, saltar\u00edn, acurrucable\n\nRequisitos:\n- Oraciones simples y atractivas\n- 500-800 palabras en total\n- 12-16 p\u00e1ginas de contenido\n- Incluir di\u00e1logo\n- Final tierno y positivo\n- T\u00edtulo que incluya el nombre del personaje\n\nFormato:\nT\u00cdTULO: [T\u00edtulo del Cuento]\n\nP\u00c1GINA 1: [Texto]\nP\u00c1GINA 2: [Texto]\n... etc\n\nPALABRAS NUEVAS:\npalabra1: definici\u00f3n\npalabra2: definici\u00f3n\n...",
+    "expected_vocab": [
+      "salt\u00f3n",
+      "centelleante",
+      "acogedor",
+      "risue\u00f1o",
+      "saltar\u00edn",
+      "acurrucable"
+    ]
+  },
+  {
+    "id": "story_005",
+    "lang": "es",
+    "age": "2-4",
+    "theme": "courage",
+    "prompt": "Escribe un cuento infantil ilustrado para ni\u00f1os de 2-4 a\u00f1os.\n\nPersonaje principal: Un lindo fawn llamado Brisa\nEscenario: woods\nTema: courage\nProblema: El personaje est\u00e1 storm\nSoluci\u00f3n: Aprende sobre trying\n\nPalabras nuevas para incluir (definir cada una naturalmente en el cuento): saltar\u00edn, mareado, risue\u00f1o, centelleante, acurrucable, r\u00e1pido\n\nRequisitos:\n- Oraciones simples y atractivas\n- 500-800 palabras en total\n- 12-16 p\u00e1ginas de contenido\n- Incluir di\u00e1logo\n- Final tierno y positivo\n- T\u00edtulo que incluya el nombre del personaje\n\nFormato:\nT\u00cdTULO: [T\u00edtulo del Cuento]\n\nP\u00c1GINA 1: [Texto]\nP\u00c1GINA 2: [Texto]\n... etc\n\nPALABRAS NUEVAS:\npalabra1: definici\u00f3n\npalabra2: definici\u00f3n\n...",
+    "expected_vocab": [
+      "saltar\u00edn",
+      "mareado",
+      "risue\u00f1o",
+      "centelleante",
+      "acurrucable",
+      "r\u00e1pido"
+    ]
+  },
+  {
+    "id": "story_006",
+    "lang": "es",
+    "age": "2-4",
+    "theme": "learning",
+    "prompt": "Escribe un cuento infantil ilustrado para ni\u00f1os de 2-4 a\u00f1os.\n\nPersonaje principal: Un lindo elephant llamado Dulce\nEscenario: zoo\nTema: learning\nProblema: El personaje est\u00e1 hard_task\nSoluci\u00f3n: Aprende sobre practice\n\nPalabras nuevas para incluir (definir cada una naturalmente en el cuento): r\u00e1pido, salt\u00f3n, suave, risue\u00f1o, acurrucable, centelleante\n\nRequisitos:\n- Oraciones simples y atractivas\n- 500-800 palabras en total\n- 12-16 p\u00e1ginas de contenido\n- Incluir di\u00e1logo\n- Final tierno y positivo\n- T\u00edtulo que incluya el nombre del personaje\n\nFormato:\nT\u00cdTULO: [T\u00edtulo del Cuento]\n\nP\u00c1GINA 1: [Texto]\nP\u00c1GINA 2: [Texto]\n... etc\n\nPALABRAS NUEVAS:\npalabra1: definici\u00f3n\npalabra2: definici\u00f3n\n...",
+    "expected_vocab": [
+      "r\u00e1pido",
+      "salt\u00f3n",
+      "suave",
+      "risue\u00f1o",
+      "acurrucable",
+      "centelleante"
+    ]
+  },
+  {
+    "id": "story_007",
+    "lang": "es",
+    "age": "8-10",
+    "theme": "courage",
+    "prompt": "Escribe un cuento infantil ilustrado para ni\u00f1os de 8-10 a\u00f1os.\n\nPersonaje principal: Un lindo puppy llamado Dulce\nEscenario: farm\nTema: courage\nProblema: El personaje est\u00e1 dark\nSoluci\u00f3n: Aprende sobre trying\n\nPalabras nuevas para incluir (definir cada una naturalmente en el cuento): perseverancia, extraordinario, descubrimiento, imaginaci\u00f3n, tesoro, aventura\n\nRequisitos:\n- Oraciones simples y atractivas\n- 500-800 palabras en total\n- 12-16 p\u00e1ginas de contenido\n- Incluir di\u00e1logo\n- Final tierno y positivo\n- T\u00edtulo que incluya el nombre del personaje\n\nFormato:\nT\u00cdTULO: [T\u00edtulo del Cuento]\n\nP\u00c1GINA 1: [Texto]\nP\u00c1GINA 2: [Texto]\n... etc\n\nPALABRAS NUEVAS:\npalabra1: definici\u00f3n\npalabra2: definici\u00f3n\n...",
+    "expected_vocab": [
+      "perseverancia",
+      "extraordinario",
+      "descubrimiento",
+      "imaginaci\u00f3n",
+      "tesoro",
+      "aventura"
+    ]
+  },
+  {
+    "id": "story_008",
+    "lang": "es",
+    "age": "5-7",
+    "theme": "friendship",
+    "prompt": "Escribe un cuento infantil ilustrado para ni\u00f1os de 5-7 a\u00f1os.\n\nPersonaje principal: Un lindo squirrel llamado Nube\nEscenario: garden\nTema: friendship\nProblema: El personaje est\u00e1 scared\nSoluci\u00f3n: Aprende sobre helping\n\nPalabras nuevas para incluir (definir cada una naturalmente en el cuento): determinado, misterioso, tremendo, v\u00edvido, espl\u00e9ndido, gentil\n\nRequisitos:\n- Oraciones simples y atractivas\n- 500-800 palabras en total\n- 12-16 p\u00e1ginas de contenido\n- Incluir di\u00e1logo\n- Final tierno y positivo\n- T\u00edtulo que incluya el nombre del personaje\n\nFormato:\nT\u00cdTULO: [T\u00edtulo del Cuento]\n\nP\u00c1GINA 1: [Texto]\nP\u00c1GINA 2: [Texto]\n... etc\n\nPALABRAS NUEVAS:\npalabra1: definici\u00f3n\npalabra2: definici\u00f3n\n...",
+    "expected_vocab": [
+      "determinado",
+      "misterioso",
+      "tremendo",
+      "v\u00edvido",
+      "espl\u00e9ndido",
+      "gentil"
+    ]
+  },
+  {
+    "id": "story_009",
+    "lang": "es",
+    "age": "2-4",
+    "theme": "courage",
+    "prompt": "Escribe un cuento infantil ilustrado para ni\u00f1os de 2-4 a\u00f1os.\n\nPersonaje principal: Un lindo duckling llamado Cielo\nEscenario: farm\nTema: courage\nProblema: El personaje est\u00e1 new_place\nSoluci\u00f3n: Aprende sobre bravery\n\nPalabras nuevas para incluir (definir cada una naturalmente en el cuento): saltar\u00edn, mareado, brillante, r\u00e1pido, suave, acogedor\n\nRequisitos:\n- Oraciones simples y atractivas\n- 500-800 palabras en total\n- 12-16 p\u00e1ginas de contenido\n- Incluir di\u00e1logo\n- Final tierno y positivo\n- T\u00edtulo que incluya el nombre del personaje\n\nFormato:\nT\u00cdTULO: [T\u00edtulo del Cuento]\n\nP\u00c1GINA 1: [Texto]\nP\u00c1GINA 2: [Texto]\n... etc\n\nPALABRAS NUEVAS:\npalabra1: definici\u00f3n\npalabra2: definici\u00f3n\n...",
+    "expected_vocab": [
+      "saltar\u00edn",
+      "mareado",
+      "brillante",
+      "r\u00e1pido",
+      "suave",
+      "acogedor"
+    ]
+  },
+  {
+    "id": "story_010",
+    "lang": "es",
+    "age": "5-7",
+    "theme": "courage",
+    "prompt": "Escribe un cuento infantil ilustrado para ni\u00f1os de 5-7 a\u00f1os.\n\nPersonaje principal: Un lindo cub llamado Mar\nEscenario: farm\nTema: courage\nProblema: El personaje est\u00e1 storm\nSoluci\u00f3n: Aprende sobre trying\n\nPalabras nuevas para incluir (definir cada una naturalmente en el cuento): curioso, espl\u00e9ndido, tremendo, remarkable, gentil, determinado\n\nRequisitos:\n- Oraciones simples y atractivas\n- 500-800 palabras en total\n- 12-16 p\u00e1ginas de contenido\n- Incluir di\u00e1logo\n- Final tierno y positivo\n- T\u00edtulo que incluya el nombre del personaje\n\nFormato:\nT\u00cdTULO: [T\u00edtulo del Cuento]\n\nP\u00c1GINA 1: [Texto]\nP\u00c1GINA 2: [Texto]\n... etc\n\nPALABRAS NUEVAS:\npalabra1: definici\u00f3n\npalabra2: definici\u00f3n\n...",
+    "expected_vocab": [
+      "curioso",
+      "espl\u00e9ndido",
+      "tremendo",
+      "remarkable",
+      "gentil",
+      "determinado"
+    ]
+  },
+  {
+    "id": "story_011",
+    "lang": "es",
+    "age": "5-7",
+    "theme": "courage",
+    "prompt": "Escribe un cuento infantil ilustrado para ni\u00f1os de 5-7 a\u00f1os.\n\nPersonaje principal: Un lindo cub llamado Dulce\nEscenario: farm\nTema: courage\nProblema: El personaje est\u00e1 new_place\nSoluci\u00f3n: Aprende sobre believing\n\nPalabras nuevas para incluir (definir cada una naturalmente en el cuento): espl\u00e9ndido, tremendo, v\u00edvido, misterioso, determinado, curioso\n\nRequisitos:\n- Oraciones simples y atractivas\n- 500-800 palabras en total\n- 12-16 p\u00e1ginas de contenido\n- Incluir di\u00e1logo\n- Final tierno y positivo\n- T\u00edtulo que incluya el nombre del personaje\n\nFormato:\nT\u00cdTULO: [T\u00edtulo del Cuento]\n\nP\u00c1GINA 1: [Texto]\nP\u00c1GINA 2: [Texto]\n... etc\n\nPALABRAS NUEVAS:\npalabra1: definici\u00f3n\npalabra2: definici\u00f3n\n...",
+    "expected_vocab": [
+      "espl\u00e9ndido",
+      "tremendo",
+      "v\u00edvido",
+      "misterioso",
+      "determinado",
+      "curioso"
+    ]
+  },
+  {
+    "id": "story_012",
+    "lang": "es",
+    "age": "8-10",
+    "theme": "friendship",
+    "prompt": "Escribe un cuento infantil ilustrado para ni\u00f1os de 8-10 a\u00f1os.\n\nPersonaje principal: Un lindo bunny llamado Luz\nEscenario: meadow\nTema: friendship\nProblema: El personaje est\u00e1 different\nSoluci\u00f3n: Aprende sobre sharing\n\nPalabras nuevas para incluir (definir cada una naturalmente en el cuento): aventura, descubrimiento, viaje, magn\u00edfico, imaginaci\u00f3n, tesoro\n\nRequisitos:\n- Oraciones simples y atractivas\n- 500-800 palabras en total\n- 12-16 p\u00e1ginas de contenido\n- Incluir di\u00e1logo\n- Final tierno y positivo\n- T\u00edtulo que incluya el nombre del personaje\n\nFormato:\nT\u00cdTULO: [T\u00edtulo del Cuento]\n\nP\u00c1GINA 1: [Texto]\nP\u00c1GINA 2: [Texto]\n... etc\n\nPALABRAS NUEVAS:\npalabra1: definici\u00f3n\npalabra2: definici\u00f3n\n...",
+    "expected_vocab": [
+      "aventura",
+      "descubrimiento",
+      "viaje",
+      "magn\u00edfico",
+      "imaginaci\u00f3n",
+      "tesoro"
+    ]
+  },
+  {
+    "id": "story_013",
+    "lang": "es",
+    "age": "8-10",
+    "theme": "friendship",
+    "prompt": "Escribe un cuento infantil ilustrado para ni\u00f1os de 8-10 a\u00f1os.\n\nPersonaje principal: Un lindo squirrel llamado Estrella\nEscenario: garden\nTema: friendship\nProblema: El personaje est\u00e1 scared\nSoluci\u00f3n: Aprende sobre sharing\n\nPalabras nuevas para incluir (definir cada una naturalmente en el cuento): aventura, perseverancia, imaginaci\u00f3n, extraordinario, viaje, espectacular\n\nRequisitos:\n- Oraciones simples y atractivas\n- 500-800 palabras en total\n- 12-16 p\u00e1ginas de contenido\n- Incluir di\u00e1logo\n- Final tierno y positivo\n- T\u00edtulo que incluya el nombre del personaje\n\nFormato:\nT\u00cdTULO: [T\u00edtulo del Cuento]\n\nP\u00c1GINA 1: [Texto]\nP\u00c1GINA 2: [Texto]\n... etc\n\nPALABRAS NUEVAS:\npalabra1: definici\u00f3n\npalabra2: definici\u00f3n\n...",
+    "expected_vocab": [
+      "aventura",
+      "perseverancia",
+      "imaginaci\u00f3n",
+      "extraordinario",
+      "viaje",
+      "espectacular"
+    ]
+  },
+  {
+    "id": "story_014",
+    "lang": "es",
+    "age": "8-10",
+    "theme": "learning",
+    "prompt": "Escribe un cuento infantil ilustrado para ni\u00f1os de 8-10 a\u00f1os.\n\nPersonaje principal: Un lindo owl llamado Cascada\nEscenario: school\nTema: learning\nProblema: El personaje est\u00e1 mistake\nSoluci\u00f3n: Aprende sobre never_give_up\n\nPalabras nuevas para incluir (definir cada una naturalmente en el cuento): tesoro, magn\u00edfico, maravilla, imaginaci\u00f3n, extraordinario, espectacular\n\nRequisitos:\n- Oraciones simples y atractivas\n- 500-800 palabras en total\n- 12-16 p\u00e1ginas de contenido\n- Incluir di\u00e1logo\n- Final tierno y positivo\n- T\u00edtulo que incluya el nombre del personaje\n\nFormato:\nT\u00cdTULO: [T\u00edtulo del Cuento]\n\nP\u00c1GINA 1: [Texto]\nP\u00c1GINA 2: [Texto]\n... etc\n\nPALABRAS NUEVAS:\npalabra1: definici\u00f3n\npalabra2: definici\u00f3n\n...",
+    "expected_vocab": [
+      "tesoro",
+      "magn\u00edfico",
+      "maravilla",
+      "imaginaci\u00f3n",
+      "extraordinario",
+      "espectacular"
+    ]
+  },
+  {
+    "id": "story_015",
+    "lang": "es",
+    "age": "5-7",
+    "theme": "friendship",
+    "prompt": "Escribe un cuento infantil ilustrado para ni\u00f1os de 5-7 a\u00f1os.\n\nPersonaje principal: Un lindo bird llamado Aurora\nEscenario: park\nTema: friendship\nProblema: El personaje est\u00e1 lost\nSoluci\u00f3n: Aprende sobre sharing\n\nPalabras nuevas para incluir (definir cada una naturalmente en el cuento): v\u00edvido, feroz, caprichoso, curioso, tremendo, determinado\n\nRequisitos:\n- Oraciones simples y atractivas\n- 500-800 palabras en total\n- 12-16 p\u00e1ginas de contenido\n- Incluir di\u00e1logo\n- Final tierno y positivo\n- T\u00edtulo que incluya el nombre del personaje\n\nFormato:\nT\u00cdTULO: [T\u00edtulo del Cuento]\n\nP\u00c1GINA 1: [Texto]\nP\u00c1GINA 2: [Texto]\n... etc\n\nPALABRAS NUEVAS:\npalabra1: definici\u00f3n\npalabra2: definici\u00f3n\n...",
+    "expected_vocab": [
+      "v\u00edvido",
+      "feroz",
+      "caprichoso",
+      "curioso",
+      "tremendo",
+      "determinado"
+    ]
+  },
+  {
+    "id": "story_016",
+    "lang": "es",
+    "age": "8-10",
+    "theme": "learning",
+    "prompt": "Escribe un cuento infantil ilustrado para ni\u00f1os de 8-10 a\u00f1os.\n\nPersonaje principal: Un lindo turtle llamado Estrella\nEscenario: home\nTema: learning\nProblema: El personaje est\u00e1 hard_task\nSoluci\u00f3n: Aprende sobre never_give_up\n\nPalabras nuevas para incluir (definir cada una naturalmente en el cuento): perseverancia, maravilla, tesoro, extraordinario, magn\u00edfico, viaje\n\nRequisitos:\n- Oraciones simples y atractivas\n- 500-800 palabras en total\n- 12-16 p\u00e1ginas de contenido\n- Incluir di\u00e1logo\n- Final tierno y positivo\n- T\u00edtulo que incluya el nombre del personaje\n\nFormato:\nT\u00cdTULO: [T\u00edtulo del Cuento]\n\nP\u00c1GINA 1: [Texto]\nP\u00c1GINA 2: [Texto]\n... etc\n\nPALABRAS NUEVAS:\npalabra1: definici\u00f3n\npalabra2: definici\u00f3n\n...",
+    "expected_vocab": [
+      "perseverancia",
+      "maravilla",
+      "tesoro",
+      "extraordinario",
+      "magn\u00edfico",
+      "viaje"
+    ]
+  },
+  {
+    "id": "story_017",
+    "lang": "es",
+    "age": "5-7",
+    "theme": "courage",
+    "prompt": "Escribe un cuento infantil ilustrado para ni\u00f1os de 5-7 a\u00f1os.\n\nPersonaje principal: Un lindo cub llamado Brisa\nEscenario: barn\nTema: courage\nProblema: El personaje est\u00e1 new_place\nSoluci\u00f3n: Aprende sobre believing\n\nPalabras nuevas para incluir (definir cada una naturalmente en el cuento): remarkable, caprichoso, misterioso, feroz, gentil, v\u00edvido\n\nRequisitos:\n- Oraciones simples y atractivas\n- 500-800 palabras en total\n- 12-16 p\u00e1ginas de contenido\n- Incluir di\u00e1logo\n- Final tierno y positivo\n- T\u00edtulo que incluya el nombre del personaje\n\nFormato:\nT\u00cdTULO: [T\u00edtulo del Cuento]\n\nP\u00c1GINA 1: [Texto]\nP\u00c1GINA 2: [Texto]\n... etc\n\nPALABRAS NUEVAS:\npalabra1: definici\u00f3n\npalabra2: definici\u00f3n\n...",
+    "expected_vocab": [
+      "remarkable",
+      "caprichoso",
+      "misterioso",
+      "feroz",
+      "gentil",
+      "v\u00edvido"
+    ]
+  },
+  {
+    "id": "story_018",
+    "lang": "es",
+    "age": "5-7",
+    "theme": "courage",
+    "prompt": "Escribe un cuento infantil ilustrado para ni\u00f1os de 5-7 a\u00f1os.\n\nPersonaje principal: Un lindo fawn llamado Nube\nEscenario: farm\nTema: courage\nProblema: El personaje est\u00e1 first_day\nSoluci\u00f3n: Aprende sobre trying\n\nPalabras nuevas para incluir (definir cada una naturalmente en el cuento): caprichoso, remarkable, determinado, espl\u00e9ndido, v\u00edvido, misterioso\n\nRequisitos:\n- Oraciones simples y atractivas\n- 500-800 palabras en total\n- 12-16 p\u00e1ginas de contenido\n- Incluir di\u00e1logo\n- Final tierno y positivo\n- T\u00edtulo que incluya el nombre del personaje\n\nFormato:\nT\u00cdTULO: [T\u00edtulo del Cuento]\n\nP\u00c1GINA 1: [Texto]\nP\u00c1GINA 2: [Texto]\n... etc\n\nPALABRAS NUEVAS:\npalabra1: definici\u00f3n\npalabra2: definici\u00f3n\n...",
+    "expected_vocab": [
+      "caprichoso",
+      "remarkable",
+      "determinado",
+      "espl\u00e9ndido",
+      "v\u00edvido",
+      "misterioso"
+    ]
+  },
+  {
+    "id": "story_019",
+    "lang": "es",
+    "age": "5-7",
+    "theme": "friendship",
+    "prompt": "Escribe un cuento infantil ilustrado para ni\u00f1os de 5-7 a\u00f1os.\n\nPersonaje principal: Un lindo mouse llamado Esperanza\nEscenario: meadow\nTema: friendship\nProblema: El personaje est\u00e1 different\nSoluci\u00f3n: Aprende sobre helping\n\nPalabras nuevas para incluir (definir cada una naturalmente en el cuento): remarkable, curioso, gentil, determinado, espl\u00e9ndido, tremendo\n\nRequisitos:\n- Oraciones simples y atractivas\n- 500-800 palabras en total\n- 12-16 p\u00e1ginas de contenido\n- Incluir di\u00e1logo\n- Final tierno y positivo\n- T\u00edtulo que incluya el nombre del personaje\n\nFormato:\nT\u00cdTULO: [T\u00edtulo del Cuento]\n\nP\u00c1GINA 1: [Texto]\nP\u00c1GINA 2: [Texto]\n... etc\n\nPALABRAS NUEVAS:\npalabra1: definici\u00f3n\npalabra2: definici\u00f3n\n...",
+    "expected_vocab": [
+      "remarkable",
+      "curioso",
+      "gentil",
+      "determinado",
+      "espl\u00e9ndido",
+      "tremendo"
+    ]
+  },
+  {
+    "id": "story_020",
+    "lang": "es",
+    "age": "5-7",
+    "theme": "courage",
+    "prompt": "Escribe un cuento infantil ilustrado para ni\u00f1os de 5-7 a\u00f1os.\n\nPersonaje principal: Un lindo kitten llamado Hope\nEscenario: barn\nTema: courage\nProblema: El personaje est\u00e1 storm\nSoluci\u00f3n: Aprende sobre practice\n\nPalabras nuevas para incluir (definir cada una naturalmente en el cuento): feroz, v\u00edvido, remarkable, curioso, tremendo, gentil\n\nRequisitos:\n- Oraciones simples y atractivas\n- 500-800 palabras en total\n- 12-16 p\u00e1ginas de contenido\n- Incluir di\u00e1logo\n- Final tierno y positivo\n- T\u00edtulo que incluya el nombre del personaje\n\nFormato:\nT\u00cdTULO: [T\u00edtulo del Cuento]\n\nP\u00c1GINA 1: [Texto]\nP\u00c1GINA 2: [Texto]\n... etc\n\nPALABRAS NUEVAS:\npalabra1: definici\u00f3n\npalabra2: definici\u00f3n\n...",
+    "expected_vocab": [
+      "feroz",
+      "v\u00edvido",
+      "remarkable",
+      "curioso",
+      "tremendo",
+      "gentil"
+    ]
+  }
+]

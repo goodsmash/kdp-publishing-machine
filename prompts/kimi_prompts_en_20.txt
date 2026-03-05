@@ -1,0 +1,700 @@
+
+============================================================
+STORY story_001 | EN | Ages 2-4 | Theme: courage
+============================================================
+
+Write a children's picture book story for ages 2-4.
+
+Main character: A cute kitten named Jasper
+Setting: woods
+Theme: courage
+Problem: The character is new_place
+Solution: Learns about trying
+
+New vocabulary words to include (define each naturally in the story): cozy, soft, giggly, hoppy, zippy, bouncy
+
+Requirements:
+- Simple, engaging sentences
+- 500-800 words total
+- 12-16 pages of story content
+- Include dialogue
+- Heartwarming ending
+- Title that includes the character's name
+
+Format as:
+TITLE: [Story Title]
+
+PAGE 1: [Text]
+PAGE 2: [Text]
+... etc
+
+NEW WORDS:
+word1: definition
+word2: definition
+...
+
+
+============================================================
+STORY story_002 | EN | Ages 2-4 | Theme: courage
+============================================================
+
+Write a children's picture book story for ages 2-4.
+
+Main character: A cute kitten named Hazel
+Setting: farm
+Theme: courage
+Problem: The character is new_place
+Solution: Learns about believing
+
+New vocabulary words to include (define each naturally in the story): bright, snuggly, giggly, hoppy, twinkly, woozy
+
+Requirements:
+- Simple, engaging sentences
+- 500-800 words total
+- 12-16 pages of story content
+- Include dialogue
+- Heartwarming ending
+- Title that includes the character's name
+
+Format as:
+TITLE: [Story Title]
+
+PAGE 1: [Text]
+PAGE 2: [Text]
+... etc
+
+NEW WORDS:
+word1: definition
+word2: definition
+...
+
+
+============================================================
+STORY story_003 | EN | Ages 8-10 | Theme: friendship
+============================================================
+
+Write a children's picture book story for ages 8-10.
+
+Main character: A cute mouse named Luna
+Setting: meadow
+Theme: friendship
+Problem: The character is different
+Solution: Learns about teamwork
+
+New vocabulary words to include (define each naturally in the story): adventure, discovery, imagination, spectacular, perseverance, extraordinary
+
+Requirements:
+- Simple, engaging sentences
+- 500-800 words total
+- 12-16 pages of story content
+- Include dialogue
+- Heartwarming ending
+- Title that includes the character's name
+
+Format as:
+TITLE: [Story Title]
+
+PAGE 1: [Text]
+PAGE 2: [Text]
+... etc
+
+NEW WORDS:
+word1: definition
+word2: definition
+...
+
+
+============================================================
+STORY story_004 | EN | Ages 8-10 | Theme: friendship
+============================================================
+
+Write a children's picture book story for ages 8-10.
+
+Main character: A cute fox named Daisy
+Setting: forest
+Theme: friendship
+Problem: The character is different
+Solution: Learns about sharing
+
+New vocabulary words to include (define each naturally in the story): wonder, journey, perseverance, adventure, imagination, treasure
+
+Requirements:
+- Simple, engaging sentences
+- 500-800 words total
+- 12-16 pages of story content
+- Include dialogue
+- Heartwarming ending
+- Title that includes the character's name
+
+Format as:
+TITLE: [Story Title]
+
+PAGE 1: [Text]
+PAGE 2: [Text]
+... etc
+
+NEW WORDS:
+word1: definition
+word2: definition
+...
+
+
+============================================================
+STORY story_005 | EN | Ages 2-4 | Theme: friendship
+============================================================
+
+Write a children's picture book story for ages 2-4.
+
+Main character: A cute mouse named Finn
+Setting: meadow
+Theme: friendship
+Problem: The character is different
+Solution: Learns about kindness
+
+New vocabulary words to include (define each naturally in the story): cozy, woozy, giggly, zippy, snuggly, twinkly
+
+Requirements:
+- Simple, engaging sentences
+- 500-800 words total
+- 12-16 pages of story content
+- Include dialogue
+- Heartwarming ending
+- Title that includes the character's name
+
+Format as:
+TITLE: [Story Title]
+
+PAGE 1: [Text]
+PAGE 2: [Text]
+... etc
+
+NEW WORDS:
+word1: definition
+word2: definition
+...
+
+
+============================================================
+STORY story_006 | EN | Ages 2-4 | Theme: friendship
+============================================================
+
+Write a children's picture book story for ages 2-4.
+
+Main character: A cute bird named Piper
+Setting: park
+Theme: friendship
+Problem: The character is scared
+Solution: Learns about kindness
+
+New vocabulary words to include (define each naturally in the story): zippy, soft, cozy, snuggly, bouncy, twinkly
+
+Requirements:
+- Simple, engaging sentences
+- 500-800 words total
+- 12-16 pages of story content
+- Include dialogue
+- Heartwarming ending
+- Title that includes the character's name
+
+Format as:
+TITLE: [Story Title]
+
+PAGE 1: [Text]
+PAGE 2: [Text]
+... etc
+
+NEW WORDS:
+word1: definition
+word2: definition
+...
+
+
+============================================================
+STORY story_007 | EN | Ages 2-4 | Theme: learning
+============================================================
+
+Write a children's picture book story for ages 2-4.
+
+Main character: A cute owl named Daisy
+Setting: school
+Theme: learning
+Problem: The character is confused
+Solution: Learns about patience
+
+New vocabulary words to include (define each naturally in the story): bright, soft, giggly, cozy, snuggly, hoppy
+
+Requirements:
+- Simple, engaging sentences
+- 500-800 words total
+- 12-16 pages of story content
+- Include dialogue
+- Heartwarming ending
+- Title that includes the character's name
+
+Format as:
+TITLE: [Story Title]
+
+PAGE 1: [Text]
+PAGE 2: [Text]
+... etc
+
+NEW WORDS:
+word1: definition
+word2: definition
+...
+
+
+============================================================
+STORY story_008 | EN | Ages 8-10 | Theme: friendship
+============================================================
+
+Write a children's picture book story for ages 8-10.
+
+Main character: A cute bird named Willow
+Setting: garden
+Theme: friendship
+Problem: The character is different
+Solution: Learns about kindness
+
+New vocabulary words to include (define each naturally in the story): journey, magnificent, perseverance, imagination, spectacular, extraordinary
+
+Requirements:
+- Simple, engaging sentences
+- 500-800 words total
+- 12-16 pages of story content
+- Include dialogue
+- Heartwarming ending
+- Title that includes the character's name
+
+Format as:
+TITLE: [Story Title]
+
+PAGE 1: [Text]
+PAGE 2: [Text]
+... etc
+
+NEW WORDS:
+word1: definition
+word2: definition
+...
+
+
+============================================================
+STORY story_009 | EN | Ages 8-10 | Theme: courage
+============================================================
+
+Write a children's picture book story for ages 8-10.
+
+Main character: A cute duckling named Coco
+Setting: pond
+Theme: courage
+Problem: The character is dark
+Solution: Learns about bravery
+
+New vocabulary words to include (define each naturally in the story): wonder, discovery, journey, perseverance, extraordinary, spectacular
+
+Requirements:
+- Simple, engaging sentences
+- 500-800 words total
+- 12-16 pages of story content
+- Include dialogue
+- Heartwarming ending
+- Title that includes the character's name
+
+Format as:
+TITLE: [Story Title]
+
+PAGE 1: [Text]
+PAGE 2: [Text]
+... etc
+
+NEW WORDS:
+word1: definition
+word2: definition
+...
+
+
+============================================================
+STORY story_010 | EN | Ages 5-7 | Theme: learning
+============================================================
+
+Write a children's picture book story for ages 5-7.
+
+Main character: A cute owl named Finn
+Setting: home
+Theme: learning
+Problem: The character is slow
+Solution: Learns about practice
+
+New vocabulary words to include (define each naturally in the story): splendid, mysterious, remarkable, determined, fierce, whimsical
+
+Requirements:
+- Simple, engaging sentences
+- 500-800 words total
+- 12-16 pages of story content
+- Include dialogue
+- Heartwarming ending
+- Title that includes the character's name
+
+Format as:
+TITLE: [Story Title]
+
+PAGE 1: [Text]
+PAGE 2: [Text]
+... etc
+
+NEW WORDS:
+word1: definition
+word2: definition
+...
+
+
+============================================================
+STORY story_011 | EN | Ages 8-10 | Theme: courage
+============================================================
+
+Write a children's picture book story for ages 8-10.
+
+Main character: A cute cub named Ziggy
+Setting: farm
+Theme: courage
+Problem: The character is storm
+Solution: Learns about practice
+
+New vocabulary words to include (define each naturally in the story): spectacular, extraordinary, perseverance, journey, adventure, treasure
+
+Requirements:
+- Simple, engaging sentences
+- 500-800 words total
+- 12-16 pages of story content
+- Include dialogue
+- Heartwarming ending
+- Title that includes the character's name
+
+Format as:
+TITLE: [Story Title]
+
+PAGE 1: [Text]
+PAGE 2: [Text]
+... etc
+
+NEW WORDS:
+word1: definition
+word2: definition
+...
+
+
+============================================================
+STORY story_012 | EN | Ages 8-10 | Theme: friendship
+============================================================
+
+Write a children's picture book story for ages 8-10.
+
+Main character: A cute bunny named Sunny
+Setting: meadow
+Theme: friendship
+Problem: The character is shy
+Solution: Learns about kindness
+
+New vocabulary words to include (define each naturally in the story): discovery, magnificent, spectacular, journey, wonder, imagination
+
+Requirements:
+- Simple, engaging sentences
+- 500-800 words total
+- 12-16 pages of story content
+- Include dialogue
+- Heartwarming ending
+- Title that includes the character's name
+
+Format as:
+TITLE: [Story Title]
+
+PAGE 1: [Text]
+PAGE 2: [Text]
+... etc
+
+NEW WORDS:
+word1: definition
+word2: definition
+...
+
+
+============================================================
+STORY story_013 | EN | Ages 5-7 | Theme: friendship
+============================================================
+
+Write a children's picture book story for ages 5-7.
+
+Main character: A cute mouse named Rosie
+Setting: meadow
+Theme: friendship
+Problem: The character is scared
+Solution: Learns about sharing
+
+New vocabulary words to include (define each naturally in the story): splendid, curious, tremendous, mysterious, gentle, whimsical
+
+Requirements:
+- Simple, engaging sentences
+- 500-800 words total
+- 12-16 pages of story content
+- Include dialogue
+- Heartwarming ending
+- Title that includes the character's name
+
+Format as:
+TITLE: [Story Title]
+
+PAGE 1: [Text]
+PAGE 2: [Text]
+... etc
+
+NEW WORDS:
+word1: definition
+word2: definition
+...
+
+
+============================================================
+STORY story_014 | EN | Ages 8-10 | Theme: learning
+============================================================
+
+Write a children's picture book story for ages 8-10.
+
+Main character: A cute elephant named Hazel
+Setting: library
+Theme: learning
+Problem: The character is hard_task
+Solution: Learns about patience
+
+New vocabulary words to include (define each naturally in the story): adventure, spectacular, treasure, imagination, discovery, magnificent
+
+Requirements:
+- Simple, engaging sentences
+- 500-800 words total
+- 12-16 pages of story content
+- Include dialogue
+- Heartwarming ending
+- Title that includes the character's name
+
+Format as:
+TITLE: [Story Title]
+
+PAGE 1: [Text]
+PAGE 2: [Text]
+... etc
+
+NEW WORDS:
+word1: definition
+word2: definition
+...
+
+
+============================================================
+STORY story_015 | EN | Ages 2-4 | Theme: courage
+============================================================
+
+Write a children's picture book story for ages 2-4.
+
+Main character: A cute kitten named Milo
+Setting: barn
+Theme: courage
+Problem: The character is dark
+Solution: Learns about believing
+
+New vocabulary words to include (define each naturally in the story): giggly, soft, snuggly, cozy, twinkly, woozy
+
+Requirements:
+- Simple, engaging sentences
+- 500-800 words total
+- 12-16 pages of story content
+- Include dialogue
+- Heartwarming ending
+- Title that includes the character's name
+
+Format as:
+TITLE: [Story Title]
+
+PAGE 1: [Text]
+PAGE 2: [Text]
+... etc
+
+NEW WORDS:
+word1: definition
+word2: definition
+...
+
+
+============================================================
+STORY story_016 | EN | Ages 2-4 | Theme: learning
+============================================================
+
+Write a children's picture book story for ages 2-4.
+
+Main character: A cute penguin named Ziggy
+Setting: library
+Theme: learning
+Problem: The character is mistake
+Solution: Learns about patience
+
+New vocabulary words to include (define each naturally in the story): zippy, snuggly, cozy, giggly, bright, twinkly
+
+Requirements:
+- Simple, engaging sentences
+- 500-800 words total
+- 12-16 pages of story content
+- Include dialogue
+- Heartwarming ending
+- Title that includes the character's name
+
+Format as:
+TITLE: [Story Title]
+
+PAGE 1: [Text]
+PAGE 2: [Text]
+... etc
+
+NEW WORDS:
+word1: definition
+word2: definition
+...
+
+
+============================================================
+STORY story_017 | EN | Ages 8-10 | Theme: learning
+============================================================
+
+Write a children's picture book story for ages 8-10.
+
+Main character: A cute owl named Finn
+Setting: home
+Theme: learning
+Problem: The character is confused
+Solution: Learns about never_give_up
+
+New vocabulary words to include (define each naturally in the story): adventure, extraordinary, wonder, treasure, imagination, magnificent
+
+Requirements:
+- Simple, engaging sentences
+- 500-800 words total
+- 12-16 pages of story content
+- Include dialogue
+- Heartwarming ending
+- Title that includes the character's name
+
+Format as:
+TITLE: [Story Title]
+
+PAGE 1: [Text]
+PAGE 2: [Text]
+... etc
+
+NEW WORDS:
+word1: definition
+word2: definition
+...
+
+
+============================================================
+STORY story_018 | EN | Ages 8-10 | Theme: friendship
+============================================================
+
+Write a children's picture book story for ages 8-10.
+
+Main character: A cute mouse named Oliver
+Setting: park
+Theme: friendship
+Problem: The character is lost
+Solution: Learns about sharing
+
+New vocabulary words to include (define each naturally in the story): treasure, journey, imagination, wonder, perseverance, spectacular
+
+Requirements:
+- Simple, engaging sentences
+- 500-800 words total
+- 12-16 pages of story content
+- Include dialogue
+- Heartwarming ending
+- Title that includes the character's name
+
+Format as:
+TITLE: [Story Title]
+
+PAGE 1: [Text]
+PAGE 2: [Text]
+... etc
+
+NEW WORDS:
+word1: definition
+word2: definition
+...
+
+
+============================================================
+STORY story_019 | EN | Ages 5-7 | Theme: friendship
+============================================================
+
+Write a children's picture book story for ages 5-7.
+
+Main character: A cute fox named Ziggy
+Setting: forest
+Theme: friendship
+Problem: The character is lost
+Solution: Learns about helping
+
+New vocabulary words to include (define each naturally in the story): curious, mysterious, tremendous, vivid, determined, whimsical
+
+Requirements:
+- Simple, engaging sentences
+- 500-800 words total
+- 12-16 pages of story content
+- Include dialogue
+- Heartwarming ending
+- Title that includes the character's name
+
+Format as:
+TITLE: [Story Title]
+
+PAGE 1: [Text]
+PAGE 2: [Text]
+... etc
+
+NEW WORDS:
+word1: definition
+word2: definition
+...
+
+
+============================================================
+STORY story_020 | EN | Ages 8-10 | Theme: courage
+============================================================
+
+Write a children's picture book story for ages 8-10.
+
+Main character: A cute cub named Sunny
+Setting: pond
+Theme: courage
+Problem: The character is dark
+Solution: Learns about trying
+
+New vocabulary words to include (define each naturally in the story): spectacular, adventure, perseverance, treasure, extraordinary, wonder
+
+Requirements:
+- Simple, engaging sentences
+- 500-800 words total
+- 12-16 pages of story content
+- Include dialogue
+- Heartwarming ending
+- Title that includes the character's name
+
+Format as:
+TITLE: [Story Title]
+
+PAGE 1: [Text]
+PAGE 2: [Text]
+... etc
+
+NEW WORDS:
+word1: definition
+word2: definition
+...
+

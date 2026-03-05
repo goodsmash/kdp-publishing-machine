@@ -1,0 +1,32 @@
+{
+  "title": "La Semillita Valiente",
+  "subtitle": "Una Historia Sobre Crecer",
+  "series": "Amigos de la Naturaleza",
+  "volume": 1,
+  "description": "Una semilla peque\u00f1a aprende sobre coraje y paciencia en su viaje para convertirse en flor.",
+  "keywords": [
+    "semilla",
+    "crecer",
+    "naturaleza",
+    "valiente",
+    "paciencia",
+    "jard\u00edn"
+  ],
+  "categories": [
+    "Juvenile Fiction / Concepts / Words",
+    "Juvenile Fiction / Animals / General",
+    "Juvenile Fiction / Social Themes / Self-Esteem"
+  ],
+  "age_range": "4-7",
+  "language": "es",
+  "trim_size": "8x10",
+  "page_count": 36,
+  "color": "interior_bw",
+  "paper": "white",
+  "bleed": "yes",
+  "suggested_price": {
+    "US": 9.99,
+    "UK": 7.99,
+    "EU": 8.99
+  }
+}

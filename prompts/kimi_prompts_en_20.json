@@ -1,0 +1,302 @@
+[
+  {
+    "id": "story_001",
+    "lang": "en",
+    "age": "2-4",
+    "theme": "courage",
+    "prompt": "Write a children's picture book story for ages 2-4.\n\nMain character: A cute kitten named Jasper\nSetting: woods\nTheme: courage\nProblem: The character is new_place\nSolution: Learns about trying\n\nNew vocabulary words to include (define each naturally in the story): cozy, soft, giggly, hoppy, zippy, bouncy\n\nRequirements:\n- Simple, engaging sentences\n- 500-800 words total\n- 12-16 pages of story content\n- Include dialogue\n- Heartwarming ending\n- Title that includes the character's name\n\nFormat as:\nTITLE: [Story Title]\n\nPAGE 1: [Text]\nPAGE 2: [Text]\n... etc\n\nNEW WORDS:\nword1: definition\nword2: definition\n...",
+    "expected_vocab": [
+      "cozy",
+      "soft",
+      "giggly",
+      "hoppy",
+      "zippy",
+      "bouncy"
+    ]
+  },
+  {
+    "id": "story_002",
+    "lang": "en",
+    "age": "2-4",
+    "theme": "courage",
+    "prompt": "Write a children's picture book story for ages 2-4.\n\nMain character: A cute kitten named Hazel\nSetting: farm\nTheme: courage\nProblem: The character is new_place\nSolution: Learns about believing\n\nNew vocabulary words to include (define each naturally in the story): bright, snuggly, giggly, hoppy, twinkly, woozy\n\nRequirements:\n- Simple, engaging sentences\n- 500-800 words total\n- 12-16 pages of story content\n- Include dialogue\n- Heartwarming ending\n- Title that includes the character's name\n\nFormat as:\nTITLE: [Story Title]\n\nPAGE 1: [Text]\nPAGE 2: [Text]\n... etc\n\nNEW WORDS:\nword1: definition\nword2: definition\n...",
+    "expected_vocab": [
+      "bright",
+      "snuggly",
+      "giggly",
+      "hoppy",
+      "twinkly",
+      "woozy"
+    ]
+  },
+  {
+    "id": "story_003",
+    "lang": "en",
+    "age": "8-10",
+    "theme": "friendship",
+    "prompt": "Write a children's picture book story for ages 8-10.\n\nMain character: A cute mouse named Luna\nSetting: meadow\nTheme: friendship\nProblem: The character is different\nSolution: Learns about teamwork\n\nNew vocabulary words to include (define each naturally in the story): adventure, discovery, imagination, spectacular, perseverance, extraordinary\n\nRequirements:\n- Simple, engaging sentences\n- 500-800 words total\n- 12-16 pages of story content\n- Include dialogue\n- Heartwarming ending\n- Title that includes the character's name\n\nFormat as:\nTITLE: [Story Title]\n\nPAGE 1: [Text]\nPAGE 2: [Text]\n... etc\n\nNEW WORDS:\nword1: definition\nword2: definition\n...",
+    "expected_vocab": [
+      "adventure",
+      "discovery",
+      "imagination",
+      "spectacular",
+      "perseverance",
+      "extraordinary"
+    ]
+  },
+  {
+    "id": "story_004",
+    "lang": "en",
+    "age": "8-10",
+    "theme": "friendship",
+    "prompt": "Write a children's picture book story for ages 8-10.\n\nMain character: A cute fox named Daisy\nSetting: forest\nTheme: friendship\nProblem: The character is different\nSolution: Learns about sharing\n\nNew vocabulary words to include (define each naturally in the story): wonder, journey, perseverance, adventure, imagination, treasure\n\nRequirements:\n- Simple, engaging sentences\n- 500-800 words total\n- 12-16 pages of story content\n- Include dialogue\n- Heartwarming ending\n- Title that includes the character's name\n\nFormat as:\nTITLE: [Story Title]\n\nPAGE 1: [Text]\nPAGE 2: [Text]\n... etc\n\nNEW WORDS:\nword1: definition\nword2: definition\n...",
+    "expected_vocab": [
+      "wonder",
+      "journey",
+      "perseverance",
+      "adventure",
+      "imagination",
+      "treasure"
+    ]
+  },
+  {
+    "id": "story_005",
+    "lang": "en",
+    "age": "2-4",
+    "theme": "friendship",
+    "prompt": "Write a children's picture book story for ages 2-4.\n\nMain character: A cute mouse named Finn\nSetting: meadow\nTheme: friendship\nProblem: The character is different\nSolution: Learns about kindness\n\nNew vocabulary words to include (define each naturally in the story): cozy, woozy, giggly, zippy, snuggly, twinkly\n\nRequirements:\n- Simple, engaging sentences\n- 500-800 words total\n- 12-16 pages of story content\n- Include dialogue\n- Heartwarming ending\n- Title that includes the character's name\n\nFormat as:\nTITLE: [Story Title]\n\nPAGE 1: [Text]\nPAGE 2: [Text]\n... etc\n\nNEW WORDS:\nword1: definition\nword2: definition\n...",
+    "expected_vocab": [
+      "cozy",
+      "woozy",
+      "giggly",
+      "zippy",
+      "snuggly",
+      "twinkly"
+    ]
+  },
+  {
+    "id": "story_006",
+    "lang": "en",
+    "age": "2-4",
+    "theme": "friendship",
+    "prompt": "Write a children's picture book story for ages 2-4.\n\nMain character: A cute bird named Piper\nSetting: park\nTheme: friendship\nProblem: The character is scared\nSolution: Learns about kindness\n\nNew vocabulary words to include (define each naturally in the story): zippy, soft, cozy, snuggly, bouncy, twinkly\n\nRequirements:\n- Simple, engaging sentences\n- 500-800 words total\n- 12-16 pages of story content\n- Include dialogue\n- Heartwarming ending\n- Title that includes the character's name\n\nFormat as:\nTITLE: [Story Title]\n\nPAGE 1: [Text]\nPAGE 2: [Text]\n... etc\n\nNEW WORDS:\nword1: definition\nword2: definition\n...",
+    "expected_vocab": [
+      "zippy",
+      "soft",
+      "cozy",
+      "snuggly",
+      "bouncy",
+      "twinkly"
+    ]
+  },
+  {
+    "id": "story_007",
+    "lang": "en",
+    "age": "2-4",
+    "theme": "learning",
+    "prompt": "Write a children's picture book story for ages 2-4.\n\nMain character: A cute owl named Daisy\nSetting: school\nTheme: learning\nProblem: The character is confused\nSolution: Learns about patience\n\nNew vocabulary words to include (define each naturally in the story): bright, soft, giggly, cozy, snuggly, hoppy\n\nRequirements:\n- Simple, engaging sentences\n- 500-800 words total\n- 12-16 pages of story content\n- Include dialogue\n- Heartwarming ending\n- Title that includes the character's name\n\nFormat as:\nTITLE: [Story Title]\n\nPAGE 1: [Text]\nPAGE 2: [Text]\n... etc\n\nNEW WORDS:\nword1: definition\nword2: definition\n...",
+    "expected_vocab": [
+      "bright",
+      "soft",
+      "giggly",
+      "cozy",
+      "snuggly",
+      "hoppy"
+    ]
+  },
+  {
+    "id": "story_008",
+    "lang": "en",
+    "age": "8-10",
+    "theme": "friendship",
+    "prompt": "Write a children's picture book story for ages 8-10.\n\nMain character: A cute bird named Willow\nSetting: garden\nTheme: friendship\nProblem: The character is different\nSolution: Learns about kindness\n\nNew vocabulary words to include (define each naturally in the story): journey, magnificent, perseverance, imagination, spectacular, extraordinary\n\nRequirements:\n- Simple, engaging sentences\n- 500-800 words total\n- 12-16 pages of story content\n- Include dialogue\n- Heartwarming ending\n- Title that includes the character's name\n\nFormat as:\nTITLE: [Story Title]\n\nPAGE 1: [Text]\nPAGE 2: [Text]\n... etc\n\nNEW WORDS:\nword1: definition\nword2: definition\n...",
+    "expected_vocab": [
+      "journey",
+      "magnificent",
+      "perseverance",
+      "imagination",
+      "spectacular",
+      "extraordinary"
+    ]
+  },
+  {
+    "id": "story_009",
+    "lang": "en",
+    "age": "8-10",
+    "theme": "courage",
+    "prompt": "Write a children's picture book story for ages 8-10.\n\nMain character: A cute duckling named Coco\nSetting: pond\nTheme: courage\nProblem: The character is dark\nSolution: Learns about bravery\n\nNew vocabulary words to include (define each naturally in the story): wonder, discovery, journey, perseverance, extraordinary, spectacular\n\nRequirements:\n- Simple, engaging sentences\n- 500-800 words total\n- 12-16 pages of story content\n- Include dialogue\n- Heartwarming ending\n- Title that includes the character's name\n\nFormat as:\nTITLE: [Story Title]\n\nPAGE 1: [Text]\nPAGE 2: [Text]\n... etc\n\nNEW WORDS:\nword1: definition\nword2: definition\n...",
+    "expected_vocab": [
+      "wonder",
+      "discovery",
+      "journey",
+      "perseverance",
+      "extraordinary",
+      "spectacular"
+    ]
+  },
+  {
+    "id": "story_010",
+    "lang": "en",
+    "age": "5-7",
+    "theme": "learning",
+    "prompt": "Write a children's picture book story for ages 5-7.\n\nMain character: A cute owl named Finn\nSetting: home\nTheme: learning\nProblem: The character is slow\nSolution: Learns about practice\n\nNew vocabulary words to include (define each naturally in the story): splendid, mysterious, remarkable, determined, fierce, whimsical\n\nRequirements:\n- Simple, engaging sentences\n- 500-800 words total\n- 12-16 pages of story content\n- Include dialogue\n- Heartwarming ending\n- Title that includes the character's name\n\nFormat as:\nTITLE: [Story Title]\n\nPAGE 1: [Text]\nPAGE 2: [Text]\n... etc\n\nNEW WORDS:\nword1: definition\nword2: definition\n...",
+    "expected_vocab": [
+      "splendid",
+      "mysterious",
+      "remarkable",
+      "determined",
+      "fierce",
+      "whimsical"
+    ]
+  },
+  {
+    "id": "story_011",
+    "lang": "en",
+    "age": "8-10",
+    "theme": "courage",
+    "prompt": "Write a children's picture book story for ages 8-10.\n\nMain character: A cute cub named Ziggy\nSetting: farm\nTheme: courage\nProblem: The character is storm\nSolution: Learns about practice\n\nNew vocabulary words to include (define each naturally in the story): spectacular, extraordinary, perseverance, journey, adventure, treasure\n\nRequirements:\n- Simple, engaging sentences\n- 500-800 words total\n- 12-16 pages of story content\n- Include dialogue\n- Heartwarming ending\n- Title that includes the character's name\n\nFormat as:\nTITLE: [Story Title]\n\nPAGE 1: [Text]\nPAGE 2: [Text]\n... etc\n\nNEW WORDS:\nword1: definition\nword2: definition\n...",
+    "expected_vocab": [
+      "spectacular",
+      "extraordinary",
+      "perseverance",
+      "journey",
+      "adventure",
+      "treasure"
+    ]
+  },
+  {
+    "id": "story_012",
+    "lang": "en",
+    "age": "8-10",
+    "theme": "friendship",
+    "prompt": "Write a children's picture book story for ages 8-10.\n\nMain character: A cute bunny named Sunny\nSetting: meadow\nTheme: friendship\nProblem: The character is shy\nSolution: Learns about kindness\n\nNew vocabulary words to include (define each naturally in the story): discovery, magnificent, spectacular, journey, wonder, imagination\n\nRequirements:\n- Simple, engaging sentences\n- 500-800 words total\n- 12-16 pages of story content\n- Include dialogue\n- Heartwarming ending\n- Title that includes the character's name\n\nFormat as:\nTITLE: [Story Title]\n\nPAGE 1: [Text]\nPAGE 2: [Text]\n... etc\n\nNEW WORDS:\nword1: definition\nword2: definition\n...",
+    "expected_vocab": [
+      "discovery",
+      "magnificent",
+      "spectacular",
+      "journey",
+      "wonder",
+      "imagination"
+    ]
+  },
+  {
+    "id": "story_013",
+    "lang": "en",
+    "age": "5-7",
+    "theme": "friendship",
+    "prompt": "Write a children's picture book story for ages 5-7.\n\nMain character: A cute mouse named Rosie\nSetting: meadow\nTheme: friendship\nProblem: The character is scared\nSolution: Learns about sharing\n\nNew vocabulary words to include (define each naturally in the story): splendid, curious, tremendous, mysterious, gentle, whimsical\n\nRequirements:\n- Simple, engaging sentences\n- 500-800 words total\n- 12-16 pages of story content\n- Include dialogue\n- Heartwarming ending\n- Title that includes the character's name\n\nFormat as:\nTITLE: [Story Title]\n\nPAGE 1: [Text]\nPAGE 2: [Text]\n... etc\n\nNEW WORDS:\nword1: definition\nword2: definition\n...",
+    "expected_vocab": [
+      "splendid",
+      "curious",
+      "tremendous",
+      "mysterious",
+      "gentle",
+      "whimsical"
+    ]
+  },
+  {
+    "id": "story_014",
+    "lang": "en",
+    "age": "8-10",
+    "theme": "learning",
+    "prompt": "Write a children's picture book story for ages 8-10.\n\nMain character: A cute elephant named Hazel\nSetting: library\nTheme: learning\nProblem: The character is hard_task\nSolution: Learns about patience\n\nNew vocabulary words to include (define each naturally in the story): adventure, spectacular, treasure, imagination, discovery, magnificent\n\nRequirements:\n- Simple, engaging sentences\n- 500-800 words total\n- 12-16 pages of story content\n- Include dialogue\n- Heartwarming ending\n- Title that includes the character's name\n\nFormat as:\nTITLE: [Story Title]\n\nPAGE 1: [Text]\nPAGE 2: [Text]\n... etc\n\nNEW WORDS:\nword1: definition\nword2: definition\n...",
+    "expected_vocab": [
+      "adventure",
+      "spectacular",
+      "treasure",
+      "imagination",
+      "discovery",
+      "magnificent"
+    ]
+  },
+  {
+    "id": "story_015",
+    "lang": "en",
+    "age": "2-4",
+    "theme": "courage",
+    "prompt": "Write a children's picture book story for ages 2-4.\n\nMain character: A cute kitten named Milo\nSetting: barn\nTheme: courage\nProblem: The character is dark\nSolution: Learns about believing\n\nNew vocabulary words to include (define each naturally in the story): giggly, soft, snuggly, cozy, twinkly, woozy\n\nRequirements:\n- Simple, engaging sentences\n- 500-800 words total\n- 12-16 pages of story content\n- Include dialogue\n- Heartwarming ending\n- Title that includes the character's name\n\nFormat as:\nTITLE: [Story Title]\n\nPAGE 1: [Text]\nPAGE 2: [Text]\n... etc\n\nNEW WORDS:\nword1: definition\nword2: definition\n...",
+    "expected_vocab": [
+      "giggly",
+      "soft",
+      "snuggly",
+      "cozy",
+      "twinkly",
+      "woozy"
+    ]
+  },
+  {
+    "id": "story_016",
+    "lang": "en",
+    "age": "2-4",
+    "theme": "learning",
+    "prompt": "Write a children's picture book story for ages 2-4.\n\nMain character: A cute penguin named Ziggy\nSetting: library\nTheme: learning\nProblem: The character is mistake\nSolution: Learns about patience\n\nNew vocabulary words to include (define each naturally in the story): zippy, snuggly, cozy, giggly, bright, twinkly\n\nRequirements:\n- Simple, engaging sentences\n- 500-800 words total\n- 12-16 pages of story content\n- Include dialogue\n- Heartwarming ending\n- Title that includes the character's name\n\nFormat as:\nTITLE: [Story Title]\n\nPAGE 1: [Text]\nPAGE 2: [Text]\n... etc\n\nNEW WORDS:\nword1: definition\nword2: definition\n...",
+    "expected_vocab": [
+      "zippy",
+      "snuggly",
+      "cozy",
+      "giggly",
+      "bright",
+      "twinkly"
+    ]
+  },
+  {
+    "id": "story_017",
+    "lang": "en",
+    "age": "8-10",
+    "theme": "learning",
+    "prompt": "Write a children's picture book story for ages 8-10.\n\nMain character: A cute owl named Finn\nSetting: home\nTheme: learning\nProblem: The character is confused\nSolution: Learns about never_give_up\n\nNew vocabulary words to include (define each naturally in the story): adventure, extraordinary, wonder, treasure, imagination, magnificent\n\nRequirements:\n- Simple, engaging sentences\n- 500-800 words total\n- 12-16 pages of story content\n- Include dialogue\n- Heartwarming ending\n- Title that includes the character's name\n\nFormat as:\nTITLE: [Story Title]\n\nPAGE 1: [Text]\nPAGE 2: [Text]\n... etc\n\nNEW WORDS:\nword1: definition\nword2: definition\n...",
+    "expected_vocab": [
+      "adventure",
+      "extraordinary",
+      "wonder",
+      "treasure",
+      "imagination",
+      "magnificent"
+    ]
+  },
+  {
+    "id": "story_018",
+    "lang": "en",
+    "age": "8-10",
+    "theme": "friendship",
+    "prompt": "Write a children's picture book story for ages 8-10.\n\nMain character: A cute mouse named Oliver\nSetting: park\nTheme: friendship\nProblem: The character is lost\nSolution: Learns about sharing\n\nNew vocabulary words to include (define each naturally in the story): treasure, journey, imagination, wonder, perseverance, spectacular\n\nRequirements:\n- Simple, engaging sentences\n- 500-800 words total\n- 12-16 pages of story content\n- Include dialogue\n- Heartwarming ending\n- Title that includes the character's name\n\nFormat as:\nTITLE: [Story Title]\n\nPAGE 1: [Text]\nPAGE 2: [Text]\n... etc\n\nNEW WORDS:\nword1: definition\nword2: definition\n...",
+    "expected_vocab": [
+      "treasure",
+      "journey",
+      "imagination",
+      "wonder",
+      "perseverance",
+      "spectacular"
+    ]
+  },
+  {
+    "id": "story_019",
+    "lang": "en",
+    "age": "5-7",
+    "theme": "friendship",
+    "prompt": "Write a children's picture book story for ages 5-7.\n\nMain character: A cute fox named Ziggy\nSetting: forest\nTheme: friendship\nProblem: The character is lost\nSolution: Learns about helping\n\nNew vocabulary words to include (define each naturally in the story): curious, mysterious, tremendous, vivid, determined, whimsical\n\nRequirements:\n- Simple, engaging sentences\n- 500-800 words total\n- 12-16 pages of story content\n- Include dialogue\n- Heartwarming ending\n- Title that includes the character's name\n\nFormat as:\nTITLE: [Story Title]\n\nPAGE 1: [Text]\nPAGE 2: [Text]\n... etc\n\nNEW WORDS:\nword1: definition\nword2: definition\n...",
+    "expected_vocab": [
+      "curious",
+      "mysterious",
+      "tremendous",
+      "vivid",
+      "determined",
+      "whimsical"
+    ]
+  },
+  {
+    "id": "story_020",
+    "lang": "en",
+    "age": "8-10",
+    "theme": "courage",
+    "prompt": "Write a children's picture book story for ages 8-10.\n\nMain character: A cute cub named Sunny\nSetting: pond\nTheme: courage\nProblem: The character is dark\nSolution: Learns about trying\n\nNew vocabulary words to include (define each naturally in the story): spectacular, adventure, perseverance, treasure, extraordinary, wonder\n\nRequirements:\n- Simple, engaging sentences\n- 500-800 words total\n- 12-16 pages of story content\n- Include dialogue\n- Heartwarming ending\n- Title that includes the character's name\n\nFormat as:\nTITLE: [Story Title]\n\nPAGE 1: [Text]\nPAGE 2: [Text]\n... etc\n\nNEW WORDS:\nword1: definition\nword2: definition\n...",
+    "expected_vocab": [
+      "spectacular",
+      "adventure",
+      "perseverance",
+      "treasure",
+      "extraordinary",
+      "wonder"
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "title": "The Brave Little Seed",
+  "subtitle": "A Story About Growing",
+  "series": "Nature Friends",
+  "volume": 1,
+  "description": "A tiny seed learns about courage and patience on its journey to becoming a flower.",
+  "keywords": [
+    "seed",
+    "growing",
+    "nature",
+    "bravery",
+    "patience",
+    "garden"
+  ],
+  "categories": [
+    "Juvenile Fiction / Concepts / Words",
+    "Juvenile Fiction / Animals / General",
+    "Juvenile Fiction / Social Themes / Self-Esteem"
+  ],
+  "age_range": "4-7",
+  "language": "en",
+  "trim_size": "8x10",
+  "page_count": 36,
+  "color": "interior_bw",
+  "paper": "white",
+  "bleed": "yes",
+  "suggested_price": {
+    "US": 9.99,
+    "UK": 7.99,
+    "EU": 8.99
+  }
+}

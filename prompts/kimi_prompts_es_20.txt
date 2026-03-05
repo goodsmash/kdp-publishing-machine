@@ -1,0 +1,700 @@
+
+============================================================
+STORY story_001 | ES | Ages 5-7 | Theme: friendship
+============================================================
+
+Escribe un cuento infantil ilustrado para niños de 5-7 años.
+
+Personaje principal: Un lindo fox llamado Nube
+Escenario: garden
+Tema: friendship
+Problema: El personaje está different
+Solución: Aprende sobre teamwork
+
+Palabras nuevas para incluir (definir cada una naturalmente en el cuento): feroz, tremendo, caprichoso, curioso, determinado, vívido
+
+Requisitos:
+- Oraciones simples y atractivas
+- 500-800 palabras en total
+- 12-16 páginas de contenido
+- Incluir diálogo
+- Final tierno y positivo
+- Título que incluya el nombre del personaje
+
+Formato:
+TÍTULO: [Título del Cuento]
+
+PÁGINA 1: [Texto]
+PÁGINA 2: [Texto]
+... etc
+
+PALABRAS NUEVAS:
+palabra1: definición
+palabra2: definición
+...
+
+
+============================================================
+STORY story_002 | ES | Ages 5-7 | Theme: friendship
+============================================================
+
+Escribe un cuento infantil ilustrado para niños de 5-7 años.
+
+Personaje principal: Un lindo bunny llamado Hope
+Escenario: meadow
+Tema: friendship
+Problema: El personaje está shy
+Solución: Aprende sobre kindness
+
+Palabras nuevas para incluir (definir cada una naturalmente en el cuento): misterioso, caprichoso, remarkable, tremendo, feroz, curioso
+
+Requisitos:
+- Oraciones simples y atractivas
+- 500-800 palabras en total
+- 12-16 páginas de contenido
+- Incluir diálogo
+- Final tierno y positivo
+- Título que incluya el nombre del personaje
+
+Formato:
+TÍTULO: [Título del Cuento]
+
+PÁGINA 1: [Texto]
+PÁGINA 2: [Texto]
+... etc
+
+PALABRAS NUEVAS:
+palabra1: definición
+palabra2: definición
+...
+
+
+============================================================
+STORY story_003 | ES | Ages 5-7 | Theme: friendship
+============================================================
+
+Escribe un cuento infantil ilustrado para niños de 5-7 años.
+
+Personaje principal: Un lindo fox llamado Brisa
+Escenario: meadow
+Tema: friendship
+Problema: El personaje está lost
+Solución: Aprende sobre sharing
+
+Palabras nuevas para incluir (definir cada una naturalmente en el cuento): remarkable, misterioso, caprichoso, tremendo, curioso, gentil
+
+Requisitos:
+- Oraciones simples y atractivas
+- 500-800 palabras en total
+- 12-16 páginas de contenido
+- Incluir diálogo
+- Final tierno y positivo
+- Título que incluya el nombre del personaje
+
+Formato:
+TÍTULO: [Título del Cuento]
+
+PÁGINA 1: [Texto]
+PÁGINA 2: [Texto]
+... etc
+
+PALABRAS NUEVAS:
+palabra1: definición
+palabra2: definición
+...
+
+
+============================================================
+STORY story_004 | ES | Ages 2-4 | Theme: learning
+============================================================
+
+Escribe un cuento infantil ilustrado para niños de 2-4 años.
+
+Personaje principal: Un lindo elephant llamado Sol
+Escenario: library
+Tema: learning
+Problema: El personaje está confused
+Solución: Aprende sobre patience
+
+Palabras nuevas para incluir (definir cada una naturalmente en el cuento): saltón, centelleante, acogedor, risueño, saltarín, acurrucable
+
+Requisitos:
+- Oraciones simples y atractivas
+- 500-800 palabras en total
+- 12-16 páginas de contenido
+- Incluir diálogo
+- Final tierno y positivo
+- Título que incluya el nombre del personaje
+
+Formato:
+TÍTULO: [Título del Cuento]
+
+PÁGINA 1: [Texto]
+PÁGINA 2: [Texto]
+... etc
+
+PALABRAS NUEVAS:
+palabra1: definición
+palabra2: definición
+...
+
+
+============================================================
+STORY story_005 | ES | Ages 2-4 | Theme: courage
+============================================================
+
+Escribe un cuento infantil ilustrado para niños de 2-4 años.
+
+Personaje principal: Un lindo fawn llamado Brisa
+Escenario: woods
+Tema: courage
+Problema: El personaje está storm
+Solución: Aprende sobre trying
+
+Palabras nuevas para incluir (definir cada una naturalmente en el cuento): saltarín, mareado, risueño, centelleante, acurrucable, rápido
+
+Requisitos:
+- Oraciones simples y atractivas
+- 500-800 palabras en total
+- 12-16 páginas de contenido
+- Incluir diálogo
+- Final tierno y positivo
+- Título que incluya el nombre del personaje
+
+Formato:
+TÍTULO: [Título del Cuento]
+
+PÁGINA 1: [Texto]
+PÁGINA 2: [Texto]
+... etc
+
+PALABRAS NUEVAS:
+palabra1: definición
+palabra2: definición
+...
+
+
+============================================================
+STORY story_006 | ES | Ages 2-4 | Theme: learning
+============================================================
+
+Escribe un cuento infantil ilustrado para niños de 2-4 años.
+
+Personaje principal: Un lindo elephant llamado Dulce
+Escenario: zoo
+Tema: learning
+Problema: El personaje está hard_task
+Solución: Aprende sobre practice
+
+Palabras nuevas para incluir (definir cada una naturalmente en el cuento): rápido, saltón, suave, risueño, acurrucable, centelleante
+
+Requisitos:
+- Oraciones simples y atractivas
+- 500-800 palabras en total
+- 12-16 páginas de contenido
+- Incluir diálogo
+- Final tierno y positivo
+- Título que incluya el nombre del personaje
+
+Formato:
+TÍTULO: [Título del Cuento]
+
+PÁGINA 1: [Texto]
+PÁGINA 2: [Texto]
+... etc
+
+PALABRAS NUEVAS:
+palabra1: definición
+palabra2: definición
+...
+
+
+============================================================
+STORY story_007 | ES | Ages 8-10 | Theme: courage
+============================================================
+
+Escribe un cuento infantil ilustrado para niños de 8-10 años.
+
+Personaje principal: Un lindo puppy llamado Dulce
+Escenario: farm
+Tema: courage
+Problema: El personaje está dark
+Solución: Aprende sobre trying
+
+Palabras nuevas para incluir (definir cada una naturalmente en el cuento): perseverancia, extraordinario, descubrimiento, imaginación, tesoro, aventura
+
+Requisitos:
+- Oraciones simples y atractivas
+- 500-800 palabras en total
+- 12-16 páginas de contenido
+- Incluir diálogo
+- Final tierno y positivo
+- Título que incluya el nombre del personaje
+
+Formato:
+TÍTULO: [Título del Cuento]
+
+PÁGINA 1: [Texto]
+PÁGINA 2: [Texto]
+... etc
+
+PALABRAS NUEVAS:
+palabra1: definición
+palabra2: definición
+...
+
+
+============================================================
+STORY story_008 | ES | Ages 5-7 | Theme: friendship
+============================================================
+
+Escribe un cuento infantil ilustrado para niños de 5-7 años.
+
+Personaje principal: Un lindo squirrel llamado Nube
+Escenario: garden
+Tema: friendship
+Problema: El personaje está scared
+Solución: Aprende sobre helping
+
+Palabras nuevas para incluir (definir cada una naturalmente en el cuento): determinado, misterioso, tremendo, vívido, espléndido, gentil
+
+Requisitos:
+- Oraciones simples y atractivas
+- 500-800 palabras en total
+- 12-16 páginas de contenido
+- Incluir diálogo
+- Final tierno y positivo
+- Título que incluya el nombre del personaje
+
+Formato:
+TÍTULO: [Título del Cuento]
+
+PÁGINA 1: [Texto]
+PÁGINA 2: [Texto]
+... etc
+
+PALABRAS NUEVAS:
+palabra1: definición
+palabra2: definición
+...
+
+
+============================================================
+STORY story_009 | ES | Ages 2-4 | Theme: courage
+============================================================
+
+Escribe un cuento infantil ilustrado para niños de 2-4 años.
+
+Personaje principal: Un lindo duckling llamado Cielo
+Escenario: farm
+Tema: courage
+Problema: El personaje está new_place
+Solución: Aprende sobre bravery
+
+Palabras nuevas para incluir (definir cada una naturalmente en el cuento): saltarín, mareado, brillante, rápido, suave, acogedor
+
+Requisitos:
+- Oraciones simples y atractivas
+- 500-800 palabras en total
+- 12-16 páginas de contenido
+- Incluir diálogo
+- Final tierno y positivo
+- Título que incluya el nombre del personaje
+
+Formato:
+TÍTULO: [Título del Cuento]
+
+PÁGINA 1: [Texto]
+PÁGINA 2: [Texto]
+... etc
+
+PALABRAS NUEVAS:
+palabra1: definición
+palabra2: definición
+...
+
+
+============================================================
+STORY story_010 | ES | Ages 5-7 | Theme: courage
+============================================================
+
+Escribe un cuento infantil ilustrado para niños de 5-7 años.
+
+Personaje principal: Un lindo cub llamado Mar
+Escenario: farm
+Tema: courage
+Problema: El personaje está storm
+Solución: Aprende sobre trying
+
+Palabras nuevas para incluir (definir cada una naturalmente en el cuento): curioso, espléndido, tremendo, remarkable, gentil, determinado
+
+Requisitos:
+- Oraciones simples y atractivas
+- 500-800 palabras en total
+- 12-16 páginas de contenido
+- Incluir diálogo
+- Final tierno y positivo
+- Título que incluya el nombre del personaje
+
+Formato:
+TÍTULO: [Título del Cuento]
+
+PÁGINA 1: [Texto]
+PÁGINA 2: [Texto]
+... etc
+
+PALABRAS NUEVAS:
+palabra1: definición
+palabra2: definición
+...
+
+
+============================================================
+STORY story_011 | ES | Ages 5-7 | Theme: courage
+============================================================
+
+Escribe un cuento infantil ilustrado para niños de 5-7 años.
+
+Personaje principal: Un lindo cub llamado Dulce
+Escenario: farm
+Tema: courage
+Problema: El personaje está new_place
+Solución: Aprende sobre believing
+
+Palabras nuevas para incluir (definir cada una naturalmente en el cuento): espléndido, tremendo, vívido, misterioso, determinado, curioso
+
+Requisitos:
+- Oraciones simples y atractivas
+- 500-800 palabras en total
+- 12-16 páginas de contenido
+- Incluir diálogo
+- Final tierno y positivo
+- Título que incluya el nombre del personaje
+
+Formato:
+TÍTULO: [Título del Cuento]
+
+PÁGINA 1: [Texto]
+PÁGINA 2: [Texto]
+... etc
+
+PALABRAS NUEVAS:
+palabra1: definición
+palabra2: definición
+...
+
+
+============================================================
+STORY story_012 | ES | Ages 8-10 | Theme: friendship
+============================================================
+
+Escribe un cuento infantil ilustrado para niños de 8-10 años.
+
+Personaje principal: Un lindo bunny llamado Luz
+Escenario: meadow
+Tema: friendship
+Problema: El personaje está different
+Solución: Aprende sobre sharing
+
+Palabras nuevas para incluir (definir cada una naturalmente en el cuento): aventura, descubrimiento, viaje, magnífico, imaginación, tesoro
+
+Requisitos:
+- Oraciones simples y atractivas
+- 500-800 palabras en total
+- 12-16 páginas de contenido
+- Incluir diálogo
+- Final tierno y positivo
+- Título que incluya el nombre del personaje
+
+Formato:
+TÍTULO: [Título del Cuento]
+
+PÁGINA 1: [Texto]
+PÁGINA 2: [Texto]
+... etc
+
+PALABRAS NUEVAS:
+palabra1: definición
+palabra2: definición
+...
+
+
+============================================================
+STORY story_013 | ES | Ages 8-10 | Theme: friendship
+============================================================
+
+Escribe un cuento infantil ilustrado para niños de 8-10 años.
+
+Personaje principal: Un lindo squirrel llamado Estrella
+Escenario: garden
+Tema: friendship
+Problema: El personaje está scared
+Solución: Aprende sobre sharing
+
+Palabras nuevas para incluir (definir cada una naturalmente en el cuento): aventura, perseverancia, imaginación, extraordinario, viaje, espectacular
+
+Requisitos:
+- Oraciones simples y atractivas
+- 500-800 palabras en total
+- 12-16 páginas de contenido
+- Incluir diálogo
+- Final tierno y positivo
+- Título que incluya el nombre del personaje
+
+Formato:
+TÍTULO: [Título del Cuento]
+
+PÁGINA 1: [Texto]
+PÁGINA 2: [Texto]
+... etc
+
+PALABRAS NUEVAS:
+palabra1: definición
+palabra2: definición
+...
+
+
+============================================================
+STORY story_014 | ES | Ages 8-10 | Theme: learning
+============================================================
+
+Escribe un cuento infantil ilustrado para niños de 8-10 años.
+
+Personaje principal: Un lindo owl llamado Cascada
+Escenario: school
+Tema: learning
+Problema: El personaje está mistake
+Solución: Aprende sobre never_give_up
+
+Palabras nuevas para incluir (definir cada una naturalmente en el cuento): tesoro, magnífico, maravilla, imaginación, extraordinario, espectacular
+
+Requisitos:
+- Oraciones simples y atractivas
+- 500-800 palabras en total
+- 12-16 páginas de contenido
+- Incluir diálogo
+- Final tierno y positivo
+- Título que incluya el nombre del personaje
+
+Formato:
+TÍTULO: [Título del Cuento]
+
+PÁGINA 1: [Texto]
+PÁGINA 2: [Texto]
+... etc
+
+PALABRAS NUEVAS:
+palabra1: definición
+palabra2: definición
+...
+
+
+============================================================
+STORY story_015 | ES | Ages 5-7 | Theme: friendship
+============================================================
+
+Escribe un cuento infantil ilustrado para niños de 5-7 años.
+
+Personaje principal: Un lindo bird llamado Aurora
+Escenario: park
+Tema: friendship
+Problema: El personaje está lost
+Solución: Aprende sobre sharing
+
+Palabras nuevas para incluir (definir cada una naturalmente en el cuento): vívido, feroz, caprichoso, curioso, tremendo, determinado
+
+Requisitos:
+- Oraciones simples y atractivas
+- 500-800 palabras en total
+- 12-16 páginas de contenido
+- Incluir diálogo
+- Final tierno y positivo
+- Título que incluya el nombre del personaje
+
+Formato:
+TÍTULO: [Título del Cuento]
+
+PÁGINA 1: [Texto]
+PÁGINA 2: [Texto]
+... etc
+
+PALABRAS NUEVAS:
+palabra1: definición
+palabra2: definición
+...
+
+
+============================================================
+STORY story_016 | ES | Ages 8-10 | Theme: learning
+============================================================
+
+Escribe un cuento infantil ilustrado para niños de 8-10 años.
+
+Personaje principal: Un lindo turtle llamado Estrella
+Escenario: home
+Tema: learning
+Problema: El personaje está hard_task
+Solución: Aprende sobre never_give_up
+
+Palabras nuevas para incluir (definir cada una naturalmente en el cuento): perseverancia, maravilla, tesoro, extraordinario, magnífico, viaje
+
+Requisitos:
+- Oraciones simples y atractivas
+- 500-800 palabras en total
+- 12-16 páginas de contenido
+- Incluir diálogo
+- Final tierno y positivo
+- Título que incluya el nombre del personaje
+
+Formato:
+TÍTULO: [Título del Cuento]
+
+PÁGINA 1: [Texto]
+PÁGINA 2: [Texto]
+... etc
+
+PALABRAS NUEVAS:
+palabra1: definición
+palabra2: definición
+...
+
+
+============================================================
+STORY story_017 | ES | Ages 5-7 | Theme: courage
+============================================================
+
+Escribe un cuento infantil ilustrado para niños de 5-7 años.
+
+Personaje principal: Un lindo cub llamado Brisa
+Escenario: barn
+Tema: courage
+Problema: El personaje está new_place
+Solución: Aprende sobre believing
+
+Palabras nuevas para incluir (definir cada una naturalmente en el cuento): remarkable, caprichoso, misterioso, feroz, gentil, vívido
+
+Requisitos:
+- Oraciones simples y atractivas
+- 500-800 palabras en total
+- 12-16 páginas de contenido
+- Incluir diálogo
+- Final tierno y positivo
+- Título que incluya el nombre del personaje
+
+Formato:
+TÍTULO: [Título del Cuento]
+
+PÁGINA 1: [Texto]
+PÁGINA 2: [Texto]
+... etc
+
+PALABRAS NUEVAS:
+palabra1: definición
+palabra2: definición
+...
+
+
+============================================================
+STORY story_018 | ES | Ages 5-7 | Theme: courage
+============================================================
+
+Escribe un cuento infantil ilustrado para niños de 5-7 años.
+
+Personaje principal: Un lindo fawn llamado Nube
+Escenario: farm
+Tema: courage
+Problema: El personaje está first_day
+Solución: Aprende sobre trying
+
+Palabras nuevas para incluir (definir cada una naturalmente en el cuento): caprichoso, remarkable, determinado, espléndido, vívido, misterioso
+
+Requisitos:
+- Oraciones simples y atractivas
+- 500-800 palabras en total
+- 12-16 páginas de contenido
+- Incluir diálogo
+- Final tierno y positivo
+- Título que incluya el nombre del personaje
+
+Formato:
+TÍTULO: [Título del Cuento]
+
+PÁGINA 1: [Texto]
+PÁGINA 2: [Texto]
+... etc
+
+PALABRAS NUEVAS:
+palabra1: definición
+palabra2: definición
+...
+
+
+============================================================
+STORY story_019 | ES | Ages 5-7 | Theme: friendship
+============================================================
+
+Escribe un cuento infantil ilustrado para niños de 5-7 años.
+
+Personaje principal: Un lindo mouse llamado Esperanza
+Escenario: meadow
+Tema: friendship
+Problema: El personaje está different
+Solución: Aprende sobre helping
+
+Palabras nuevas para incluir (definir cada una naturalmente en el cuento): remarkable, curioso, gentil, determinado, espléndido, tremendo
+
+Requisitos:
+- Oraciones simples y atractivas
+- 500-800 palabras en total
+- 12-16 páginas de contenido
+- Incluir diálogo
+- Final tierno y positivo
+- Título que incluya el nombre del personaje
+
+Formato:
+TÍTULO: [Título del Cuento]
+
+PÁGINA 1: [Texto]
+PÁGINA 2: [Texto]
+... etc
+
+PALABRAS NUEVAS:
+palabra1: definición
+palabra2: definición
+...
+
+
+============================================================
+STORY story_020 | ES | Ages 5-7 | Theme: courage
+============================================================
+
+Escribe un cuento infantil ilustrado para niños de 5-7 años.
+
+Personaje principal: Un lindo kitten llamado Hope
+Escenario: barn
+Tema: courage
+Problema: El personaje está storm
+Solución: Aprende sobre practice
+
+Palabras nuevas para incluir (definir cada una naturalmente en el cuento): feroz, vívido, remarkable, curioso, tremendo, gentil
+
+Requisitos:
+- Oraciones simples y atractivas
+- 500-800 palabras en total
+- 12-16 páginas de contenido
+- Incluir diálogo
+- Final tierno y positivo
+- Título que incluya el nombre del personaje
+
+Formato:
+TÍTULO: [Título del Cuento]
+
+PÁGINA 1: [Texto]
+PÁGINA 2: [Texto]
+... etc
+
+PALABRAS NUEVAS:
+palabra1: definición
+palabra2: definición
+...
+
