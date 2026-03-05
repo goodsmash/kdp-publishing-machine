@@ -1,0 +1,32 @@
+{
+  "title": "Luna and the Moon",
+  "subtitle": "A Bedtime Story",
+  "series": "Nighttime Tales",
+  "volume": 1,
+  "description": "A little owl learns about the magic of the night sky and finds peace in bedtime.",
+  "keywords": [
+    "owl",
+    "moon",
+    "bedtime",
+    "night",
+    "stars",
+    "sleep"
+  ],
+  "categories": [
+    "Juvenile Fiction / Concepts / Words",
+    "Juvenile Fiction / Animals / General",
+    "Juvenile Fiction / Social Themes / Self-Esteem"
+  ],
+  "age_range": "3-6",
+  "language": "en",
+  "trim_size": "8x10",
+  "page_count": 26,
+  "color": "interior_bw",
+  "paper": "white",
+  "bleed": "yes",
+  "suggested_price": {
+    "US": 9.99,
+    "UK": 7.99,
+    "EU": 8.99
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Mia Chases the Rainbow",
+  "subtitle": "A Story About Colors",
+  "series": "Colorful World",
+  "volume": 1,
+  "description": "A playful puppy discovers that friendship is the best treasure of all.",
+  "keywords": [
+    "rainbow",
+    "colors",
+    "puppy",
+    "friendship",
+    "chasing",
+    "treasure"
+  ],
+  "categories": [
+    "Juvenile Fiction / Concepts / Words",
+    "Juvenile Fiction / Animals / General",
+    "Juvenile Fiction / Social Themes / Self-Esteem"
+  ],
+  "age_range": "3-6",
+  "language": "en",
+  "trim_size": "8x10",
+  "page_count": 28,
+  "color": "interior_bw",
+  "paper": "white",
+  "bleed": "yes",
+  "suggested_price": {
+    "US": 9.99,
+    "UK": 7.99,
+    "EU": 8.99
+  }
+}

@@ -20,6 +20,24 @@ import json
 import random
 from datetime import datetime
 
+# Import expanded story library
+try:
+    from story_library_expansion import ADDITIONAL_STORIES_EN, ADDITIONAL_STORIES_ES
+except ImportError:
+    ADDITIONAL_STORIES_EN = {}
+    ADDITIONAL_STORIES_ES = {}
+from reportlab.lib.colors import HexColor, CMYKColor, white, black
+from reportlab.pdfbase import pdfmetrics
+from reportlab.pdfbase.ttfonts import TTFont
+from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
+from reportlab.platypus import Paragraph
+from reportlab.lib.enums import TA_CENTER, TA_LEFT, TA_JUSTIFY
+import textwrap
+import os
+import json
+import random
+from datetime import datetime
+
 # ==================== KDP SPECIFICATIONS ====================
 KDP_SIZES = {
     "8x10": {"width": 8*inch, "height": 10*inch, "bleed": 0.125*inch, "pages": "24-480"},
@@ -31,6 +49,7 @@ KDP_SIZES = {
 
 AGE_GROUPS = {
     "2-4": {"font_size": 20, "line_spacing": 32, "words_per_page": 15, "vocab_level": "simple"},
+    "3-6": {"font_size": 18, "line_spacing": 28, "words_per_page": 20, "vocab_level": "simple"},
     "4-7": {"font_size": 18, "line_spacing": 28, "words_per_page": 25, "vocab_level": "early"},
     "5-7": {"font_size": 18, "line_spacing": 28, "words_per_page": 25, "vocab_level": "early"},
     "6-8": {"font_size": 16, "line_spacing": 26, "words_per_page": 35, "vocab_level": "growing"},
@@ -152,6 +171,10 @@ STORY_LIBRARY = {
         },
     }
 }
+
+# Merge expanded story libraries
+STORY_LIBRARY["en"].update(ADDITIONAL_STORIES_EN)
+STORY_LIBRARY["es"].update(ADDITIONAL_STORIES_ES)
 
 class KDPPublishingMachine:
     """Professional KDP book generator with Amazon best practices"""

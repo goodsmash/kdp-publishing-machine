@@ -1,0 +1,32 @@
+{
+  "title": "Sammy Finds His Shell",
+  "subtitle": "A Story About Being Yourself",
+  "series": "Ocean Friends",
+  "volume": 1,
+  "description": "A small hermit crab learns that being unique is what makes you special.",
+  "keywords": [
+    "hermit crab",
+    "shell",
+    "ocean",
+    "beach",
+    "unique",
+    "special"
+  ],
+  "categories": [
+    "Juvenile Fiction / Concepts / Words",
+    "Juvenile Fiction / Animals / General",
+    "Juvenile Fiction / Social Themes / Self-Esteem"
+  ],
+  "age_range": "4-7",
+  "language": "en",
+  "trim_size": "8x10",
+  "page_count": 29,
+  "color": "interior_bw",
+  "paper": "white",
+  "bleed": "yes",
+  "suggested_price": {
+    "US": 9.99,
+    "UK": 7.99,
+    "EU": 8.99
+  }
+}
