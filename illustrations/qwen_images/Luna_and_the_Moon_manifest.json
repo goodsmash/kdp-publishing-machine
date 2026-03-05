@@ -1,0 +1,31 @@
+{
+  "book": "Luna and the Moon",
+  "generated": "2026-03-05T02:36:51.972057",
+  "images": [
+    {
+      "page": 1,
+      "scene": "cute gray owl sitting on oak tree branch, night sky beginning",
+      "file": "illustrations/qwen_images/Luna_and_the_Moon_page01_20260305_023429.png"
+    },
+    {
+      "page": 2,
+      "scene": "full moon rising over forest silhouette, silver glow, twilight",
+      "file": "illustrations/qwen_images/Luna_and_the_Moon_page02_20260305_023500.png"
+    },
+    {
+      "page": 3,
+      "scene": "owl with wind blowing through feathers, tree branches",
+      "file": "illustrations/qwen_images/Luna_and_the_Moon_page03_20260305_023532.png"
+    },
+    {
+      "page": 4,
+      "scene": "night sky filled with twinkling stars and crescent moon",
+      "file": "illustrations/qwen_images/Luna_and_the_Moon_page04_20260305_023602.png"
+    },
+    {
+      "page": 5,
+      "scene": "owl sleeping peacefully in cozy tree hollow, soft moonlight",
+      "file": "illustrations/qwen_images/Luna_and_the_Moon_page05_20260305_023633.png"
+    }
+  ]
+}
