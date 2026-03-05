@@ -1,0 +1,114 @@
+======================================================================
+GOOGLE GEMINI NANO 2 PROMPTS
+Book: La Semillita Valiente
+======================================================================
+
+MODEL: Google Gemini Nano 2 (Image Generation)
+TOTAL IMAGES NEEDED: 8
+RECOMMENDED SIZE: 1024x1024 pixels
+STYLE: Children's book illustration
+
+
+──────────────────────────────────────────────────────────────────────
+IMAGE 1 of 8 - PAGE 4
+SCENE: semilla marrón pequeña en pétalo rosa
+──────────────────────────────────────────────────────────────────────
+
+PROMPT:
+Children's book illustration, digital art, friendly and warm, semilla marrón pequeña en pétalo rosa, jardín soleado con hojas verdes, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, rosa suave, verde, luz amarilla cálida, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. pacífica y segura.
+
+AVOID (Negative):
+no scary elements, no dark colors, no realistic textures, no text, no watermarks
+
+TIPS: Use high quality setting. Generate at 1024x1024.
+
+──────────────────────────────────────────────────────────────────────
+IMAGE 2 of 8 - PAGE 7
+SCENE: viento soplando flores en el jardín
+──────────────────────────────────────────────────────────────────────
+
+PROMPT:
+Children's book illustration, digital art, friendly and warm, viento soplando flores en el jardín, jardín con flores moviéndose y hojas girando, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, verde, cielo azul, nubes blancas, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. movimiento gentil.
+
+AVOID (Negative):
+no scary elements, no dark colors, no realistic textures, no text, no watermarks
+
+TIPS: Use high quality setting. Generate at 1024x1024.
+
+──────────────────────────────────────────────────────────────────────
+IMAGE 3 of 8 - PAGE 11
+SCENE: semilla cayendo por el cielo azul
+──────────────────────────────────────────────────────────────────────
+
+PROMPT:
+Children's book illustration, digital art, friendly and warm, semilla cayendo por el cielo azul, cielo azul con nubes esponjosas, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, azul brillante, nubes blancas, semilla marrón, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. flotando suavemente.
+
+AVOID (Negative):
+no scary elements, no dark colors, no realistic textures, no text, no watermarks
+
+TIPS: Use high quality setting. Generate at 1024x1024.
+
+──────────────────────────────────────────────────────────────────────
+IMAGE 4 of 8 - PAGE 16
+SCENE: semilla descansando en tierra marrón
+──────────────────────────────────────────────────────────────────────
+
+PROMPT:
+Children's book illustration, digital art, friendly and warm, semilla descansando en tierra marrón, corte transversal mostrando capas de tierra, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, marrón rico, tonos tierra oscuros, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. acogedora y segura.
+
+AVOID (Negative):
+no scary elements, no dark colors, no realistic textures, no text, no watermarks
+
+TIPS: Use high quality setting. Generate at 1024x1024.
+
+──────────────────────────────────────────────────────────────────────
+IMAGE 5 of 8 - PAGE 21
+SCENE: lluvia cayendo en tierra con sol asomando
+──────────────────────────────────────────────────────────────────────
+
+PROMPT:
+Children's book illustration, digital art, friendly and warm, lluvia cayendo en tierra con sol asomando, jardín con gotas de lluvia y rayos de sol, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, lluvia azul, sol amarillo, plantas verdes, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. nutritiva y cálida.
+
+AVOID (Negative):
+no scary elements, no dark colors, no realistic textures, no text, no watermarks
+
+TIPS: Use high quality setting. Generate at 1024x1024.
+
+──────────────────────────────────────────────────────────────────────
+IMAGE 6 of 8 - PAGE 25
+SCENE: pequeño tallo verde emergiendo de la tierra
+──────────────────────────────────────────────────────────────────────
+
+PROMPT:
+Children's book illustration, digital art, friendly and warm, pequeño tallo verde emergiendo de la tierra, primer plano de brote emergiendo, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, verde brillante, tierra marrón, luz dorada, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. esperanzadora y nueva.
+
+AVOID (Negative):
+no scary elements, no dark colors, no realistic textures, no text, no watermarks
+
+TIPS: Use high quality setting. Generate at 1024x1024.
+
+──────────────────────────────────────────────────────────────────────
+IMAGE 7 of 8 - PAGE 28
+SCENE: planta pequeña creciendo con hojas
+──────────────────────────────────────────────────────────────────────
+
+PROMPT:
+Children's book illustration, digital art, friendly and warm, planta pequeña creciendo con hojas, jardín con planta creciendo, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, hojas verdes, tallo marrón, cielo azul, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. creciendo fuerte.
+
+AVOID (Negative):
+no scary elements, no dark colors, no realistic textures, no text, no watermarks
+
+TIPS: Use high quality setting. Generate at 1024x1024.
+
+──────────────────────────────────────────────────────────────────────
+IMAGE 8 of 8 - PAGE 32
+SCENE: hermosa flor floreciendo con pétalos coloridos
+──────────────────────────────────────────────────────────────────────
+
+PROMPT:
+Children's book illustration, digital art, friendly and warm, hermosa flor floreciendo con pétalos coloridos, jardín con flor completamente abierta, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, pétalos rosa vibrante, centro amarillo, hojas verdes, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. alegre y orgullosa.
+
+AVOID (Negative):
+no scary elements, no dark colors, no realistic textures, no text, no watermarks
+
+TIPS: Use high quality setting. Generate at 1024x1024.

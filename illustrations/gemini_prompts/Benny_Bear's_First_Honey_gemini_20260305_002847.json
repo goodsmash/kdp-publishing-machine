@@ -1,0 +1,42 @@
+{
+  "book": "Benny Bear's First Honey",
+  "model": "Google Gemini Nano 2",
+  "total_images": 5,
+  "prompts": [
+    {
+      "page": 4,
+      "scene_description": "small brown bear cub in cozy cave",
+      "gemini_prompt": "Children's book illustration, digital art, friendly and warm, small brown bear cub in cozy cave, cave entrance with forest view, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, warm brown, green forest, golden light, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. curious and safe.",
+      "negative_prompt": "no scary elements, no dark colors, no realistic textures, no text, no watermarks",
+      "tips": "Use high quality setting. Generate at 1024x1024."
+    },
+    {
+      "page": 7,
+      "scene_description": "bear sniffing air with curious expression",
+      "gemini_prompt": "Children's book illustration, digital art, friendly and warm, bear sniffing air with curious expression, forest with flowers and trees, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, brown bear, green forest, colorful flowers, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. curious and excited.",
+      "negative_prompt": "no scary elements, no dark colors, no realistic textures, no text, no watermarks",
+      "tips": "Use high quality setting. Generate at 1024x1024."
+    },
+    {
+      "page": 11,
+      "scene_description": "tall tree with beehive and dripping honey",
+      "gemini_prompt": "Children's book illustration, digital art, friendly and warm, tall tree with beehive and dripping honey, forest with sun filtering through leaves, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, golden honey, green leaves, brown tree, sun rays, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. enticing and golden.",
+      "negative_prompt": "no scary elements, no dark colors, no realistic textures, no text, no watermarks",
+      "tips": "Use high quality setting. Generate at 1024x1024."
+    },
+    {
+      "page": 16,
+      "scene_description": "bear climbing tree with determination",
+      "gemini_prompt": "Children's book illustration, digital art, friendly and warm, bear climbing tree with determination, tree trunk with bear halfway up, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, brown bear, brown tree, green leaves, blue sky, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. determined and brave.",
+      "negative_prompt": "no scary elements, no dark colors, no realistic textures, no text, no watermarks",
+      "tips": "Use high quality setting. Generate at 1024x1024."
+    },
+    {
+      "page": 20,
+      "scene_description": "happy bear with honey on nose",
+      "gemini_prompt": "Children's book illustration, digital art, friendly and warm, happy bear with honey on nose, forest clearing with tree, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, brown bear, golden honey, green grass, bright sun, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. joyful and proud.",
+      "negative_prompt": "no scary elements, no dark colors, no realistic textures, no text, no watermarks",
+      "tips": "Use high quality setting. Generate at 1024x1024."
+    }
+  ]
+}

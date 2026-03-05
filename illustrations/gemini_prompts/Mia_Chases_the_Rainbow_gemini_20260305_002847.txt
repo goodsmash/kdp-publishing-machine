@@ -1,0 +1,75 @@
+======================================================================
+GOOGLE GEMINI NANO 2 PROMPTS
+Book: Mia Chases the Rainbow
+======================================================================
+
+MODEL: Google Gemini Nano 2 (Image Generation)
+TOTAL IMAGES NEEDED: 5
+RECOMMENDED SIZE: 1024x1024 pixels
+STYLE: Children's book illustration
+
+
+──────────────────────────────────────────────────────────────────────
+IMAGE 1 of 5 - PAGE 4
+SCENE: golden puppy playing in meadow
+──────────────────────────────────────────────────────────────────────
+
+PROMPT:
+Children's book illustration, digital art, friendly and warm, golden puppy playing in meadow, green meadow with flowers after rain, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, golden puppy, green grass, colorful flowers, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. playful and happy.
+
+AVOID (Negative):
+no scary elements, no dark colors, no realistic textures, no text, no watermarks
+
+TIPS: Use high quality setting. Generate at 1024x1024.
+
+──────────────────────────────────────────────────────────────────────
+IMAGE 2 of 5 - PAGE 7
+SCENE: colorful rainbow across sky
+──────────────────────────────────────────────────────────────────────
+
+PROMPT:
+Children's book illustration, digital art, friendly and warm, colorful rainbow across sky, meadow with rainbow arching overhead, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, rainbow colors, blue sky, green meadow, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. wonderful and bright.
+
+AVOID (Negative):
+no scary elements, no dark colors, no realistic textures, no text, no watermarks
+
+TIPS: Use high quality setting. Generate at 1024x1024.
+
+──────────────────────────────────────────────────────────────────────
+IMAGE 3 of 5 - PAGE 11
+SCENE: puppy running through tall grass
+──────────────────────────────────────────────────────────────────────
+
+PROMPT:
+Children's book illustration, digital art, friendly and warm, puppy running through tall grass, meadow with rolling hills, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, golden puppy, green grass, blue sky, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. energetic and free.
+
+AVOID (Negative):
+no scary elements, no dark colors, no realistic textures, no text, no watermarks
+
+TIPS: Use high quality setting. Generate at 1024x1024.
+
+──────────────────────────────────────────────────────────────────────
+IMAGE 4 of 5 - PAGE 16
+SCENE: puppy meeting another dog friend
+──────────────────────────────────────────────────────────────────────
+
+PROMPT:
+Children's book illustration, digital art, friendly and warm, puppy meeting another dog friend, sunny field with two dogs, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, two golden dogs, green grass, bright sun, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. friendly and warm.
+
+AVOID (Negative):
+no scary elements, no dark colors, no realistic textures, no text, no watermarks
+
+TIPS: Use high quality setting. Generate at 1024x1024.
+
+──────────────────────────────────────────────────────────────────────
+IMAGE 5 of 5 - PAGE 20
+SCENE: two dogs playing together under rainbow
+──────────────────────────────────────────────────────────────────────
+
+PROMPT:
+Children's book illustration, digital art, friendly and warm, two dogs playing together under rainbow, meadow with rainbow in sky, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, rainbow, golden dogs, green meadow, blue sky, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. friendship and joy.
+
+AVOID (Negative):
+no scary elements, no dark colors, no realistic textures, no text, no watermarks
+
+TIPS: Use high quality setting. Generate at 1024x1024.

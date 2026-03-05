@@ -1,0 +1,63 @@
+{
+  "book": "The Brave Little Seed",
+  "model": "Google Gemini Nano 2",
+  "total_images": 8,
+  "prompts": [
+    {
+      "page": 4,
+      "scene_description": "tiny brown seed sitting on pink flower petal",
+      "gemini_prompt": "Children's book illustration, digital art, friendly and warm, tiny brown seed sitting on pink flower petal, sunny garden with green leaves, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, soft pink, green, warm yellow sunlight, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. peaceful and safe.",
+      "negative_prompt": "no scary elements, no dark colors, no realistic textures, no text, no watermarks",
+      "tips": "Use high quality setting. Generate at 1024x1024."
+    },
+    {
+      "page": 7,
+      "scene_description": "wind blowing through flowers",
+      "gemini_prompt": "Children's book illustration, digital art, friendly and warm, wind blowing through flowers, garden with bending flowers and swirling leaves, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, green, blue sky, white clouds, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. gentle movement.",
+      "negative_prompt": "no scary elements, no dark colors, no realistic textures, no text, no watermarks",
+      "tips": "Use high quality setting. Generate at 1024x1024."
+    },
+    {
+      "page": 11,
+      "scene_description": "small seed falling through blue sky",
+      "gemini_prompt": "Children's book illustration, digital art, friendly and warm, small seed falling through blue sky, blue sky with fluffy white clouds, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, bright blue, white clouds, brown seed, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. floating gently down.",
+      "negative_prompt": "no scary elements, no dark colors, no realistic textures, no text, no watermarks",
+      "tips": "Use high quality setting. Generate at 1024x1024."
+    },
+    {
+      "page": 16,
+      "scene_description": "seed resting in brown soil underground",
+      "gemini_prompt": "Children's book illustration, digital art, friendly and warm, seed resting in brown soil underground, cross-section showing soil layers, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, rich brown, dark earthy tones, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. cozy and safe.",
+      "negative_prompt": "no scary elements, no dark colors, no realistic textures, no text, no watermarks",
+      "tips": "Use high quality setting. Generate at 1024x1024."
+    },
+    {
+      "page": 21,
+      "scene_description": "rain falling on soil with sun peeking through",
+      "gemini_prompt": "Children's book illustration, digital art, friendly and warm, rain falling on soil with sun peeking through, garden with raindrops and sun rays, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, blue rain, yellow sun, green plants, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. nurturing and warm.",
+      "negative_prompt": "no scary elements, no dark colors, no realistic textures, no text, no watermarks",
+      "tips": "Use high quality setting. Generate at 1024x1024."
+    },
+    {
+      "page": 25,
+      "scene_description": "tiny green sprout pushing through soil",
+      "gemini_prompt": "Children's book illustration, digital art, friendly and warm, tiny green sprout pushing through soil, close-up of sprout emerging, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, bright green, brown soil, golden light, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. hopeful and new.",
+      "negative_prompt": "no scary elements, no dark colors, no realistic textures, no text, no watermarks",
+      "tips": "Use high quality setting. Generate at 1024x1024."
+    },
+    {
+      "page": 28,
+      "scene_description": "small plant growing taller with leaves",
+      "gemini_prompt": "Children's book illustration, digital art, friendly and warm, small plant growing taller with leaves, garden with growing plant, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, green leaves, brown stem, blue sky, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. growing strong.",
+      "negative_prompt": "no scary elements, no dark colors, no realistic textures, no text, no watermarks",
+      "tips": "Use high quality setting. Generate at 1024x1024."
+    },
+    {
+      "page": 32,
+      "scene_description": "beautiful blooming flower with colorful petals",
+      "gemini_prompt": "Children's book illustration, digital art, friendly and warm, beautiful blooming flower with colorful petals, garden with fully bloomed flower, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, vibrant pink petals, yellow center, green leaves, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. joyful and proud.",
+      "negative_prompt": "no scary elements, no dark colors, no realistic textures, no text, no watermarks",
+      "tips": "Use high quality setting. Generate at 1024x1024."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "book": "Sammy Finds His Shell",
+  "model": "Google Gemini Nano 2",
+  "total_images": 5,
+  "prompts": [
+    {
+      "page": 4,
+      "scene_description": "small hermit crab on sandy beach",
+      "gemini_prompt": "Children's book illustration, digital art, friendly and warm, small hermit crab on sandy beach, beach with gentle waves and seashells, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, orange crab, tan sand, blue ocean, white shells, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. searching and hopeful.",
+      "negative_prompt": "no scary elements, no dark colors, no realistic textures, no text, no watermarks",
+      "tips": "Use high quality setting. Generate at 1024x1024."
+    },
+    {
+      "page": 7,
+      "scene_description": "plain brown shell on beach",
+      "gemini_prompt": "Children's book illustration, digital art, friendly and warm, plain brown shell on beach, beach with various shells scattered, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, brown shell, tan sand, blue water, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. ordinary and simple.",
+      "negative_prompt": "no scary elements, no dark colors, no realistic textures, no text, no watermarks",
+      "tips": "Use high quality setting. Generate at 1024x1024."
+    },
+    {
+      "page": 11,
+      "scene_description": "sad crab looking at ocean",
+      "gemini_prompt": "Children's book illustration, digital art, friendly and warm, sad crab looking at ocean, beach with sunset colors, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, orange crab, pink sunset, blue ocean, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. lonely but hopeful.",
+      "negative_prompt": "no scary elements, no dark colors, no realistic textures, no text, no watermarks",
+      "tips": "Use high quality setting. Generate at 1024x1024."
+    },
+    {
+      "page": 16,
+      "scene_description": "sparkly shell with blue and green swirls",
+      "gemini_prompt": "Children's book illustration, digital art, friendly and warm, sparkly shell with blue and green swirls, coral reef area underwater, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, blue and green shell, pink coral, blue water, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. magical and special.",
+      "negative_prompt": "no scary elements, no dark colors, no realistic textures, no text, no watermarks",
+      "tips": "Use high quality setting. Generate at 1024x1024."
+    },
+    {
+      "page": 20,
+      "scene_description": "happy crab in beautiful shell",
+      "gemini_prompt": "Children's book illustration, digital art, friendly and warm, happy crab in beautiful shell, beach with crab showing off shell, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, colorful shell, orange crab, bright beach, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. proud and joyful.",
+      "negative_prompt": "no scary elements, no dark colors, no realistic textures, no text, no watermarks",
+      "tips": "Use high quality setting. Generate at 1024x1024."
+    }
+  ]
+}

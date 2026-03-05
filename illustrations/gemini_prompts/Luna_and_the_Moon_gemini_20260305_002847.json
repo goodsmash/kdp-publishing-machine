@@ -1,0 +1,42 @@
+{
+  "book": "Luna and the Moon",
+  "model": "Google Gemini Nano 2",
+  "total_images": 5,
+  "prompts": [
+    {
+      "page": 4,
+      "scene_description": "cute gray owl sitting on tree branch",
+      "gemini_prompt": "Children's book illustration, digital art, friendly and warm, cute gray owl sitting on tree branch, tall oak tree at twilight, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, gray owl, brown tree, purple twilight sky, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. calm and observant.",
+      "negative_prompt": "no scary elements, no dark colors, no realistic textures, no text, no watermarks",
+      "tips": "Use high quality setting. Generate at 1024x1024."
+    },
+    {
+      "page": 7,
+      "scene_description": "full moon rising over forest",
+      "gemini_prompt": "Children's book illustration, digital art, friendly and warm, full moon rising over forest, silhouette of trees with big moon, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, silver moon, dark blue sky, black tree silhouettes, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. peaceful night.",
+      "negative_prompt": "no scary elements, no dark colors, no realistic textures, no text, no watermarks",
+      "tips": "Use high quality setting. Generate at 1024x1024."
+    },
+    {
+      "page": 11,
+      "scene_description": "owl with wind blowing through feathers",
+      "gemini_prompt": "Children's book illustration, digital art, friendly and warm, owl with wind blowing through feathers, tree branch with swirling leaves, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, gray owl, green leaves, soft blue, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. gentle and soft.",
+      "negative_prompt": "no scary elements, no dark colors, no realistic textures, no text, no watermarks",
+      "tips": "Use high quality setting. Generate at 1024x1024."
+    },
+    {
+      "page": 16,
+      "scene_description": "night sky filled with twinkling stars",
+      "gemini_prompt": "Children's book illustration, digital art, friendly and warm, night sky filled with twinkling stars, starry sky with crescent moon, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, deep blue, white stars, silver moon, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. wonder and magic.",
+      "negative_prompt": "no scary elements, no dark colors, no realistic textures, no text, no watermarks",
+      "tips": "Use high quality setting. Generate at 1024x1024."
+    },
+    {
+      "page": 20,
+      "scene_description": "owl sleeping in tree hollow",
+      "gemini_prompt": "Children's book illustration, digital art, friendly and warm, owl sleeping in tree hollow, cozy tree hole with soft moonlight, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, soft grays, gentle blue moonlight, warm browns, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. sleepy and peaceful.",
+      "negative_prompt": "no scary elements, no dark colors, no realistic textures, no text, no watermarks",
+      "tips": "Use high quality setting. Generate at 1024x1024."
+    }
+  ]
+}

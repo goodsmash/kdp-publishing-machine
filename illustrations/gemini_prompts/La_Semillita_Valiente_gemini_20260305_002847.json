@@ -1,0 +1,63 @@
+{
+  "book": "La Semillita Valiente",
+  "model": "Google Gemini Nano 2",
+  "total_images": 8,
+  "prompts": [
+    {
+      "page": 4,
+      "scene_description": "semilla marr\u00f3n peque\u00f1a en p\u00e9talo rosa",
+      "gemini_prompt": "Children's book illustration, digital art, friendly and warm, semilla marr\u00f3n peque\u00f1a en p\u00e9talo rosa, jard\u00edn soleado con hojas verdes, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, rosa suave, verde, luz amarilla c\u00e1lida, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. pac\u00edfica y segura.",
+      "negative_prompt": "no scary elements, no dark colors, no realistic textures, no text, no watermarks",
+      "tips": "Use high quality setting. Generate at 1024x1024."
+    },
+    {
+      "page": 7,
+      "scene_description": "viento soplando flores en el jard\u00edn",
+      "gemini_prompt": "Children's book illustration, digital art, friendly and warm, viento soplando flores en el jard\u00edn, jard\u00edn con flores movi\u00e9ndose y hojas girando, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, verde, cielo azul, nubes blancas, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. movimiento gentil.",
+      "negative_prompt": "no scary elements, no dark colors, no realistic textures, no text, no watermarks",
+      "tips": "Use high quality setting. Generate at 1024x1024."
+    },
+    {
+      "page": 11,
+      "scene_description": "semilla cayendo por el cielo azul",
+      "gemini_prompt": "Children's book illustration, digital art, friendly and warm, semilla cayendo por el cielo azul, cielo azul con nubes esponjosas, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, azul brillante, nubes blancas, semilla marr\u00f3n, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. flotando suavemente.",
+      "negative_prompt": "no scary elements, no dark colors, no realistic textures, no text, no watermarks",
+      "tips": "Use high quality setting. Generate at 1024x1024."
+    },
+    {
+      "page": 16,
+      "scene_description": "semilla descansando en tierra marr\u00f3n",
+      "gemini_prompt": "Children's book illustration, digital art, friendly and warm, semilla descansando en tierra marr\u00f3n, corte transversal mostrando capas de tierra, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, marr\u00f3n rico, tonos tierra oscuros, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. acogedora y segura.",
+      "negative_prompt": "no scary elements, no dark colors, no realistic textures, no text, no watermarks",
+      "tips": "Use high quality setting. Generate at 1024x1024."
+    },
+    {
+      "page": 21,
+      "scene_description": "lluvia cayendo en tierra con sol asomando",
+      "gemini_prompt": "Children's book illustration, digital art, friendly and warm, lluvia cayendo en tierra con sol asomando, jard\u00edn con gotas de lluvia y rayos de sol, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, lluvia azul, sol amarillo, plantas verdes, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. nutritiva y c\u00e1lida.",
+      "negative_prompt": "no scary elements, no dark colors, no realistic textures, no text, no watermarks",
+      "tips": "Use high quality setting. Generate at 1024x1024."
+    },
+    {
+      "page": 25,
+      "scene_description": "peque\u00f1o tallo verde emergiendo de la tierra",
+      "gemini_prompt": "Children's book illustration, digital art, friendly and warm, peque\u00f1o tallo verde emergiendo de la tierra, primer plano de brote emergiendo, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, verde brillante, tierra marr\u00f3n, luz dorada, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. esperanzadora y nueva.",
+      "negative_prompt": "no scary elements, no dark colors, no realistic textures, no text, no watermarks",
+      "tips": "Use high quality setting. Generate at 1024x1024."
+    },
+    {
+      "page": 28,
+      "scene_description": "planta peque\u00f1a creciendo con hojas",
+      "gemini_prompt": "Children's book illustration, digital art, friendly and warm, planta peque\u00f1a creciendo con hojas, jard\u00edn con planta creciendo, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, hojas verdes, tallo marr\u00f3n, cielo azul, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. creciendo fuerte.",
+      "negative_prompt": "no scary elements, no dark colors, no realistic textures, no text, no watermarks",
+      "tips": "Use high quality setting. Generate at 1024x1024."
+    },
+    {
+      "page": 32,
+      "scene_description": "hermosa flor floreciendo con p\u00e9talos coloridos",
+      "gemini_prompt": "Children's book illustration, digital art, friendly and warm, hermosa flor floreciendo con p\u00e9talos coloridos, jard\u00edn con flor completamente abierta, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, p\u00e9talos rosa vibrante, centro amarillo, hojas verdes, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. alegre y orgullosa.",
+      "negative_prompt": "no scary elements, no dark colors, no realistic textures, no text, no watermarks",
+      "tips": "Use high quality setting. Generate at 1024x1024."
+    }
+  ]
+}

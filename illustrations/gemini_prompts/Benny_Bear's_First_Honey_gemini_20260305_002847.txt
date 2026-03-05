@@ -1,0 +1,75 @@
+======================================================================
+GOOGLE GEMINI NANO 2 PROMPTS
+Book: Benny Bear's First Honey
+======================================================================
+
+MODEL: Google Gemini Nano 2 (Image Generation)
+TOTAL IMAGES NEEDED: 5
+RECOMMENDED SIZE: 1024x1024 pixels
+STYLE: Children's book illustration
+
+
+──────────────────────────────────────────────────────────────────────
+IMAGE 1 of 5 - PAGE 4
+SCENE: small brown bear cub in cozy cave
+──────────────────────────────────────────────────────────────────────
+
+PROMPT:
+Children's book illustration, digital art, friendly and warm, small brown bear cub in cozy cave, cave entrance with forest view, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, warm brown, green forest, golden light, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. curious and safe.
+
+AVOID (Negative):
+no scary elements, no dark colors, no realistic textures, no text, no watermarks
+
+TIPS: Use high quality setting. Generate at 1024x1024.
+
+──────────────────────────────────────────────────────────────────────
+IMAGE 2 of 5 - PAGE 7
+SCENE: bear sniffing air with curious expression
+──────────────────────────────────────────────────────────────────────
+
+PROMPT:
+Children's book illustration, digital art, friendly and warm, bear sniffing air with curious expression, forest with flowers and trees, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, brown bear, green forest, colorful flowers, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. curious and excited.
+
+AVOID (Negative):
+no scary elements, no dark colors, no realistic textures, no text, no watermarks
+
+TIPS: Use high quality setting. Generate at 1024x1024.
+
+──────────────────────────────────────────────────────────────────────
+IMAGE 3 of 5 - PAGE 11
+SCENE: tall tree with beehive and dripping honey
+──────────────────────────────────────────────────────────────────────
+
+PROMPT:
+Children's book illustration, digital art, friendly and warm, tall tree with beehive and dripping honey, forest with sun filtering through leaves, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, golden honey, green leaves, brown tree, sun rays, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. enticing and golden.
+
+AVOID (Negative):
+no scary elements, no dark colors, no realistic textures, no text, no watermarks
+
+TIPS: Use high quality setting. Generate at 1024x1024.
+
+──────────────────────────────────────────────────────────────────────
+IMAGE 4 of 5 - PAGE 16
+SCENE: bear climbing tree with determination
+──────────────────────────────────────────────────────────────────────
+
+PROMPT:
+Children's book illustration, digital art, friendly and warm, bear climbing tree with determination, tree trunk with bear halfway up, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, brown bear, brown tree, green leaves, blue sky, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. determined and brave.
+
+AVOID (Negative):
+no scary elements, no dark colors, no realistic textures, no text, no watermarks
+
+TIPS: Use high quality setting. Generate at 1024x1024.
+
+──────────────────────────────────────────────────────────────────────
+IMAGE 5 of 5 - PAGE 20
+SCENE: happy bear with honey on nose
+──────────────────────────────────────────────────────────────────────
+
+PROMPT:
+Children's book illustration, digital art, friendly and warm, happy bear with honey on nose, forest clearing with tree, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, brown bear, golden honey, green grass, bright sun, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. joyful and proud.
+
+AVOID (Negative):
+no scary elements, no dark colors, no realistic textures, no text, no watermarks
+
+TIPS: Use high quality setting. Generate at 1024x1024.

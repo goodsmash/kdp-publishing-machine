@@ -1,0 +1,75 @@
+======================================================================
+GOOGLE GEMINI NANO 2 PROMPTS
+Book: Sammy Finds His Shell
+======================================================================
+
+MODEL: Google Gemini Nano 2 (Image Generation)
+TOTAL IMAGES NEEDED: 5
+RECOMMENDED SIZE: 1024x1024 pixels
+STYLE: Children's book illustration
+
+
+──────────────────────────────────────────────────────────────────────
+IMAGE 1 of 5 - PAGE 4
+SCENE: small hermit crab on sandy beach
+──────────────────────────────────────────────────────────────────────
+
+PROMPT:
+Children's book illustration, digital art, friendly and warm, small hermit crab on sandy beach, beach with gentle waves and seashells, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, orange crab, tan sand, blue ocean, white shells, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. searching and hopeful.
+
+AVOID (Negative):
+no scary elements, no dark colors, no realistic textures, no text, no watermarks
+
+TIPS: Use high quality setting. Generate at 1024x1024.
+
+──────────────────────────────────────────────────────────────────────
+IMAGE 2 of 5 - PAGE 7
+SCENE: plain brown shell on beach
+──────────────────────────────────────────────────────────────────────
+
+PROMPT:
+Children's book illustration, digital art, friendly and warm, plain brown shell on beach, beach with various shells scattered, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, brown shell, tan sand, blue water, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. ordinary and simple.
+
+AVOID (Negative):
+no scary elements, no dark colors, no realistic textures, no text, no watermarks
+
+TIPS: Use high quality setting. Generate at 1024x1024.
+
+──────────────────────────────────────────────────────────────────────
+IMAGE 3 of 5 - PAGE 11
+SCENE: sad crab looking at ocean
+──────────────────────────────────────────────────────────────────────
+
+PROMPT:
+Children's book illustration, digital art, friendly and warm, sad crab looking at ocean, beach with sunset colors, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, orange crab, pink sunset, blue ocean, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. lonely but hopeful.
+
+AVOID (Negative):
+no scary elements, no dark colors, no realistic textures, no text, no watermarks
+
+TIPS: Use high quality setting. Generate at 1024x1024.
+
+──────────────────────────────────────────────────────────────────────
+IMAGE 4 of 5 - PAGE 16
+SCENE: sparkly shell with blue and green swirls
+──────────────────────────────────────────────────────────────────────
+
+PROMPT:
+Children's book illustration, digital art, friendly and warm, sparkly shell with blue and green swirls, coral reef area underwater, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, blue and green shell, pink coral, blue water, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. magical and special.
+
+AVOID (Negative):
+no scary elements, no dark colors, no realistic textures, no text, no watermarks
+
+TIPS: Use high quality setting. Generate at 1024x1024.
+
+──────────────────────────────────────────────────────────────────────
+IMAGE 5 of 5 - PAGE 20
+SCENE: happy crab in beautiful shell
+──────────────────────────────────────────────────────────────────────
+
+PROMPT:
+Children's book illustration, digital art, friendly and warm, happy crab in beautiful shell, beach with crab showing off shell, cute friendly characters, big expressive eyes, simple shapes, soft natural lighting, gentle shadows, colorful shell, orange crab, bright beach, bright cheerful colors, pastel background, centered subject, clear focal point, uncluttered background. proud and joyful.
+
+AVOID (Negative):
+no scary elements, no dark colors, no realistic textures, no text, no watermarks
+
+TIPS: Use high quality setting. Generate at 1024x1024.
