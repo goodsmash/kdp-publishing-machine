@@ -48,6 +48,36 @@ class ComprehensiveActivityBook:
             "subtitle": "Trucks, Excavators, Bulldozers, and Building Fun!",
             "creatures": ["Dump Truck", "Excavator", "Bulldozer", "Crane"],
             "facts": ["The largest dump truck can carry 450 tons!"]
+        },
+        "princess": {
+            "title": "Princess Activity Book",
+            "subtitle": "Castles, Crowns, and Royal Fun!",
+            "creatures": ["Princess", "Castle", "Crown", "Unicorn", "Fairy"],
+            "facts": ["Real princesses don't always wear crowns!", "Many castles have secret passages!"]
+        },
+        "superhero": {
+            "title": "Superhero Activity Book",
+            "subtitle": "Powers, Missions, and Hero Adventures!",
+            "creatures": ["Superhero", "Mask", "Cape", "Shield", "Lightning"],
+            "facts": ["Kindness is a real superpower!", "Helping others makes you a superhero!"]
+        },
+        "jungle": {
+            "title": "Jungle Safari Activity Book",
+            "subtitle": "Lions, Tigers, and Wild Animals!",
+            "creatures": ["Lion", "Tiger", "Elephant", "Giraffe", "Monkey"],
+            "facts": ["A lion's roar can be heard from 5 miles away!", "Tigers love to swim!"]
+        },
+        "farm": {
+            "title": "Farm Friends Activity Book",
+            "subtitle": "Cows, Pigs, Chickens, and Barnyard Fun!",
+            "creatures": ["Cow", "Pig", "Chicken", "Horse", "Sheep"],
+            "facts": ["Cows have best friends!", "Pigs are very smart animals!"]
+        },
+        "pets": {
+            "title": "Pets Activity Book",
+            "subtitle": "Cats, Dogs, and Furry Friends!",
+            "creatures": ["Dog", "Cat", "Fish", "Rabbit", "Hamster"],
+            "facts": ["Dogs can learn over 100 words!", "Cats sleep 70% of the day!"]
         }
     }
     
