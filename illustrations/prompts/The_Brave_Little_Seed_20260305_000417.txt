@@ -1,0 +1,154 @@
+======================================================================
+ILLUSTRATION PROMPTS FOR: The Brave Little Seed
+Art Style: Watercolor Children's Book
+Generated: 2026-03-05 00:04
+======================================================================
+
+
+──────────────────────────────────────────────────────────────────────
+PAGE 4: Seed On Flower
+──────────────────────────────────────────────────────────────────────
+
+Scene: tiny brown seed sitting on a colorful flower petal, sun shining, garden background
+Mood: cheerful
+Characters: tiny seed
+
+🎨 DALL-E 3:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Seed On Flower, tiny brown seed sitting on a colorful flower petal, sun shining, garden background, cheerful atmosphere featuring a cute tiny seed, white background, no text, professional children's book art
+
+🎨 MIDJOURNEY:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Seed On Flower, tiny brown seed sitting on a colorful flower petal, sun shining, garden background, cheerful atmosphere featuring a cute tiny seed, white background, no text, professional children's book art --ar 3:4 --style raw --s 250
+
+🎨 STABLE DIFFUSION:
+   Prompt: Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Seed On Flower, tiny brown seed sitting on a colorful flower petal, sun shining, garden background, cheerful atmosphere featuring a cute tiny seed, white background, no text, professional children's book art
+   Negative: photorealistic, 3d render, dark colors, scary, complex background, text, watermark
+
+
+──────────────────────────────────────────────────────────────────────
+PAGE 7: Wind Coming
+──────────────────────────────────────────────────────────────────────
+
+Scene: wind blowing through a garden, flowers bending, leaves swirling, dynamic movement
+Mood: cheerful
+
+🎨 DALL-E 3:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Wind Coming, wind blowing through a garden, flowers bending, leaves swirling, dynamic movement, cheerful atmosphere, white background, no text, professional children's book art
+
+🎨 MIDJOURNEY:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Wind Coming, wind blowing through a garden, flowers bending, leaves swirling, dynamic movement, cheerful atmosphere, white background, no text, professional children's book art --ar 3:4 --style raw --s 250
+
+🎨 STABLE DIFFUSION:
+   Prompt: Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Wind Coming, wind blowing through a garden, flowers bending, leaves swirling, dynamic movement, cheerful atmosphere, white background, no text, professional children's book art
+   Negative: photorealistic, 3d render, dark colors, scary, complex background, text, watermark
+
+
+──────────────────────────────────────────────────────────────────────
+PAGE 11: Seed Falling
+──────────────────────────────────────────────────────────────────────
+
+Scene: seed tumbling through the air, spinning, blue sky background, motion blur
+Mood: scary
+Characters: tiny seed
+
+🎨 DALL-E 3:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Seed Falling, seed tumbling through the air, spinning, blue sky background, motion blur, scary atmosphere featuring a cute tiny seed, white background, no text, professional children's book art
+
+🎨 MIDJOURNEY:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Seed Falling, seed tumbling through the air, spinning, blue sky background, motion blur, scary atmosphere featuring a cute tiny seed, white background, no text, professional children's book art --ar 3:4 --style raw --s 250
+
+🎨 STABLE DIFFUSION:
+   Prompt: Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Seed Falling, seed tumbling through the air, spinning, blue sky background, motion blur, scary atmosphere featuring a cute tiny seed, white background, no text, professional children's book art
+   Negative: photorealistic, 3d render, dark colors, scary, complex background, text, watermark
+
+
+──────────────────────────────────────────────────────────────────────
+PAGE 16: Seed Underground
+──────────────────────────────────────────────────────────────────────
+
+Scene: seed underground
+Mood: cheerful
+Characters: tiny seed
+
+🎨 DALL-E 3:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Seed Underground, seed underground, cheerful atmosphere featuring a cute tiny seed, white background, no text, professional children's book art
+
+🎨 MIDJOURNEY:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Seed Underground, seed underground, cheerful atmosphere featuring a cute tiny seed, white background, no text, professional children's book art --ar 3:4 --style raw --s 250
+
+🎨 STABLE DIFFUSION:
+   Prompt: Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Seed Underground, seed underground, cheerful atmosphere featuring a cute tiny seed, white background, no text, professional children's book art
+   Negative: photorealistic, 3d render, dark colors, scary, complex background, text, watermark
+
+
+──────────────────────────────────────────────────────────────────────
+PAGE 21: Rain And Sun
+──────────────────────────────────────────────────────────────────────
+
+Scene: rain and sun
+Mood: cheerful
+
+🎨 DALL-E 3:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Rain And Sun, rain and sun, cheerful atmosphere, white background, no text, professional children's book art
+
+🎨 MIDJOURNEY:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Rain And Sun, rain and sun, cheerful atmosphere, white background, no text, professional children's book art --ar 3:4 --style raw --s 250
+
+🎨 STABLE DIFFUSION:
+   Prompt: Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Rain And Sun, rain and sun, cheerful atmosphere, white background, no text, professional children's book art
+   Negative: photorealistic, 3d render, dark colors, scary, complex background, text, watermark
+
+
+──────────────────────────────────────────────────────────────────────
+PAGE 25: Little Sprout
+──────────────────────────────────────────────────────────────────────
+
+Scene: little sprout
+Mood: cheerful
+Characters: tiny seed
+
+🎨 DALL-E 3:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Little Sprout, little sprout, cheerful atmosphere featuring a cute tiny seed, white background, no text, professional children's book art
+
+🎨 MIDJOURNEY:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Little Sprout, little sprout, cheerful atmosphere featuring a cute tiny seed, white background, no text, professional children's book art --ar 3:4 --style raw --s 250
+
+🎨 STABLE DIFFUSION:
+   Prompt: Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Little Sprout, little sprout, cheerful atmosphere featuring a cute tiny seed, white background, no text, professional children's book art
+   Negative: photorealistic, 3d render, dark colors, scary, complex background, text, watermark
+
+
+──────────────────────────────────────────────────────────────────────
+PAGE 28: Growing Plant
+──────────────────────────────────────────────────────────────────────
+
+Scene: growing plant
+Mood: cheerful
+
+🎨 DALL-E 3:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Growing Plant, growing plant, cheerful atmosphere, white background, no text, professional children's book art
+
+🎨 MIDJOURNEY:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Growing Plant, growing plant, cheerful atmosphere, white background, no text, professional children's book art --ar 3:4 --style raw --s 250
+
+🎨 STABLE DIFFUSION:
+   Prompt: Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Growing Plant, growing plant, cheerful atmosphere, white background, no text, professional children's book art
+   Negative: photorealistic, 3d render, dark colors, scary, complex background, text, watermark
+
+
+──────────────────────────────────────────────────────────────────────
+PAGE 32: Beautiful Flower
+──────────────────────────────────────────────────────────────────────
+
+Scene: beautiful flower
+Mood: cheerful
+
+🎨 DALL-E 3:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Beautiful Flower, beautiful flower, cheerful atmosphere, white background, no text, professional children's book art
+
+🎨 MIDJOURNEY:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Beautiful Flower, beautiful flower, cheerful atmosphere, white background, no text, professional children's book art --ar 3:4 --style raw --s 250
+
+🎨 STABLE DIFFUSION:
+   Prompt: Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Beautiful Flower, beautiful flower, cheerful atmosphere, white background, no text, professional children's book art
+   Negative: photorealistic, 3d render, dark colors, scary, complex background, text, watermark
+

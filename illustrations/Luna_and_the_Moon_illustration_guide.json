@@ -1,0 +1,202 @@
+{
+  "book_title": "Luna and the Moon",
+  "art_style": "Watercolor Children's Book",
+  "style_description": "Soft watercolor illustrations with gentle washes, perfect for bedtime and nature stories",
+  "total_illustrations": 5,
+  "specifications": {
+    "resolution": "300 DPI minimum",
+    "color_mode": "CMYK for print",
+    "file_format": "PNG or TIFF with transparency",
+    "bleed": "0.125 inches if extending to edge",
+    "safe_zone": "Keep important elements 0.5 inches from trim"
+  },
+  "consistency_notes": [
+    "Maintain same art style across all illustrations",
+    "Keep character designs consistent (save reference images)",
+    "Use consistent color palette throughout",
+    "Ensure text areas remain clear for overlay"
+  ],
+  "illustrations": [
+    {
+      "page": 4,
+      "description": "Luna On Branch",
+      "scene": "cute gray owl on oak tree branch, night sky, stars beginning to appear",
+      "characters": [
+        "little gray owl"
+      ],
+      "mood": "cheerful",
+      "prompts": {
+        "dalle": {
+          "model": "DALL-E 3",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Luna On Branch, cute gray owl on oak tree branch, night sky, stars beginning to appear, cheerful atmosphere featuring a cute little gray owl, white background, no text, professional children's book art",
+          "size": "1024x1024",
+          "style": "natural"
+        },
+        "midjourney": {
+          "model": "Midjourney V6",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Luna On Branch, cute gray owl on oak tree branch, night sky, stars beginning to appear, cheerful atmosphere featuring a cute little gray owl, white background, no text, professional children's book art --ar 3:4 --style raw --s 250",
+          "parameters": "--ar 3:4 --style raw --s 250 --no text, watermark, signature"
+        },
+        "stable_diffusion": {
+          "model": "SDXL 1.0",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Luna On Branch, cute gray owl on oak tree branch, night sky, stars beginning to appear, cheerful atmosphere featuring a cute little gray owl, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "steps": 30,
+          "cfg_scale": 7.5,
+          "size": "768x1024"
+        },
+        "leonardo": {
+          "model": "Leonardo AI",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Luna On Branch, cute gray owl on oak tree branch, night sky, stars beginning to appear, cheerful atmosphere featuring a cute little gray owl, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "style": "Children's Book Illustration",
+          "alchemy": true
+        }
+      }
+    },
+    {
+      "page": 7,
+      "description": "Moon Rising",
+      "scene": "full moon rising over forest, silver glow, twilight colors",
+      "characters": [],
+      "mood": "peaceful",
+      "prompts": {
+        "dalle": {
+          "model": "DALL-E 3",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Moon Rising, full moon rising over forest, silver glow, twilight colors, peaceful atmosphere, white background, no text, professional children's book art",
+          "size": "1024x1024",
+          "style": "natural"
+        },
+        "midjourney": {
+          "model": "Midjourney V6",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Moon Rising, full moon rising over forest, silver glow, twilight colors, peaceful atmosphere, white background, no text, professional children's book art --ar 3:4 --style raw --s 250",
+          "parameters": "--ar 3:4 --style raw --s 250 --no text, watermark, signature"
+        },
+        "stable_diffusion": {
+          "model": "SDXL 1.0",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Moon Rising, full moon rising over forest, silver glow, twilight colors, peaceful atmosphere, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "steps": 30,
+          "cfg_scale": 7.5,
+          "size": "768x1024"
+        },
+        "leonardo": {
+          "model": "Leonardo AI",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Moon Rising, full moon rising over forest, silver glow, twilight colors, peaceful atmosphere, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "style": "Children's Book Illustration",
+          "alchemy": true
+        }
+      }
+    },
+    {
+      "page": 13,
+      "description": "Owl Whispering",
+      "scene": "owl with big eyes, tree branches, soft wind",
+      "characters": [
+        "little gray owl"
+      ],
+      "mood": "cheerful",
+      "prompts": {
+        "dalle": {
+          "model": "DALL-E 3",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Owl Whispering, owl with big eyes, tree branches, soft wind, cheerful atmosphere featuring a cute little gray owl, white background, no text, professional children's book art",
+          "size": "1024x1024",
+          "style": "natural"
+        },
+        "midjourney": {
+          "model": "Midjourney V6",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Owl Whispering, owl with big eyes, tree branches, soft wind, cheerful atmosphere featuring a cute little gray owl, white background, no text, professional children's book art --ar 3:4 --style raw --s 250",
+          "parameters": "--ar 3:4 --style raw --s 250 --no text, watermark, signature"
+        },
+        "stable_diffusion": {
+          "model": "SDXL 1.0",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Owl Whispering, owl with big eyes, tree branches, soft wind, cheerful atmosphere featuring a cute little gray owl, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "steps": 30,
+          "cfg_scale": 7.5,
+          "size": "768x1024"
+        },
+        "leonardo": {
+          "model": "Leonardo AI",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Owl Whispering, owl with big eyes, tree branches, soft wind, cheerful atmosphere featuring a cute little gray owl, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "style": "Children's Book Illustration",
+          "alchemy": true
+        }
+      }
+    },
+    {
+      "page": 18,
+      "description": "Starry Sky",
+      "scene": "night sky filled with stars, crescent moon, deep blue and purple",
+      "characters": [],
+      "mood": "cheerful",
+      "prompts": {
+        "dalle": {
+          "model": "DALL-E 3",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Starry Sky, night sky filled with stars, crescent moon, deep blue and purple, cheerful atmosphere, white background, no text, professional children's book art",
+          "size": "1024x1024",
+          "style": "natural"
+        },
+        "midjourney": {
+          "model": "Midjourney V6",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Starry Sky, night sky filled with stars, crescent moon, deep blue and purple, cheerful atmosphere, white background, no text, professional children's book art --ar 3:4 --style raw --s 250",
+          "parameters": "--ar 3:4 --style raw --s 250 --no text, watermark, signature"
+        },
+        "stable_diffusion": {
+          "model": "SDXL 1.0",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Starry Sky, night sky filled with stars, crescent moon, deep blue and purple, cheerful atmosphere, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "steps": 30,
+          "cfg_scale": 7.5,
+          "size": "768x1024"
+        },
+        "leonardo": {
+          "model": "Leonardo AI",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Starry Sky, night sky filled with stars, crescent moon, deep blue and purple, cheerful atmosphere, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "style": "Children's Book Illustration",
+          "alchemy": true
+        }
+      }
+    },
+    {
+      "page": 23,
+      "description": "Luna Sleeping",
+      "scene": "luna sleeping",
+      "characters": [
+        "little gray owl"
+      ],
+      "mood": "peaceful",
+      "prompts": {
+        "dalle": {
+          "model": "DALL-E 3",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Luna Sleeping, luna sleeping, peaceful atmosphere featuring a cute little gray owl, white background, no text, professional children's book art",
+          "size": "1024x1024",
+          "style": "natural"
+        },
+        "midjourney": {
+          "model": "Midjourney V6",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Luna Sleeping, luna sleeping, peaceful atmosphere featuring a cute little gray owl, white background, no text, professional children's book art --ar 3:4 --style raw --s 250",
+          "parameters": "--ar 3:4 --style raw --s 250 --no text, watermark, signature"
+        },
+        "stable_diffusion": {
+          "model": "SDXL 1.0",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Luna Sleeping, luna sleeping, peaceful atmosphere featuring a cute little gray owl, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "steps": 30,
+          "cfg_scale": 7.5,
+          "size": "768x1024"
+        },
+        "leonardo": {
+          "model": "Leonardo AI",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Luna Sleeping, luna sleeping, peaceful atmosphere featuring a cute little gray owl, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "style": "Children's Book Illustration",
+          "alchemy": true
+        }
+      }
+    }
+  ]
+}

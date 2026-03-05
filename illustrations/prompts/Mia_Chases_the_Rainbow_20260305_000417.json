@@ -1,0 +1,185 @@
+{
+  "book_title": "Mia Chases the Rainbow",
+  "art_style": "Watercolor Children's Book",
+  "illustrations": [
+    {
+      "page": 4,
+      "description": "Mia Playing",
+      "scene": "mia playing",
+      "characters": [
+        "golden puppy"
+      ],
+      "mood": "cheerful",
+      "prompts": {
+        "dalle": {
+          "model": "DALL-E 3",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Mia Playing, mia playing, cheerful atmosphere featuring a cute golden puppy, white background, no text, professional children's book art",
+          "size": "1024x1024",
+          "style": "natural"
+        },
+        "midjourney": {
+          "model": "Midjourney V6",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Mia Playing, mia playing, cheerful atmosphere featuring a cute golden puppy, white background, no text, professional children's book art --ar 3:4 --style raw --s 250",
+          "parameters": "--ar 3:4 --style raw --s 250 --no text, watermark, signature"
+        },
+        "stable_diffusion": {
+          "model": "SDXL 1.0",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Mia Playing, mia playing, cheerful atmosphere featuring a cute golden puppy, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "steps": 30,
+          "cfg_scale": 7.5,
+          "size": "768x1024"
+        },
+        "leonardo": {
+          "model": "Leonardo AI",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Mia Playing, mia playing, cheerful atmosphere featuring a cute golden puppy, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "style": "Children's Book Illustration",
+          "alchemy": true
+        }
+      }
+    },
+    {
+      "page": 7,
+      "description": "Rainbow Sky",
+      "scene": "rainbow sky",
+      "characters": [],
+      "mood": "joyful",
+      "prompts": {
+        "dalle": {
+          "model": "DALL-E 3",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Rainbow Sky, rainbow sky, joyful atmosphere, white background, no text, professional children's book art",
+          "size": "1024x1024",
+          "style": "natural"
+        },
+        "midjourney": {
+          "model": "Midjourney V6",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Rainbow Sky, rainbow sky, joyful atmosphere, white background, no text, professional children's book art --ar 3:4 --style raw --s 250",
+          "parameters": "--ar 3:4 --style raw --s 250 --no text, watermark, signature"
+        },
+        "stable_diffusion": {
+          "model": "SDXL 1.0",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Rainbow Sky, rainbow sky, joyful atmosphere, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "steps": 30,
+          "cfg_scale": 7.5,
+          "size": "768x1024"
+        },
+        "leonardo": {
+          "model": "Leonardo AI",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Rainbow Sky, rainbow sky, joyful atmosphere, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "style": "Children's Book Illustration",
+          "alchemy": true
+        }
+      }
+    },
+    {
+      "page": 13,
+      "description": "Running Puppy",
+      "scene": "running puppy",
+      "characters": [
+        "golden puppy"
+      ],
+      "mood": "cheerful",
+      "prompts": {
+        "dalle": {
+          "model": "DALL-E 3",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Running Puppy, running puppy, cheerful atmosphere featuring a cute golden puppy, white background, no text, professional children's book art",
+          "size": "1024x1024",
+          "style": "natural"
+        },
+        "midjourney": {
+          "model": "Midjourney V6",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Running Puppy, running puppy, cheerful atmosphere featuring a cute golden puppy, white background, no text, professional children's book art --ar 3:4 --style raw --s 250",
+          "parameters": "--ar 3:4 --style raw --s 250 --no text, watermark, signature"
+        },
+        "stable_diffusion": {
+          "model": "SDXL 1.0",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Running Puppy, running puppy, cheerful atmosphere featuring a cute golden puppy, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "steps": 30,
+          "cfg_scale": 7.5,
+          "size": "768x1024"
+        },
+        "leonardo": {
+          "model": "Leonardo AI",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Running Puppy, running puppy, cheerful atmosphere featuring a cute golden puppy, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "style": "Children's Book Illustration",
+          "alchemy": true
+        }
+      }
+    },
+    {
+      "page": 18,
+      "description": "Friend Waiting",
+      "scene": "friend waiting",
+      "characters": [],
+      "mood": "patient",
+      "prompts": {
+        "dalle": {
+          "model": "DALL-E 3",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Friend Waiting, friend waiting, patient atmosphere, white background, no text, professional children's book art",
+          "size": "1024x1024",
+          "style": "natural"
+        },
+        "midjourney": {
+          "model": "Midjourney V6",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Friend Waiting, friend waiting, patient atmosphere, white background, no text, professional children's book art --ar 3:4 --style raw --s 250",
+          "parameters": "--ar 3:4 --style raw --s 250 --no text, watermark, signature"
+        },
+        "stable_diffusion": {
+          "model": "SDXL 1.0",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Friend Waiting, friend waiting, patient atmosphere, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "steps": 30,
+          "cfg_scale": 7.5,
+          "size": "768x1024"
+        },
+        "leonardo": {
+          "model": "Leonardo AI",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Friend Waiting, friend waiting, patient atmosphere, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "style": "Children's Book Illustration",
+          "alchemy": true
+        }
+      }
+    },
+    {
+      "page": 24,
+      "description": "Friends Playing",
+      "scene": "friends playing",
+      "characters": [],
+      "mood": "cheerful",
+      "prompts": {
+        "dalle": {
+          "model": "DALL-E 3",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Friends Playing, friends playing, cheerful atmosphere, white background, no text, professional children's book art",
+          "size": "1024x1024",
+          "style": "natural"
+        },
+        "midjourney": {
+          "model": "Midjourney V6",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Friends Playing, friends playing, cheerful atmosphere, white background, no text, professional children's book art --ar 3:4 --style raw --s 250",
+          "parameters": "--ar 3:4 --style raw --s 250 --no text, watermark, signature"
+        },
+        "stable_diffusion": {
+          "model": "SDXL 1.0",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Friends Playing, friends playing, cheerful atmosphere, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "steps": 30,
+          "cfg_scale": 7.5,
+          "size": "768x1024"
+        },
+        "leonardo": {
+          "model": "Leonardo AI",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Friends Playing, friends playing, cheerful atmosphere, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "style": "Children's Book Illustration",
+          "alchemy": true
+        }
+      }
+    }
+  ]
+}

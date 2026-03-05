@@ -1,0 +1,286 @@
+{
+  "book_title": "La Semillita Valiente",
+  "art_style": "Watercolor Children's Book",
+  "illustrations": [
+    {
+      "page": 4,
+      "description": "Semilla En Flor",
+      "scene": "semilla en flor",
+      "characters": [],
+      "mood": "cheerful",
+      "prompts": {
+        "dalle": {
+          "model": "DALL-E 3",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Semilla En Flor, semilla en flor, cheerful atmosphere, white background, no text, professional children's book art",
+          "size": "1024x1024",
+          "style": "natural"
+        },
+        "midjourney": {
+          "model": "Midjourney V6",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Semilla En Flor, semilla en flor, cheerful atmosphere, white background, no text, professional children's book art --ar 3:4 --style raw --s 250",
+          "parameters": "--ar 3:4 --style raw --s 250 --no text, watermark, signature"
+        },
+        "stable_diffusion": {
+          "model": "SDXL 1.0",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Semilla En Flor, semilla en flor, cheerful atmosphere, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "steps": 30,
+          "cfg_scale": 7.5,
+          "size": "768x1024"
+        },
+        "leonardo": {
+          "model": "Leonardo AI",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Semilla En Flor, semilla en flor, cheerful atmosphere, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "style": "Children's Book Illustration",
+          "alchemy": true
+        }
+      }
+    },
+    {
+      "page": 7,
+      "description": "Viento Acercandose",
+      "scene": "viento acercandose",
+      "characters": [],
+      "mood": "cheerful",
+      "prompts": {
+        "dalle": {
+          "model": "DALL-E 3",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Viento Acercandose, viento acercandose, cheerful atmosphere, white background, no text, professional children's book art",
+          "size": "1024x1024",
+          "style": "natural"
+        },
+        "midjourney": {
+          "model": "Midjourney V6",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Viento Acercandose, viento acercandose, cheerful atmosphere, white background, no text, professional children's book art --ar 3:4 --style raw --s 250",
+          "parameters": "--ar 3:4 --style raw --s 250 --no text, watermark, signature"
+        },
+        "stable_diffusion": {
+          "model": "SDXL 1.0",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Viento Acercandose, viento acercandose, cheerful atmosphere, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "steps": 30,
+          "cfg_scale": 7.5,
+          "size": "768x1024"
+        },
+        "leonardo": {
+          "model": "Leonardo AI",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Viento Acercandose, viento acercandose, cheerful atmosphere, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "style": "Children's Book Illustration",
+          "alchemy": true
+        }
+      }
+    },
+    {
+      "page": 11,
+      "description": "Semilla Cayendo",
+      "scene": "semilla cayendo",
+      "characters": [],
+      "mood": "cheerful",
+      "prompts": {
+        "dalle": {
+          "model": "DALL-E 3",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Semilla Cayendo, semilla cayendo, cheerful atmosphere, white background, no text, professional children's book art",
+          "size": "1024x1024",
+          "style": "natural"
+        },
+        "midjourney": {
+          "model": "Midjourney V6",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Semilla Cayendo, semilla cayendo, cheerful atmosphere, white background, no text, professional children's book art --ar 3:4 --style raw --s 250",
+          "parameters": "--ar 3:4 --style raw --s 250 --no text, watermark, signature"
+        },
+        "stable_diffusion": {
+          "model": "SDXL 1.0",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Semilla Cayendo, semilla cayendo, cheerful atmosphere, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "steps": 30,
+          "cfg_scale": 7.5,
+          "size": "768x1024"
+        },
+        "leonardo": {
+          "model": "Leonardo AI",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Semilla Cayendo, semilla cayendo, cheerful atmosphere, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "style": "Children's Book Illustration",
+          "alchemy": true
+        }
+      }
+    },
+    {
+      "page": 16,
+      "description": "Semilla Bajo Tierra",
+      "scene": "semilla bajo tierra",
+      "characters": [],
+      "mood": "cheerful",
+      "prompts": {
+        "dalle": {
+          "model": "DALL-E 3",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Semilla Bajo Tierra, semilla bajo tierra, cheerful atmosphere, white background, no text, professional children's book art",
+          "size": "1024x1024",
+          "style": "natural"
+        },
+        "midjourney": {
+          "model": "Midjourney V6",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Semilla Bajo Tierra, semilla bajo tierra, cheerful atmosphere, white background, no text, professional children's book art --ar 3:4 --style raw --s 250",
+          "parameters": "--ar 3:4 --style raw --s 250 --no text, watermark, signature"
+        },
+        "stable_diffusion": {
+          "model": "SDXL 1.0",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Semilla Bajo Tierra, semilla bajo tierra, cheerful atmosphere, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "steps": 30,
+          "cfg_scale": 7.5,
+          "size": "768x1024"
+        },
+        "leonardo": {
+          "model": "Leonardo AI",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Semilla Bajo Tierra, semilla bajo tierra, cheerful atmosphere, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "style": "Children's Book Illustration",
+          "alchemy": true
+        }
+      }
+    },
+    {
+      "page": 21,
+      "description": "Lluvia Y Sol",
+      "scene": "lluvia y sol",
+      "characters": [],
+      "mood": "cheerful",
+      "prompts": {
+        "dalle": {
+          "model": "DALL-E 3",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Lluvia Y Sol, lluvia y sol, cheerful atmosphere, white background, no text, professional children's book art",
+          "size": "1024x1024",
+          "style": "natural"
+        },
+        "midjourney": {
+          "model": "Midjourney V6",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Lluvia Y Sol, lluvia y sol, cheerful atmosphere, white background, no text, professional children's book art --ar 3:4 --style raw --s 250",
+          "parameters": "--ar 3:4 --style raw --s 250 --no text, watermark, signature"
+        },
+        "stable_diffusion": {
+          "model": "SDXL 1.0",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Lluvia Y Sol, lluvia y sol, cheerful atmosphere, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "steps": 30,
+          "cfg_scale": 7.5,
+          "size": "768x1024"
+        },
+        "leonardo": {
+          "model": "Leonardo AI",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Lluvia Y Sol, lluvia y sol, cheerful atmosphere, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "style": "Children's Book Illustration",
+          "alchemy": true
+        }
+      }
+    },
+    {
+      "page": 25,
+      "description": "Peque\u00f1o Brote",
+      "scene": "peque\u00f1o brote",
+      "characters": [],
+      "mood": "cheerful",
+      "prompts": {
+        "dalle": {
+          "model": "DALL-E 3",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Peque\u00f1o Brote, peque\u00f1o brote, cheerful atmosphere, white background, no text, professional children's book art",
+          "size": "1024x1024",
+          "style": "natural"
+        },
+        "midjourney": {
+          "model": "Midjourney V6",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Peque\u00f1o Brote, peque\u00f1o brote, cheerful atmosphere, white background, no text, professional children's book art --ar 3:4 --style raw --s 250",
+          "parameters": "--ar 3:4 --style raw --s 250 --no text, watermark, signature"
+        },
+        "stable_diffusion": {
+          "model": "SDXL 1.0",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Peque\u00f1o Brote, peque\u00f1o brote, cheerful atmosphere, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "steps": 30,
+          "cfg_scale": 7.5,
+          "size": "768x1024"
+        },
+        "leonardo": {
+          "model": "Leonardo AI",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Peque\u00f1o Brote, peque\u00f1o brote, cheerful atmosphere, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "style": "Children's Book Illustration",
+          "alchemy": true
+        }
+      }
+    },
+    {
+      "page": 28,
+      "description": "Planta Creciendo",
+      "scene": "planta creciendo",
+      "characters": [],
+      "mood": "cheerful",
+      "prompts": {
+        "dalle": {
+          "model": "DALL-E 3",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Planta Creciendo, planta creciendo, cheerful atmosphere, white background, no text, professional children's book art",
+          "size": "1024x1024",
+          "style": "natural"
+        },
+        "midjourney": {
+          "model": "Midjourney V6",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Planta Creciendo, planta creciendo, cheerful atmosphere, white background, no text, professional children's book art --ar 3:4 --style raw --s 250",
+          "parameters": "--ar 3:4 --style raw --s 250 --no text, watermark, signature"
+        },
+        "stable_diffusion": {
+          "model": "SDXL 1.0",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Planta Creciendo, planta creciendo, cheerful atmosphere, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "steps": 30,
+          "cfg_scale": 7.5,
+          "size": "768x1024"
+        },
+        "leonardo": {
+          "model": "Leonardo AI",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Planta Creciendo, planta creciendo, cheerful atmosphere, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "style": "Children's Book Illustration",
+          "alchemy": true
+        }
+      }
+    },
+    {
+      "page": 32,
+      "description": "Hermosa Flor",
+      "scene": "hermosa flor",
+      "characters": [],
+      "mood": "cheerful",
+      "prompts": {
+        "dalle": {
+          "model": "DALL-E 3",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Hermosa Flor, hermosa flor, cheerful atmosphere, white background, no text, professional children's book art",
+          "size": "1024x1024",
+          "style": "natural"
+        },
+        "midjourney": {
+          "model": "Midjourney V6",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Hermosa Flor, hermosa flor, cheerful atmosphere, white background, no text, professional children's book art --ar 3:4 --style raw --s 250",
+          "parameters": "--ar 3:4 --style raw --s 250 --no text, watermark, signature"
+        },
+        "stable_diffusion": {
+          "model": "SDXL 1.0",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Hermosa Flor, hermosa flor, cheerful atmosphere, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "steps": 30,
+          "cfg_scale": 7.5,
+          "size": "768x1024"
+        },
+        "leonardo": {
+          "model": "Leonardo AI",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Hermosa Flor, hermosa flor, cheerful atmosphere, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "style": "Children's Book Illustration",
+          "alchemy": true
+        }
+      }
+    }
+  ]
+}

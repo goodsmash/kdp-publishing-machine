@@ -1,0 +1,187 @@
+{
+  "book_title": "Sammy Finds His Shell",
+  "art_style": "Watercolor Children's Book",
+  "illustrations": [
+    {
+      "page": 4,
+      "description": "Sammy Beach",
+      "scene": "sammy beach",
+      "characters": [
+        "small hermit crab"
+      ],
+      "mood": "cheerful",
+      "prompts": {
+        "dalle": {
+          "model": "DALL-E 3",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Sammy Beach, sammy beach, cheerful atmosphere featuring a cute small hermit crab, white background, no text, professional children's book art",
+          "size": "1024x1024",
+          "style": "natural"
+        },
+        "midjourney": {
+          "model": "Midjourney V6",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Sammy Beach, sammy beach, cheerful atmosphere featuring a cute small hermit crab, white background, no text, professional children's book art --ar 3:4 --style raw --s 250",
+          "parameters": "--ar 3:4 --style raw --s 250 --no text, watermark, signature"
+        },
+        "stable_diffusion": {
+          "model": "SDXL 1.0",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Sammy Beach, sammy beach, cheerful atmosphere featuring a cute small hermit crab, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "steps": 30,
+          "cfg_scale": 7.5,
+          "size": "768x1024"
+        },
+        "leonardo": {
+          "model": "Leonardo AI",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Sammy Beach, sammy beach, cheerful atmosphere featuring a cute small hermit crab, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "style": "Children's Book Illustration",
+          "alchemy": true
+        }
+      }
+    },
+    {
+      "page": 8,
+      "description": "Brown Shell",
+      "scene": "brown shell",
+      "characters": [],
+      "mood": "cheerful",
+      "prompts": {
+        "dalle": {
+          "model": "DALL-E 3",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Brown Shell, brown shell, cheerful atmosphere, white background, no text, professional children's book art",
+          "size": "1024x1024",
+          "style": "natural"
+        },
+        "midjourney": {
+          "model": "Midjourney V6",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Brown Shell, brown shell, cheerful atmosphere, white background, no text, professional children's book art --ar 3:4 --style raw --s 250",
+          "parameters": "--ar 3:4 --style raw --s 250 --no text, watermark, signature"
+        },
+        "stable_diffusion": {
+          "model": "SDXL 1.0",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Brown Shell, brown shell, cheerful atmosphere, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "steps": 30,
+          "cfg_scale": 7.5,
+          "size": "768x1024"
+        },
+        "leonardo": {
+          "model": "Leonardo AI",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Brown Shell, brown shell, cheerful atmosphere, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "style": "Children's Book Illustration",
+          "alchemy": true
+        }
+      }
+    },
+    {
+      "page": 12,
+      "description": "Sad Crab",
+      "scene": "sad crab",
+      "characters": [
+        "small hermit crab"
+      ],
+      "mood": "cheerful",
+      "prompts": {
+        "dalle": {
+          "model": "DALL-E 3",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Sad Crab, sad crab, cheerful atmosphere featuring a cute small hermit crab, white background, no text, professional children's book art",
+          "size": "1024x1024",
+          "style": "natural"
+        },
+        "midjourney": {
+          "model": "Midjourney V6",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Sad Crab, sad crab, cheerful atmosphere featuring a cute small hermit crab, white background, no text, professional children's book art --ar 3:4 --style raw --s 250",
+          "parameters": "--ar 3:4 --style raw --s 250 --no text, watermark, signature"
+        },
+        "stable_diffusion": {
+          "model": "SDXL 1.0",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Sad Crab, sad crab, cheerful atmosphere featuring a cute small hermit crab, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "steps": 30,
+          "cfg_scale": 7.5,
+          "size": "768x1024"
+        },
+        "leonardo": {
+          "model": "Leonardo AI",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Sad Crab, sad crab, cheerful atmosphere featuring a cute small hermit crab, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "style": "Children's Book Illustration",
+          "alchemy": true
+        }
+      }
+    },
+    {
+      "page": 16,
+      "description": "Sparkly Shell",
+      "scene": "sparkly shell",
+      "characters": [],
+      "mood": "cheerful",
+      "prompts": {
+        "dalle": {
+          "model": "DALL-E 3",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Sparkly Shell, sparkly shell, cheerful atmosphere, white background, no text, professional children's book art",
+          "size": "1024x1024",
+          "style": "natural"
+        },
+        "midjourney": {
+          "model": "Midjourney V6",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Sparkly Shell, sparkly shell, cheerful atmosphere, white background, no text, professional children's book art --ar 3:4 --style raw --s 250",
+          "parameters": "--ar 3:4 --style raw --s 250 --no text, watermark, signature"
+        },
+        "stable_diffusion": {
+          "model": "SDXL 1.0",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Sparkly Shell, sparkly shell, cheerful atmosphere, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "steps": 30,
+          "cfg_scale": 7.5,
+          "size": "768x1024"
+        },
+        "leonardo": {
+          "model": "Leonardo AI",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Sparkly Shell, sparkly shell, cheerful atmosphere, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "style": "Children's Book Illustration",
+          "alchemy": true
+        }
+      }
+    },
+    {
+      "page": 23,
+      "description": "Happy Sammy",
+      "scene": "happy sammy",
+      "characters": [
+        "small hermit crab"
+      ],
+      "mood": "cheerful",
+      "prompts": {
+        "dalle": {
+          "model": "DALL-E 3",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Happy Sammy, happy sammy, cheerful atmosphere featuring a cute small hermit crab, white background, no text, professional children's book art",
+          "size": "1024x1024",
+          "style": "natural"
+        },
+        "midjourney": {
+          "model": "Midjourney V6",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Happy Sammy, happy sammy, cheerful atmosphere featuring a cute small hermit crab, white background, no text, professional children's book art --ar 3:4 --style raw --s 250",
+          "parameters": "--ar 3:4 --style raw --s 250 --no text, watermark, signature"
+        },
+        "stable_diffusion": {
+          "model": "SDXL 1.0",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Happy Sammy, happy sammy, cheerful atmosphere featuring a cute small hermit crab, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "steps": 30,
+          "cfg_scale": 7.5,
+          "size": "768x1024"
+        },
+        "leonardo": {
+          "model": "Leonardo AI",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Happy Sammy, happy sammy, cheerful atmosphere featuring a cute small hermit crab, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "style": "Children's Book Illustration",
+          "alchemy": true
+        }
+      }
+    }
+  ]
+}

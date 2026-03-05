@@ -1,0 +1,99 @@
+======================================================================
+ILLUSTRATION PROMPTS FOR: Luna and the Moon
+Art Style: Watercolor Children's Book
+Generated: 2026-03-05 00:04
+======================================================================
+
+
+──────────────────────────────────────────────────────────────────────
+PAGE 4: Luna On Branch
+──────────────────────────────────────────────────────────────────────
+
+Scene: cute gray owl on oak tree branch, night sky, stars beginning to appear
+Mood: cheerful
+Characters: little gray owl
+
+🎨 DALL-E 3:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Luna On Branch, cute gray owl on oak tree branch, night sky, stars beginning to appear, cheerful atmosphere featuring a cute little gray owl, white background, no text, professional children's book art
+
+🎨 MIDJOURNEY:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Luna On Branch, cute gray owl on oak tree branch, night sky, stars beginning to appear, cheerful atmosphere featuring a cute little gray owl, white background, no text, professional children's book art --ar 3:4 --style raw --s 250
+
+🎨 STABLE DIFFUSION:
+   Prompt: Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Luna On Branch, cute gray owl on oak tree branch, night sky, stars beginning to appear, cheerful atmosphere featuring a cute little gray owl, white background, no text, professional children's book art
+   Negative: photorealistic, 3d render, dark colors, scary, complex background, text, watermark
+
+
+──────────────────────────────────────────────────────────────────────
+PAGE 7: Moon Rising
+──────────────────────────────────────────────────────────────────────
+
+Scene: full moon rising over forest, silver glow, twilight colors
+Mood: peaceful
+
+🎨 DALL-E 3:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Moon Rising, full moon rising over forest, silver glow, twilight colors, peaceful atmosphere, white background, no text, professional children's book art
+
+🎨 MIDJOURNEY:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Moon Rising, full moon rising over forest, silver glow, twilight colors, peaceful atmosphere, white background, no text, professional children's book art --ar 3:4 --style raw --s 250
+
+🎨 STABLE DIFFUSION:
+   Prompt: Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Moon Rising, full moon rising over forest, silver glow, twilight colors, peaceful atmosphere, white background, no text, professional children's book art
+   Negative: photorealistic, 3d render, dark colors, scary, complex background, text, watermark
+
+
+──────────────────────────────────────────────────────────────────────
+PAGE 13: Owl Whispering
+──────────────────────────────────────────────────────────────────────
+
+Scene: owl with big eyes, tree branches, soft wind
+Mood: cheerful
+Characters: little gray owl
+
+🎨 DALL-E 3:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Owl Whispering, owl with big eyes, tree branches, soft wind, cheerful atmosphere featuring a cute little gray owl, white background, no text, professional children's book art
+
+🎨 MIDJOURNEY:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Owl Whispering, owl with big eyes, tree branches, soft wind, cheerful atmosphere featuring a cute little gray owl, white background, no text, professional children's book art --ar 3:4 --style raw --s 250
+
+🎨 STABLE DIFFUSION:
+   Prompt: Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Owl Whispering, owl with big eyes, tree branches, soft wind, cheerful atmosphere featuring a cute little gray owl, white background, no text, professional children's book art
+   Negative: photorealistic, 3d render, dark colors, scary, complex background, text, watermark
+
+
+──────────────────────────────────────────────────────────────────────
+PAGE 18: Starry Sky
+──────────────────────────────────────────────────────────────────────
+
+Scene: night sky filled with stars, crescent moon, deep blue and purple
+Mood: cheerful
+
+🎨 DALL-E 3:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Starry Sky, night sky filled with stars, crescent moon, deep blue and purple, cheerful atmosphere, white background, no text, professional children's book art
+
+🎨 MIDJOURNEY:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Starry Sky, night sky filled with stars, crescent moon, deep blue and purple, cheerful atmosphere, white background, no text, professional children's book art --ar 3:4 --style raw --s 250
+
+🎨 STABLE DIFFUSION:
+   Prompt: Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Starry Sky, night sky filled with stars, crescent moon, deep blue and purple, cheerful atmosphere, white background, no text, professional children's book art
+   Negative: photorealistic, 3d render, dark colors, scary, complex background, text, watermark
+
+
+──────────────────────────────────────────────────────────────────────
+PAGE 23: Luna Sleeping
+──────────────────────────────────────────────────────────────────────
+
+Scene: luna sleeping
+Mood: peaceful
+Characters: little gray owl
+
+🎨 DALL-E 3:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Luna Sleeping, luna sleeping, peaceful atmosphere featuring a cute little gray owl, white background, no text, professional children's book art
+
+🎨 MIDJOURNEY:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Luna Sleeping, luna sleeping, peaceful atmosphere featuring a cute little gray owl, white background, no text, professional children's book art --ar 3:4 --style raw --s 250
+
+🎨 STABLE DIFFUSION:
+   Prompt: Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Luna Sleeping, luna sleeping, peaceful atmosphere featuring a cute little gray owl, white background, no text, professional children's book art
+   Negative: photorealistic, 3d render, dark colors, scary, complex background, text, watermark
+

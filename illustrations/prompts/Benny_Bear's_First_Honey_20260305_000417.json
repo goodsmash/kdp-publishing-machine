@@ -1,0 +1,187 @@
+{
+  "book_title": "Benny Bear's First Honey",
+  "art_style": "Watercolor Children's Book",
+  "illustrations": [
+    {
+      "page": 4,
+      "description": "Benny In Cave",
+      "scene": "benny in cave",
+      "characters": [
+        "brown bear cub"
+      ],
+      "mood": "cheerful",
+      "prompts": {
+        "dalle": {
+          "model": "DALL-E 3",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Benny In Cave, benny in cave, cheerful atmosphere featuring a cute brown bear cub, white background, no text, professional children's book art",
+          "size": "1024x1024",
+          "style": "natural"
+        },
+        "midjourney": {
+          "model": "Midjourney V6",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Benny In Cave, benny in cave, cheerful atmosphere featuring a cute brown bear cub, white background, no text, professional children's book art --ar 3:4 --style raw --s 250",
+          "parameters": "--ar 3:4 --style raw --s 250 --no text, watermark, signature"
+        },
+        "stable_diffusion": {
+          "model": "SDXL 1.0",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Benny In Cave, benny in cave, cheerful atmosphere featuring a cute brown bear cub, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "steps": 30,
+          "cfg_scale": 7.5,
+          "size": "768x1024"
+        },
+        "leonardo": {
+          "model": "Leonardo AI",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Benny In Cave, benny in cave, cheerful atmosphere featuring a cute brown bear cub, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "style": "Children's Book Illustration",
+          "alchemy": true
+        }
+      }
+    },
+    {
+      "page": 8,
+      "description": "Honey Smell",
+      "scene": "honey smell",
+      "characters": [],
+      "mood": "excited",
+      "prompts": {
+        "dalle": {
+          "model": "DALL-E 3",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Honey Smell, honey smell, excited atmosphere, white background, no text, professional children's book art",
+          "size": "1024x1024",
+          "style": "natural"
+        },
+        "midjourney": {
+          "model": "Midjourney V6",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Honey Smell, honey smell, excited atmosphere, white background, no text, professional children's book art --ar 3:4 --style raw --s 250",
+          "parameters": "--ar 3:4 --style raw --s 250 --no text, watermark, signature"
+        },
+        "stable_diffusion": {
+          "model": "SDXL 1.0",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Honey Smell, honey smell, excited atmosphere, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "steps": 30,
+          "cfg_scale": 7.5,
+          "size": "768x1024"
+        },
+        "leonardo": {
+          "model": "Leonardo AI",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Honey Smell, honey smell, excited atmosphere, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "style": "Children's Book Illustration",
+          "alchemy": true
+        }
+      }
+    },
+    {
+      "page": 13,
+      "description": "Honey Tree",
+      "scene": "honey tree",
+      "characters": [],
+      "mood": "excited",
+      "prompts": {
+        "dalle": {
+          "model": "DALL-E 3",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Honey Tree, honey tree, excited atmosphere, white background, no text, professional children's book art",
+          "size": "1024x1024",
+          "style": "natural"
+        },
+        "midjourney": {
+          "model": "Midjourney V6",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Honey Tree, honey tree, excited atmosphere, white background, no text, professional children's book art --ar 3:4 --style raw --s 250",
+          "parameters": "--ar 3:4 --style raw --s 250 --no text, watermark, signature"
+        },
+        "stable_diffusion": {
+          "model": "SDXL 1.0",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Honey Tree, honey tree, excited atmosphere, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "steps": 30,
+          "cfg_scale": 7.5,
+          "size": "768x1024"
+        },
+        "leonardo": {
+          "model": "Leonardo AI",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Honey Tree, honey tree, excited atmosphere, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "style": "Children's Book Illustration",
+          "alchemy": true
+        }
+      }
+    },
+    {
+      "page": 17,
+      "description": "Climbing Bear",
+      "scene": "climbing bear",
+      "characters": [
+        "brown bear cub"
+      ],
+      "mood": "cheerful",
+      "prompts": {
+        "dalle": {
+          "model": "DALL-E 3",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Climbing Bear, climbing bear, cheerful atmosphere featuring a cute brown bear cub, white background, no text, professional children's book art",
+          "size": "1024x1024",
+          "style": "natural"
+        },
+        "midjourney": {
+          "model": "Midjourney V6",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Climbing Bear, climbing bear, cheerful atmosphere featuring a cute brown bear cub, white background, no text, professional children's book art --ar 3:4 --style raw --s 250",
+          "parameters": "--ar 3:4 --style raw --s 250 --no text, watermark, signature"
+        },
+        "stable_diffusion": {
+          "model": "SDXL 1.0",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Climbing Bear, climbing bear, cheerful atmosphere featuring a cute brown bear cub, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "steps": 30,
+          "cfg_scale": 7.5,
+          "size": "768x1024"
+        },
+        "leonardo": {
+          "model": "Leonardo AI",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Climbing Bear, climbing bear, cheerful atmosphere featuring a cute brown bear cub, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "style": "Children's Book Illustration",
+          "alchemy": true
+        }
+      }
+    },
+    {
+      "page": 23,
+      "description": "Happy Bear",
+      "scene": "happy bear",
+      "characters": [
+        "brown bear cub"
+      ],
+      "mood": "cheerful",
+      "prompts": {
+        "dalle": {
+          "model": "DALL-E 3",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Happy Bear, happy bear, cheerful atmosphere featuring a cute brown bear cub, white background, no text, professional children's book art",
+          "size": "1024x1024",
+          "style": "natural"
+        },
+        "midjourney": {
+          "model": "Midjourney V6",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Happy Bear, happy bear, cheerful atmosphere featuring a cute brown bear cub, white background, no text, professional children's book art --ar 3:4 --style raw --s 250",
+          "parameters": "--ar 3:4 --style raw --s 250 --no text, watermark, signature"
+        },
+        "stable_diffusion": {
+          "model": "SDXL 1.0",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Happy Bear, happy bear, cheerful atmosphere featuring a cute brown bear cub, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "steps": 30,
+          "cfg_scale": 7.5,
+          "size": "768x1024"
+        },
+        "leonardo": {
+          "model": "Leonardo AI",
+          "prompt": "Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Happy Bear, happy bear, cheerful atmosphere featuring a cute brown bear cub, white background, no text, professional children's book art",
+          "negative_prompt": "photorealistic, 3d render, dark colors, scary, complex background, text, watermark",
+          "style": "Children's Book Illustration",
+          "alchemy": true
+        }
+      }
+    }
+  ]
+}

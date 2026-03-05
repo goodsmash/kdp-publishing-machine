@@ -1,0 +1,99 @@
+======================================================================
+ILLUSTRATION PROMPTS FOR: Luna y la Luna
+Art Style: Watercolor Children's Book
+Generated: 2026-03-05 00:04
+======================================================================
+
+
+──────────────────────────────────────────────────────────────────────
+PAGE 4: Luna En Rama
+──────────────────────────────────────────────────────────────────────
+
+Scene: luna en rama
+Mood: cheerful
+Characters: little gray owl
+
+🎨 DALL-E 3:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Luna En Rama, luna en rama, cheerful atmosphere featuring a cute little gray owl, white background, no text, professional children's book art
+
+🎨 MIDJOURNEY:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Luna En Rama, luna en rama, cheerful atmosphere featuring a cute little gray owl, white background, no text, professional children's book art --ar 3:4 --style raw --s 250
+
+🎨 STABLE DIFFUSION:
+   Prompt: Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Luna En Rama, luna en rama, cheerful atmosphere featuring a cute little gray owl, white background, no text, professional children's book art
+   Negative: photorealistic, 3d render, dark colors, scary, complex background, text, watermark
+
+
+──────────────────────────────────────────────────────────────────────
+PAGE 7: Luna Saliendo
+──────────────────────────────────────────────────────────────────────
+
+Scene: luna saliendo
+Mood: cheerful
+Characters: little gray owl
+
+🎨 DALL-E 3:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Luna Saliendo, luna saliendo, cheerful atmosphere featuring a cute little gray owl, white background, no text, professional children's book art
+
+🎨 MIDJOURNEY:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Luna Saliendo, luna saliendo, cheerful atmosphere featuring a cute little gray owl, white background, no text, professional children's book art --ar 3:4 --style raw --s 250
+
+🎨 STABLE DIFFUSION:
+   Prompt: Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Luna Saliendo, luna saliendo, cheerful atmosphere featuring a cute little gray owl, white background, no text, professional children's book art
+   Negative: photorealistic, 3d render, dark colors, scary, complex background, text, watermark
+
+
+──────────────────────────────────────────────────────────────────────
+PAGE 13: Lechuza Susurrando
+──────────────────────────────────────────────────────────────────────
+
+Scene: lechuza susurrando
+Mood: cheerful
+
+🎨 DALL-E 3:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Lechuza Susurrando, lechuza susurrando, cheerful atmosphere, white background, no text, professional children's book art
+
+🎨 MIDJOURNEY:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Lechuza Susurrando, lechuza susurrando, cheerful atmosphere, white background, no text, professional children's book art --ar 3:4 --style raw --s 250
+
+🎨 STABLE DIFFUSION:
+   Prompt: Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Lechuza Susurrando, lechuza susurrando, cheerful atmosphere, white background, no text, professional children's book art
+   Negative: photorealistic, 3d render, dark colors, scary, complex background, text, watermark
+
+
+──────────────────────────────────────────────────────────────────────
+PAGE 18: Cielo Estrellado
+──────────────────────────────────────────────────────────────────────
+
+Scene: cielo estrellado
+Mood: cheerful
+
+🎨 DALL-E 3:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Cielo Estrellado, cielo estrellado, cheerful atmosphere, white background, no text, professional children's book art
+
+🎨 MIDJOURNEY:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Cielo Estrellado, cielo estrellado, cheerful atmosphere, white background, no text, professional children's book art --ar 3:4 --style raw --s 250
+
+🎨 STABLE DIFFUSION:
+   Prompt: Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Cielo Estrellado, cielo estrellado, cheerful atmosphere, white background, no text, professional children's book art
+   Negative: photorealistic, 3d render, dark colors, scary, complex background, text, watermark
+
+
+──────────────────────────────────────────────────────────────────────
+PAGE 23: Luna Durmiente
+──────────────────────────────────────────────────────────────────────
+
+Scene: luna durmiente
+Mood: cheerful
+Characters: little gray owl
+
+🎨 DALL-E 3:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Luna Durmiente, luna durmiente, cheerful atmosphere featuring a cute little gray owl, white background, no text, professional children's book art
+
+🎨 MIDJOURNEY:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Luna Durmiente, luna durmiente, cheerful atmosphere featuring a cute little gray owl, white background, no text, professional children's book art --ar 3:4 --style raw --s 250
+
+🎨 STABLE DIFFUSION:
+   Prompt: Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Luna Durmiente, luna durmiente, cheerful atmosphere featuring a cute little gray owl, white background, no text, professional children's book art
+   Negative: photorealistic, 3d render, dark colors, scary, complex background, text, watermark
+

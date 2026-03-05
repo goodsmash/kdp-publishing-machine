@@ -1,0 +1,98 @@
+======================================================================
+ILLUSTRATION PROMPTS FOR: Mia Chases the Rainbow
+Art Style: Watercolor Children's Book
+Generated: 2026-03-05 00:04
+======================================================================
+
+
+──────────────────────────────────────────────────────────────────────
+PAGE 4: Mia Playing
+──────────────────────────────────────────────────────────────────────
+
+Scene: mia playing
+Mood: cheerful
+Characters: golden puppy
+
+🎨 DALL-E 3:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Mia Playing, mia playing, cheerful atmosphere featuring a cute golden puppy, white background, no text, professional children's book art
+
+🎨 MIDJOURNEY:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Mia Playing, mia playing, cheerful atmosphere featuring a cute golden puppy, white background, no text, professional children's book art --ar 3:4 --style raw --s 250
+
+🎨 STABLE DIFFUSION:
+   Prompt: Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Mia Playing, mia playing, cheerful atmosphere featuring a cute golden puppy, white background, no text, professional children's book art
+   Negative: photorealistic, 3d render, dark colors, scary, complex background, text, watermark
+
+
+──────────────────────────────────────────────────────────────────────
+PAGE 7: Rainbow Sky
+──────────────────────────────────────────────────────────────────────
+
+Scene: rainbow sky
+Mood: joyful
+
+🎨 DALL-E 3:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Rainbow Sky, rainbow sky, joyful atmosphere, white background, no text, professional children's book art
+
+🎨 MIDJOURNEY:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Rainbow Sky, rainbow sky, joyful atmosphere, white background, no text, professional children's book art --ar 3:4 --style raw --s 250
+
+🎨 STABLE DIFFUSION:
+   Prompt: Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Rainbow Sky, rainbow sky, joyful atmosphere, white background, no text, professional children's book art
+   Negative: photorealistic, 3d render, dark colors, scary, complex background, text, watermark
+
+
+──────────────────────────────────────────────────────────────────────
+PAGE 13: Running Puppy
+──────────────────────────────────────────────────────────────────────
+
+Scene: running puppy
+Mood: cheerful
+Characters: golden puppy
+
+🎨 DALL-E 3:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Running Puppy, running puppy, cheerful atmosphere featuring a cute golden puppy, white background, no text, professional children's book art
+
+🎨 MIDJOURNEY:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Running Puppy, running puppy, cheerful atmosphere featuring a cute golden puppy, white background, no text, professional children's book art --ar 3:4 --style raw --s 250
+
+🎨 STABLE DIFFUSION:
+   Prompt: Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Running Puppy, running puppy, cheerful atmosphere featuring a cute golden puppy, white background, no text, professional children's book art
+   Negative: photorealistic, 3d render, dark colors, scary, complex background, text, watermark
+
+
+──────────────────────────────────────────────────────────────────────
+PAGE 18: Friend Waiting
+──────────────────────────────────────────────────────────────────────
+
+Scene: friend waiting
+Mood: patient
+
+🎨 DALL-E 3:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Friend Waiting, friend waiting, patient atmosphere, white background, no text, professional children's book art
+
+🎨 MIDJOURNEY:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Friend Waiting, friend waiting, patient atmosphere, white background, no text, professional children's book art --ar 3:4 --style raw --s 250
+
+🎨 STABLE DIFFUSION:
+   Prompt: Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Friend Waiting, friend waiting, patient atmosphere, white background, no text, professional children's book art
+   Negative: photorealistic, 3d render, dark colors, scary, complex background, text, watermark
+
+
+──────────────────────────────────────────────────────────────────────
+PAGE 24: Friends Playing
+──────────────────────────────────────────────────────────────────────
+
+Scene: friends playing
+Mood: cheerful
+
+🎨 DALL-E 3:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Friends Playing, friends playing, cheerful atmosphere, white background, no text, professional children's book art
+
+🎨 MIDJOURNEY:
+   Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Friends Playing, friends playing, cheerful atmosphere, white background, no text, professional children's book art --ar 3:4 --style raw --s 250
+
+🎨 STABLE DIFFUSION:
+   Prompt: Watercolor children's book illustration, soft pastel colors, gentle brush strokes, whimsical style, Friends Playing, friends playing, cheerful atmosphere, white background, no text, professional children's book art
+   Negative: photorealistic, 3d render, dark colors, scary, complex background, text, watermark
+
