@@ -36,9 +36,11 @@ class SimpleQwenGenerator:
         self.api_key = api_key
         self.model = MODEL
         self.model_fallbacks = [
-            os.getenv("QWEN_IMAGE_MODEL", "qwen-image-2.0-pro-2026-03-03"),
+            os.getenv("QWEN_IMAGE_MODEL", "qwen-image-plus"),           # NEW best model
+            "qwen-image-2.0-pro-2026-03-03",                             # Current pro
             os.getenv("QWEN_IMAGE_FALLBACK_1", "qwen-image-2.0-pro"),
-            os.getenv("QWEN_IMAGE_FALLBACK_2", "qwen-image-2.0")
+            os.getenv("QWEN_IMAGE_FALLBACK_2", "qwen-image-2.0"),
+            "wanx2.1-t2i-plus",                                          # Alternative model
         ]
         self.output_dir = "illustrations/qwen_images"
         os.makedirs(self.output_dir, exist_ok=True)

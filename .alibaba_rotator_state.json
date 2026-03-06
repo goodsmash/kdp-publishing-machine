@@ -1,0 +1,17 @@
+{
+  "date": "2026-03-05",
+  "image_usage": {
+    "qwen-image-plus": 1,
+    "qwen-image-2.0-pro-2026-03-03": 1,
+    "qwen-image-2.0-pro": 1,
+    "qwen-image-2.0": 0,
+    "wanx2.1-t2i-plus": 0,
+    "qwen-image-edit": 0
+  },
+  "text_usage": {
+    "qwen3-max": 0,
+    "qwen3-max-2026-01-23": 0,
+    "qwen-plus": 0,
+    "qwen-turbo": 0
+  }
+}
