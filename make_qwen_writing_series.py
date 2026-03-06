@@ -1,6 +1,17 @@
 #!/usr/bin/env python3
 import os
 from pathlib import Path
+
+# Load .env before importing qwen_simple
+env_path = Path(__file__).resolve().parent / ".env"
+if env_path.exists():
+    with open(env_path) as f:
+        for line in f:
+            line = line.strip()
+            if line and not line.startswith("#") and "=" in line:
+                key, value = line.split("=", 1)
+                os.environ.setdefault(key, value)
+
 from reportlab.lib.units import inch
 from reportlab.pdfgen import canvas
 from reportlab.lib.colors import HexColor

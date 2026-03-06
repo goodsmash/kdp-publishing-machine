@@ -9,6 +9,16 @@ import sys
 from pathlib import Path
 from PIL import Image
 
+# Load .env before any other imports
+env_path = Path(__file__).resolve().parent / ".env"
+if env_path.exists():
+    with open(env_path) as f:
+        for line in f:
+            line = line.strip()
+            if line and not line.startswith("#") and "=" in line:
+                key, value = line.split("=", 1)
+                os.environ.setdefault(key, value)
+
 # Add parent to path for imports
 ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT))

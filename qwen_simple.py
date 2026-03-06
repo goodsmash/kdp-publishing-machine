@@ -14,6 +14,16 @@ from datetime import datetime
 from pathlib import Path
 from credit_guard import CreditGuard
 
+# Load .env file if present
+env_path = Path(__file__).resolve().parent / ".env"
+if env_path.exists():
+    with open(env_path) as f:
+        for line in f:
+            line = line.strip()
+            if line and not line.startswith("#") and "=" in line:
+                key, value = line.split("=", 1)
+                os.environ.setdefault(key, value)
+
 # API Configuration
 API_KEY = os.getenv("DASHSCOPE_API_KEY", "")
 API_URL = os.getenv("DASHSCOPE_API_URL", "https://dashscope-intl.aliyuncs.com/api/v1/services/aigc/multimodal-generation/generation")
