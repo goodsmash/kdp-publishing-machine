@@ -1,0 +1,806 @@
+{
+  "en": [
+    {
+      "lang": "en",
+      "scene": "three puppies playing with a ball on lush green grass",
+      "title_text": "Big Fun Day!",
+      "subtitle_text": "Practice Makes Progress!",
+      "bubble_text": "Hehe, watch me amaze my little friends next!",
+      "footer_text": "Small steps, big smiles!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: three puppies playing with a ball on lush green grass. Top headline text in bold blue cartoon font: 'Big Fun Day!'. Subtitle in green playful font: 'Practice Makes Progress!'. Add one speech bubble saying: 'Hehe, watch me amaze my little friends next!'. Bottom supplementary text: 'Small steps, big smiles!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "little astronauts playing catch on a moon playground",
+      "title_text": "Play, Learn, Smile!",
+      "subtitle_text": "Practice Makes Progress!",
+      "bubble_text": "Hehe, watch me amaze my little friends next!",
+      "footer_text": "Small steps, big smiles!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: little astronauts playing catch on a moon playground. Top headline text in bold blue cartoon font: 'Play, Learn, Smile!'. Subtitle in green playful font: 'Practice Makes Progress!'. Add one speech bubble saying: 'Hehe, watch me amaze my little friends next!'. Bottom supplementary text: 'Small steps, big smiles!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "three puppies practicing soccer in a happy field",
+      "title_text": "Teamwork Time!",
+      "subtitle_text": "Friends Make Learning Fun!",
+      "bubble_text": "I can do it—let's play together!",
+      "footer_text": "Learning is more fun when we play together!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: three puppies practicing soccer in a happy field. Top headline text in bold blue cartoon font: 'Teamwork Time!'. Subtitle in green playful font: 'Friends Make Learning Fun!'. Add one speech bubble saying: 'I can do it—let's play together!'. Bottom supplementary text: 'Learning is more fun when we play together!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "baby dragons learning teamwork in a bright valley",
+      "title_text": "Teamwork Time!",
+      "subtitle_text": "Show Off Your Skills!",
+      "bubble_text": "Wow! We’re getting better every day!",
+      "footer_text": "We get to play ball with our friends again!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: baby dragons learning teamwork in a bright valley. Top headline text in bold blue cartoon font: 'Teamwork Time!'. Subtitle in green playful font: 'Show Off Your Skills!'. Add one speech bubble saying: 'Wow! We’re getting better every day!'. Bottom supplementary text: 'We get to play ball with our friends again!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "a bunny and duckling sharing snacks on a picnic blanket",
+      "title_text": "Teamwork Time!",
+      "subtitle_text": "Try, Learn, and Grow!",
+      "bubble_text": "I can do it—let's play together!",
+      "footer_text": "Small steps, big smiles!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: a bunny and duckling sharing snacks on a picnic blanket. Top headline text in bold blue cartoon font: 'Teamwork Time!'. Subtitle in green playful font: 'Try, Learn, and Grow!'. Add one speech bubble saying: 'I can do it—let's play together!'. Bottom supplementary text: 'Small steps, big smiles!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "three puppies practicing soccer in a happy field",
+      "title_text": "Teamwork Time!",
+      "subtitle_text": "Try, Learn, and Grow!",
+      "bubble_text": "Hehe, watch me amaze my little friends next!",
+      "footer_text": "We get to play ball with our friends again!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: three puppies practicing soccer in a happy field. Top headline text in bold blue cartoon font: 'Teamwork Time!'. Subtitle in green playful font: 'Try, Learn, and Grow!'. Add one speech bubble saying: 'Hehe, watch me amaze my little friends next!'. Bottom supplementary text: 'We get to play ball with our friends again!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "little astronauts playing catch on a moon playground",
+      "title_text": "Teamwork Time!",
+      "subtitle_text": "Friends Make Learning Fun!",
+      "bubble_text": "I can do it—let's play together!",
+      "footer_text": "Small steps, big smiles!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: little astronauts playing catch on a moon playground. Top headline text in bold blue cartoon font: 'Teamwork Time!'. Subtitle in green playful font: 'Friends Make Learning Fun!'. Add one speech bubble saying: 'I can do it—let's play together!'. Bottom supplementary text: 'Small steps, big smiles!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "little astronauts playing catch on a moon playground",
+      "title_text": "Teamwork Time!",
+      "subtitle_text": "Practice Makes Progress!",
+      "bubble_text": "Wow! We’re getting better every day!",
+      "footer_text": "We get to play ball with our friends again!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: little astronauts playing catch on a moon playground. Top headline text in bold blue cartoon font: 'Teamwork Time!'. Subtitle in green playful font: 'Practice Makes Progress!'. Add one speech bubble saying: 'Wow! We’re getting better every day!'. Bottom supplementary text: 'We get to play ball with our friends again!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "ocean friends building a sandcastle by the shore",
+      "title_text": "Play, Learn, Smile!",
+      "subtitle_text": "Practice Makes Progress!",
+      "bubble_text": "Hehe, watch me amaze my little friends next!",
+      "footer_text": "Learning is more fun when we play together!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: ocean friends building a sandcastle by the shore. Top headline text in bold blue cartoon font: 'Play, Learn, Smile!'. Subtitle in green playful font: 'Practice Makes Progress!'. Add one speech bubble saying: 'Hehe, watch me amaze my little friends next!'. Bottom supplementary text: 'Learning is more fun when we play together!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "school friends jumping rope at recess",
+      "title_text": "Let’s Learn Together!",
+      "subtitle_text": "Friends Make Learning Fun!",
+      "bubble_text": "Hehe, watch me amaze my little friends next!",
+      "footer_text": "Learning is more fun when we play together!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: school friends jumping rope at recess. Top headline text in bold blue cartoon font: 'Let’s Learn Together!'. Subtitle in green playful font: 'Friends Make Learning Fun!'. Add one speech bubble saying: 'Hehe, watch me amaze my little friends next!'. Bottom supplementary text: 'Learning is more fun when we play together!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "school friends jumping rope at recess",
+      "title_text": "Teamwork Time!",
+      "subtitle_text": "Try, Learn, and Grow!",
+      "bubble_text": "Hehe, watch me amaze my little friends next!",
+      "footer_text": "Small steps, big smiles!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: school friends jumping rope at recess. Top headline text in bold blue cartoon font: 'Teamwork Time!'. Subtitle in green playful font: 'Try, Learn, and Grow!'. Add one speech bubble saying: 'Hehe, watch me amaze my little friends next!'. Bottom supplementary text: 'Small steps, big smiles!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "forest animals painting together in a meadow",
+      "title_text": "Teamwork Time!",
+      "subtitle_text": "Friends Make Learning Fun!",
+      "bubble_text": "I can do it—let's play together!",
+      "footer_text": "We get to play ball with our friends again!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: forest animals painting together in a meadow. Top headline text in bold blue cartoon font: 'Teamwork Time!'. Subtitle in green playful font: 'Friends Make Learning Fun!'. Add one speech bubble saying: 'I can do it—let's play together!'. Bottom supplementary text: 'We get to play ball with our friends again!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "ocean friends building a sandcastle by the shore",
+      "title_text": "Teamwork Time!",
+      "subtitle_text": "Show Off Your Skills!",
+      "bubble_text": "Wow! We’re getting better every day!",
+      "footer_text": "We get to play ball with our friends again!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: ocean friends building a sandcastle by the shore. Top headline text in bold blue cartoon font: 'Teamwork Time!'. Subtitle in green playful font: 'Show Off Your Skills!'. Add one speech bubble saying: 'Wow! We’re getting better every day!'. Bottom supplementary text: 'We get to play ball with our friends again!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "three dinosaur friends dancing under rainbow clouds",
+      "title_text": "Big Fun Day!",
+      "subtitle_text": "Try, Learn, and Grow!",
+      "bubble_text": "Wow! We’re getting better every day!",
+      "footer_text": "Small steps, big smiles!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: three dinosaur friends dancing under rainbow clouds. Top headline text in bold blue cartoon font: 'Big Fun Day!'. Subtitle in green playful font: 'Try, Learn, and Grow!'. Add one speech bubble saying: 'Wow! We’re getting better every day!'. Bottom supplementary text: 'Small steps, big smiles!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "three puppies practicing soccer in a happy field",
+      "title_text": "Play, Learn, Smile!",
+      "subtitle_text": "Try, Learn, and Grow!",
+      "bubble_text": "I can do it—let's play together!",
+      "footer_text": "We get to play ball with our friends again!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: three puppies practicing soccer in a happy field. Top headline text in bold blue cartoon font: 'Play, Learn, Smile!'. Subtitle in green playful font: 'Try, Learn, and Grow!'. Add one speech bubble saying: 'I can do it—let's play together!'. Bottom supplementary text: 'We get to play ball with our friends again!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "little astronauts playing catch on a moon playground",
+      "title_text": "Let’s Learn Together!",
+      "subtitle_text": "Show Off Your Skills!",
+      "bubble_text": "I can do it—let's play together!",
+      "footer_text": "Small steps, big smiles!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: little astronauts playing catch on a moon playground. Top headline text in bold blue cartoon font: 'Let’s Learn Together!'. Subtitle in green playful font: 'Show Off Your Skills!'. Add one speech bubble saying: 'I can do it—let's play together!'. Bottom supplementary text: 'Small steps, big smiles!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "three puppies practicing soccer in a happy field",
+      "title_text": "Come Play Ball!",
+      "subtitle_text": "Friends Make Learning Fun!",
+      "bubble_text": "Hehe, watch me amaze my little friends next!",
+      "footer_text": "We get to play ball with our friends again!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: three puppies practicing soccer in a happy field. Top headline text in bold blue cartoon font: 'Come Play Ball!'. Subtitle in green playful font: 'Friends Make Learning Fun!'. Add one speech bubble saying: 'Hehe, watch me amaze my little friends next!'. Bottom supplementary text: 'We get to play ball with our friends again!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "a bunny and duckling sharing snacks on a picnic blanket",
+      "title_text": "Let’s Learn Together!",
+      "subtitle_text": "Practice Makes Progress!",
+      "bubble_text": "Wow! We’re getting better every day!",
+      "footer_text": "Learning is more fun when we play together!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: a bunny and duckling sharing snacks on a picnic blanket. Top headline text in bold blue cartoon font: 'Let’s Learn Together!'. Subtitle in green playful font: 'Practice Makes Progress!'. Add one speech bubble saying: 'Wow! We’re getting better every day!'. Bottom supplementary text: 'Learning is more fun when we play together!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "two kittens flying kites in a sunny park",
+      "title_text": "Teamwork Time!",
+      "subtitle_text": "Practice Makes Progress!",
+      "bubble_text": "I can do it—let's play together!",
+      "footer_text": "We get to play ball with our friends again!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: two kittens flying kites in a sunny park. Top headline text in bold blue cartoon font: 'Teamwork Time!'. Subtitle in green playful font: 'Practice Makes Progress!'. Add one speech bubble saying: 'I can do it—let's play together!'. Bottom supplementary text: 'We get to play ball with our friends again!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "three puppies playing with a ball on lush green grass",
+      "title_text": "Play, Learn, Smile!",
+      "subtitle_text": "Practice Makes Progress!",
+      "bubble_text": "Wow! We’re getting better every day!",
+      "footer_text": "Small steps, big smiles!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: three puppies playing with a ball on lush green grass. Top headline text in bold blue cartoon font: 'Play, Learn, Smile!'. Subtitle in green playful font: 'Practice Makes Progress!'. Add one speech bubble saying: 'Wow! We’re getting better every day!'. Bottom supplementary text: 'Small steps, big smiles!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "little astronauts playing catch on a moon playground",
+      "title_text": "Big Fun Day!",
+      "subtitle_text": "Friends Make Learning Fun!",
+      "bubble_text": "Hehe, watch me amaze my little friends next!",
+      "footer_text": "We get to play ball with our friends again!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: little astronauts playing catch on a moon playground. Top headline text in bold blue cartoon font: 'Big Fun Day!'. Subtitle in green playful font: 'Friends Make Learning Fun!'. Add one speech bubble saying: 'Hehe, watch me amaze my little friends next!'. Bottom supplementary text: 'We get to play ball with our friends again!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "baby dragons learning teamwork in a bright valley",
+      "title_text": "Big Fun Day!",
+      "subtitle_text": "Try, Learn, and Grow!",
+      "bubble_text": "I can do it—let's play together!",
+      "footer_text": "Small steps, big smiles!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: baby dragons learning teamwork in a bright valley. Top headline text in bold blue cartoon font: 'Big Fun Day!'. Subtitle in green playful font: 'Try, Learn, and Grow!'. Add one speech bubble saying: 'I can do it—let's play together!'. Bottom supplementary text: 'Small steps, big smiles!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "three puppies practicing soccer in a happy field",
+      "title_text": "Come Play Ball!",
+      "subtitle_text": "Show Off Your Skills!",
+      "bubble_text": "I can do it—let's play together!",
+      "footer_text": "Learning is more fun when we play together!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: three puppies practicing soccer in a happy field. Top headline text in bold blue cartoon font: 'Come Play Ball!'. Subtitle in green playful font: 'Show Off Your Skills!'. Add one speech bubble saying: 'I can do it—let's play together!'. Bottom supplementary text: 'Learning is more fun when we play together!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "three puppies playing with a ball on lush green grass",
+      "title_text": "Let’s Learn Together!",
+      "subtitle_text": "Show Off Your Skills!",
+      "bubble_text": "I can do it—let's play together!",
+      "footer_text": "Small steps, big smiles!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: three puppies playing with a ball on lush green grass. Top headline text in bold blue cartoon font: 'Let’s Learn Together!'. Subtitle in green playful font: 'Show Off Your Skills!'. Add one speech bubble saying: 'I can do it—let's play together!'. Bottom supplementary text: 'Small steps, big smiles!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "three puppies practicing soccer in a happy field",
+      "title_text": "Big Fun Day!",
+      "subtitle_text": "Friends Make Learning Fun!",
+      "bubble_text": "Hehe, watch me amaze my little friends next!",
+      "footer_text": "Small steps, big smiles!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: three puppies practicing soccer in a happy field. Top headline text in bold blue cartoon font: 'Big Fun Day!'. Subtitle in green playful font: 'Friends Make Learning Fun!'. Add one speech bubble saying: 'Hehe, watch me amaze my little friends next!'. Bottom supplementary text: 'Small steps, big smiles!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "two kittens flying kites in a sunny park",
+      "title_text": "Teamwork Time!",
+      "subtitle_text": "Practice Makes Progress!",
+      "bubble_text": "I can do it—let's play together!",
+      "footer_text": "Learning is more fun when we play together!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: two kittens flying kites in a sunny park. Top headline text in bold blue cartoon font: 'Teamwork Time!'. Subtitle in green playful font: 'Practice Makes Progress!'. Add one speech bubble saying: 'I can do it—let's play together!'. Bottom supplementary text: 'Learning is more fun when we play together!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "three dinosaur friends dancing under rainbow clouds",
+      "title_text": "Let’s Learn Together!",
+      "subtitle_text": "Try, Learn, and Grow!",
+      "bubble_text": "I can do it—let's play together!",
+      "footer_text": "Small steps, big smiles!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: three dinosaur friends dancing under rainbow clouds. Top headline text in bold blue cartoon font: 'Let’s Learn Together!'. Subtitle in green playful font: 'Try, Learn, and Grow!'. Add one speech bubble saying: 'I can do it—let's play together!'. Bottom supplementary text: 'Small steps, big smiles!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "school friends jumping rope at recess",
+      "title_text": "Come Play Ball!",
+      "subtitle_text": "Show Off Your Skills!",
+      "bubble_text": "Wow! We’re getting better every day!",
+      "footer_text": "We get to play ball with our friends again!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: school friends jumping rope at recess. Top headline text in bold blue cartoon font: 'Come Play Ball!'. Subtitle in green playful font: 'Show Off Your Skills!'. Add one speech bubble saying: 'Wow! We’re getting better every day!'. Bottom supplementary text: 'We get to play ball with our friends again!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "two kittens flying kites in a sunny park",
+      "title_text": "Teamwork Time!",
+      "subtitle_text": "Practice Makes Progress!",
+      "bubble_text": "I can do it—let's play together!",
+      "footer_text": "We get to play ball with our friends again!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: two kittens flying kites in a sunny park. Top headline text in bold blue cartoon font: 'Teamwork Time!'. Subtitle in green playful font: 'Practice Makes Progress!'. Add one speech bubble saying: 'I can do it—let's play together!'. Bottom supplementary text: 'We get to play ball with our friends again!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "school friends jumping rope at recess",
+      "title_text": "Big Fun Day!",
+      "subtitle_text": "Practice Makes Progress!",
+      "bubble_text": "I can do it—let's play together!",
+      "footer_text": "Learning is more fun when we play together!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: school friends jumping rope at recess. Top headline text in bold blue cartoon font: 'Big Fun Day!'. Subtitle in green playful font: 'Practice Makes Progress!'. Add one speech bubble saying: 'I can do it—let's play together!'. Bottom supplementary text: 'Learning is more fun when we play together!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "little astronauts playing catch on a moon playground",
+      "title_text": "Big Fun Day!",
+      "subtitle_text": "Practice Makes Progress!",
+      "bubble_text": "I can do it—let's play together!",
+      "footer_text": "Learning is more fun when we play together!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: little astronauts playing catch on a moon playground. Top headline text in bold blue cartoon font: 'Big Fun Day!'. Subtitle in green playful font: 'Practice Makes Progress!'. Add one speech bubble saying: 'I can do it—let's play together!'. Bottom supplementary text: 'Learning is more fun when we play together!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "three puppies playing with a ball on lush green grass",
+      "title_text": "Teamwork Time!",
+      "subtitle_text": "Try, Learn, and Grow!",
+      "bubble_text": "Hehe, watch me amaze my little friends next!",
+      "footer_text": "Learning is more fun when we play together!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: three puppies playing with a ball on lush green grass. Top headline text in bold blue cartoon font: 'Teamwork Time!'. Subtitle in green playful font: 'Try, Learn, and Grow!'. Add one speech bubble saying: 'Hehe, watch me amaze my little friends next!'. Bottom supplementary text: 'Learning is more fun when we play together!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "two kittens flying kites in a sunny park",
+      "title_text": "Play, Learn, Smile!",
+      "subtitle_text": "Practice Makes Progress!",
+      "bubble_text": "Hehe, watch me amaze my little friends next!",
+      "footer_text": "We get to play ball with our friends again!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: two kittens flying kites in a sunny park. Top headline text in bold blue cartoon font: 'Play, Learn, Smile!'. Subtitle in green playful font: 'Practice Makes Progress!'. Add one speech bubble saying: 'Hehe, watch me amaze my little friends next!'. Bottom supplementary text: 'We get to play ball with our friends again!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "forest animals painting together in a meadow",
+      "title_text": "Play, Learn, Smile!",
+      "subtitle_text": "Show Off Your Skills!",
+      "bubble_text": "Hehe, watch me amaze my little friends next!",
+      "footer_text": "Learning is more fun when we play together!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: forest animals painting together in a meadow. Top headline text in bold blue cartoon font: 'Play, Learn, Smile!'. Subtitle in green playful font: 'Show Off Your Skills!'. Add one speech bubble saying: 'Hehe, watch me amaze my little friends next!'. Bottom supplementary text: 'Learning is more fun when we play together!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "forest animals painting together in a meadow",
+      "title_text": "Play, Learn, Smile!",
+      "subtitle_text": "Friends Make Learning Fun!",
+      "bubble_text": "Wow! We’re getting better every day!",
+      "footer_text": "Small steps, big smiles!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: forest animals painting together in a meadow. Top headline text in bold blue cartoon font: 'Play, Learn, Smile!'. Subtitle in green playful font: 'Friends Make Learning Fun!'. Add one speech bubble saying: 'Wow! We’re getting better every day!'. Bottom supplementary text: 'Small steps, big smiles!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "two kittens flying kites in a sunny park",
+      "title_text": "Let’s Learn Together!",
+      "subtitle_text": "Show Off Your Skills!",
+      "bubble_text": "Wow! We’re getting better every day!",
+      "footer_text": "We get to play ball with our friends again!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: two kittens flying kites in a sunny park. Top headline text in bold blue cartoon font: 'Let’s Learn Together!'. Subtitle in green playful font: 'Show Off Your Skills!'. Add one speech bubble saying: 'Wow! We’re getting better every day!'. Bottom supplementary text: 'We get to play ball with our friends again!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "three puppies playing with a ball on lush green grass",
+      "title_text": "Play, Learn, Smile!",
+      "subtitle_text": "Show Off Your Skills!",
+      "bubble_text": "I can do it—let's play together!",
+      "footer_text": "Learning is more fun when we play together!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: three puppies playing with a ball on lush green grass. Top headline text in bold blue cartoon font: 'Play, Learn, Smile!'. Subtitle in green playful font: 'Show Off Your Skills!'. Add one speech bubble saying: 'I can do it—let's play together!'. Bottom supplementary text: 'Learning is more fun when we play together!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "little astronauts playing catch on a moon playground",
+      "title_text": "Big Fun Day!",
+      "subtitle_text": "Practice Makes Progress!",
+      "bubble_text": "Wow! We’re getting better every day!",
+      "footer_text": "We get to play ball with our friends again!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: little astronauts playing catch on a moon playground. Top headline text in bold blue cartoon font: 'Big Fun Day!'. Subtitle in green playful font: 'Practice Makes Progress!'. Add one speech bubble saying: 'Wow! We’re getting better every day!'. Bottom supplementary text: 'We get to play ball with our friends again!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "three puppies practicing soccer in a happy field",
+      "title_text": "Come Play Ball!",
+      "subtitle_text": "Try, Learn, and Grow!",
+      "bubble_text": "Wow! We’re getting better every day!",
+      "footer_text": "Small steps, big smiles!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: three puppies practicing soccer in a happy field. Top headline text in bold blue cartoon font: 'Come Play Ball!'. Subtitle in green playful font: 'Try, Learn, and Grow!'. Add one speech bubble saying: 'Wow! We’re getting better every day!'. Bottom supplementary text: 'Small steps, big smiles!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "en",
+      "scene": "a bunny and duckling sharing snacks on a picnic blanket",
+      "title_text": "Come Play Ball!",
+      "subtitle_text": "Show Off Your Skills!",
+      "bubble_text": "Hehe, watch me amaze my little friends next!",
+      "footer_text": "Learning is more fun when we play together!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: a bunny and duckling sharing snacks on a picnic blanket. Top headline text in bold blue cartoon font: 'Come Play Ball!'. Subtitle in green playful font: 'Show Off Your Skills!'. Add one speech bubble saying: 'Hehe, watch me amaze my little friends next!'. Bottom supplementary text: 'Learning is more fun when we play together!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    }
+  ],
+  "es": [
+    {
+      "lang": "es",
+      "scene": "amigos del océano construyendo un castillo de arena",
+      "title_text": "¡Gran Día de Diversión!",
+      "subtitle_text": "¡Intenta, Aprende y Crece!",
+      "bubble_text": "¡Yo puedo, juguemos juntos!",
+      "footer_text": "¡Aprender es más divertido cuando jugamos juntos!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: amigos del océano construyendo un castillo de arena. Top headline text in bold blue cartoon font: '¡Gran Día de Diversión!'. Subtitle in green playful font: '¡Intenta, Aprende y Crece!'. Add one speech bubble saying: '¡Yo puedo, juguemos juntos!'. Bottom supplementary text: '¡Aprender es más divertido cuando jugamos juntos!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "pequeños astronautas jugando a lanzar la pelota en la luna",
+      "title_text": "¡Hora de Equipo!",
+      "subtitle_text": "¡Practicar Te Hace Mejor!",
+      "bubble_text": "¡Jeje, ahora verán lo que puedo hacer!",
+      "footer_text": "¡Aprender es más divertido cuando jugamos juntos!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: pequeños astronautas jugando a lanzar la pelota en la luna. Top headline text in bold blue cartoon font: '¡Hora de Equipo!'. Subtitle in green playful font: '¡Practicar Te Hace Mejor!'. Add one speech bubble saying: '¡Jeje, ahora verán lo que puedo hacer!'. Bottom supplementary text: '¡Aprender es más divertido cuando jugamos juntos!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "dos gatitos volando cometas en un parque soleado",
+      "title_text": "¡Gran Día de Diversión!",
+      "subtitle_text": "¡Practicar Te Hace Mejor!",
+      "bubble_text": "¡Guau! ¡Cada día lo hacemos mejor!",
+      "footer_text": "¡Podemos jugar con nuestros amigos otra vez!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: dos gatitos volando cometas en un parque soleado. Top headline text in bold blue cartoon font: '¡Gran Día de Diversión!'. Subtitle in green playful font: '¡Practicar Te Hace Mejor!'. Add one speech bubble saying: '¡Guau! ¡Cada día lo hacemos mejor!'. Bottom supplementary text: '¡Podemos jugar con nuestros amigos otra vez!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "tres dinosaurios amigos bailando bajo nubes arcoíris",
+      "title_text": "¡Aprendamos Juntos!",
+      "subtitle_text": "¡Intenta, Aprende y Crece!",
+      "bubble_text": "¡Yo puedo, juguemos juntos!",
+      "footer_text": "¡Pasos pequeños, sonrisas grandes!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: tres dinosaurios amigos bailando bajo nubes arcoíris. Top headline text in bold blue cartoon font: '¡Aprendamos Juntos!'. Subtitle in green playful font: '¡Intenta, Aprende y Crece!'. Add one speech bubble saying: '¡Yo puedo, juguemos juntos!'. Bottom supplementary text: '¡Pasos pequeños, sonrisas grandes!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "tres perritos practicando fútbol en un campo alegre",
+      "title_text": "¡Aprendamos Juntos!",
+      "subtitle_text": "¡Practicar Te Hace Mejor!",
+      "bubble_text": "¡Guau! ¡Cada día lo hacemos mejor!",
+      "footer_text": "¡Pasos pequeños, sonrisas grandes!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: tres perritos practicando fútbol en un campo alegre. Top headline text in bold blue cartoon font: '¡Aprendamos Juntos!'. Subtitle in green playful font: '¡Practicar Te Hace Mejor!'. Add one speech bubble saying: '¡Guau! ¡Cada día lo hacemos mejor!'. Bottom supplementary text: '¡Pasos pequeños, sonrisas grandes!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "dos gatitos volando cometas en un parque soleado",
+      "title_text": "¡Jugar, Aprender y Sonreír!",
+      "subtitle_text": "¡Practicar Te Hace Mejor!",
+      "bubble_text": "¡Jeje, ahora verán lo que puedo hacer!",
+      "footer_text": "¡Pasos pequeños, sonrisas grandes!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: dos gatitos volando cometas en un parque soleado. Top headline text in bold blue cartoon font: '¡Jugar, Aprender y Sonreír!'. Subtitle in green playful font: '¡Practicar Te Hace Mejor!'. Add one speech bubble saying: '¡Jeje, ahora verán lo que puedo hacer!'. Bottom supplementary text: '¡Pasos pequeños, sonrisas grandes!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "tres dinosaurios amigos bailando bajo nubes arcoíris",
+      "title_text": "¡Jugar, Aprender y Sonreír!",
+      "subtitle_text": "¡Con Amigos se Aprende Mejor!",
+      "bubble_text": "¡Jeje, ahora verán lo que puedo hacer!",
+      "footer_text": "¡Aprender es más divertido cuando jugamos juntos!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: tres dinosaurios amigos bailando bajo nubes arcoíris. Top headline text in bold blue cartoon font: '¡Jugar, Aprender y Sonreír!'. Subtitle in green playful font: '¡Con Amigos se Aprende Mejor!'. Add one speech bubble saying: '¡Jeje, ahora verán lo que puedo hacer!'. Bottom supplementary text: '¡Aprender es más divertido cuando jugamos juntos!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "pequeños astronautas jugando a lanzar la pelota en la luna",
+      "title_text": "¡Aprendamos Juntos!",
+      "subtitle_text": "¡Con Amigos se Aprende Mejor!",
+      "bubble_text": "¡Jeje, ahora verán lo que puedo hacer!",
+      "footer_text": "¡Pasos pequeños, sonrisas grandes!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: pequeños astronautas jugando a lanzar la pelota en la luna. Top headline text in bold blue cartoon font: '¡Aprendamos Juntos!'. Subtitle in green playful font: '¡Con Amigos se Aprende Mejor!'. Add one speech bubble saying: '¡Jeje, ahora verán lo que puedo hacer!'. Bottom supplementary text: '¡Pasos pequeños, sonrisas grandes!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "tres dinosaurios amigos bailando bajo nubes arcoíris",
+      "title_text": "¡Ven a Jugar!",
+      "subtitle_text": "¡Muestra Tus Habilidades!",
+      "bubble_text": "¡Guau! ¡Cada día lo hacemos mejor!",
+      "footer_text": "¡Pasos pequeños, sonrisas grandes!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: tres dinosaurios amigos bailando bajo nubes arcoíris. Top headline text in bold blue cartoon font: '¡Ven a Jugar!'. Subtitle in green playful font: '¡Muestra Tus Habilidades!'. Add one speech bubble saying: '¡Guau! ¡Cada día lo hacemos mejor!'. Bottom supplementary text: '¡Pasos pequeños, sonrisas grandes!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "dos gatitos volando cometas en un parque soleado",
+      "title_text": "¡Gran Día de Diversión!",
+      "subtitle_text": "¡Practicar Te Hace Mejor!",
+      "bubble_text": "¡Guau! ¡Cada día lo hacemos mejor!",
+      "footer_text": "¡Pasos pequeños, sonrisas grandes!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: dos gatitos volando cometas en un parque soleado. Top headline text in bold blue cartoon font: '¡Gran Día de Diversión!'. Subtitle in green playful font: '¡Practicar Te Hace Mejor!'. Add one speech bubble saying: '¡Guau! ¡Cada día lo hacemos mejor!'. Bottom supplementary text: '¡Pasos pequeños, sonrisas grandes!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "dos gatitos volando cometas en un parque soleado",
+      "title_text": "¡Hora de Equipo!",
+      "subtitle_text": "¡Practicar Te Hace Mejor!",
+      "bubble_text": "¡Guau! ¡Cada día lo hacemos mejor!",
+      "footer_text": "¡Pasos pequeños, sonrisas grandes!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: dos gatitos volando cometas en un parque soleado. Top headline text in bold blue cartoon font: '¡Hora de Equipo!'. Subtitle in green playful font: '¡Practicar Te Hace Mejor!'. Add one speech bubble saying: '¡Guau! ¡Cada día lo hacemos mejor!'. Bottom supplementary text: '¡Pasos pequeños, sonrisas grandes!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "amigos del océano construyendo un castillo de arena",
+      "title_text": "¡Aprendamos Juntos!",
+      "subtitle_text": "¡Intenta, Aprende y Crece!",
+      "bubble_text": "¡Yo puedo, juguemos juntos!",
+      "footer_text": "¡Podemos jugar con nuestros amigos otra vez!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: amigos del océano construyendo un castillo de arena. Top headline text in bold blue cartoon font: '¡Aprendamos Juntos!'. Subtitle in green playful font: '¡Intenta, Aprende y Crece!'. Add one speech bubble saying: '¡Yo puedo, juguemos juntos!'. Bottom supplementary text: '¡Podemos jugar con nuestros amigos otra vez!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "amigos de escuela jugando a la cuerda en recreo",
+      "title_text": "¡Jugar, Aprender y Sonreír!",
+      "subtitle_text": "¡Intenta, Aprende y Crece!",
+      "bubble_text": "¡Jeje, ahora verán lo que puedo hacer!",
+      "footer_text": "¡Aprender es más divertido cuando jugamos juntos!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: amigos de escuela jugando a la cuerda en recreo. Top headline text in bold blue cartoon font: '¡Jugar, Aprender y Sonreír!'. Subtitle in green playful font: '¡Intenta, Aprende y Crece!'. Add one speech bubble saying: '¡Jeje, ahora verán lo que puedo hacer!'. Bottom supplementary text: '¡Aprender es más divertido cuando jugamos juntos!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "amigos de escuela jugando a la cuerda en recreo",
+      "title_text": "¡Aprendamos Juntos!",
+      "subtitle_text": "¡Intenta, Aprende y Crece!",
+      "bubble_text": "¡Yo puedo, juguemos juntos!",
+      "footer_text": "¡Aprender es más divertido cuando jugamos juntos!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: amigos de escuela jugando a la cuerda en recreo. Top headline text in bold blue cartoon font: '¡Aprendamos Juntos!'. Subtitle in green playful font: '¡Intenta, Aprende y Crece!'. Add one speech bubble saying: '¡Yo puedo, juguemos juntos!'. Bottom supplementary text: '¡Aprender es más divertido cuando jugamos juntos!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "tres perritos jugando con una pelota sobre césped verde",
+      "title_text": "¡Ven a Jugar!",
+      "subtitle_text": "¡Practicar Te Hace Mejor!",
+      "bubble_text": "¡Yo puedo, juguemos juntos!",
+      "footer_text": "¡Pasos pequeños, sonrisas grandes!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: tres perritos jugando con una pelota sobre césped verde. Top headline text in bold blue cartoon font: '¡Ven a Jugar!'. Subtitle in green playful font: '¡Practicar Te Hace Mejor!'. Add one speech bubble saying: '¡Yo puedo, juguemos juntos!'. Bottom supplementary text: '¡Pasos pequeños, sonrisas grandes!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "dos gatitos volando cometas en un parque soleado",
+      "title_text": "¡Hora de Equipo!",
+      "subtitle_text": "¡Practicar Te Hace Mejor!",
+      "bubble_text": "¡Guau! ¡Cada día lo hacemos mejor!",
+      "footer_text": "¡Pasos pequeños, sonrisas grandes!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: dos gatitos volando cometas en un parque soleado. Top headline text in bold blue cartoon font: '¡Hora de Equipo!'. Subtitle in green playful font: '¡Practicar Te Hace Mejor!'. Add one speech bubble saying: '¡Guau! ¡Cada día lo hacemos mejor!'. Bottom supplementary text: '¡Pasos pequeños, sonrisas grandes!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "amigos del océano construyendo un castillo de arena",
+      "title_text": "¡Hora de Equipo!",
+      "subtitle_text": "¡Muestra Tus Habilidades!",
+      "bubble_text": "¡Guau! ¡Cada día lo hacemos mejor!",
+      "footer_text": "¡Podemos jugar con nuestros amigos otra vez!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: amigos del océano construyendo un castillo de arena. Top headline text in bold blue cartoon font: '¡Hora de Equipo!'. Subtitle in green playful font: '¡Muestra Tus Habilidades!'. Add one speech bubble saying: '¡Guau! ¡Cada día lo hacemos mejor!'. Bottom supplementary text: '¡Podemos jugar con nuestros amigos otra vez!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "tres perritos jugando con una pelota sobre césped verde",
+      "title_text": "¡Jugar, Aprender y Sonreír!",
+      "subtitle_text": "¡Con Amigos se Aprende Mejor!",
+      "bubble_text": "¡Guau! ¡Cada día lo hacemos mejor!",
+      "footer_text": "¡Pasos pequeños, sonrisas grandes!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: tres perritos jugando con una pelota sobre césped verde. Top headline text in bold blue cartoon font: '¡Jugar, Aprender y Sonreír!'. Subtitle in green playful font: '¡Con Amigos se Aprende Mejor!'. Add one speech bubble saying: '¡Guau! ¡Cada día lo hacemos mejor!'. Bottom supplementary text: '¡Pasos pequeños, sonrisas grandes!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "animales del bosque pintando juntos en un prado",
+      "title_text": "¡Gran Día de Diversión!",
+      "subtitle_text": "¡Intenta, Aprende y Crece!",
+      "bubble_text": "¡Yo puedo, juguemos juntos!",
+      "footer_text": "¡Pasos pequeños, sonrisas grandes!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: animales del bosque pintando juntos en un prado. Top headline text in bold blue cartoon font: '¡Gran Día de Diversión!'. Subtitle in green playful font: '¡Intenta, Aprende y Crece!'. Add one speech bubble saying: '¡Yo puedo, juguemos juntos!'. Bottom supplementary text: '¡Pasos pequeños, sonrisas grandes!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "bebés dragón aprendiendo trabajo en equipo en un valle brillante",
+      "title_text": "¡Hora de Equipo!",
+      "subtitle_text": "¡Practicar Te Hace Mejor!",
+      "bubble_text": "¡Guau! ¡Cada día lo hacemos mejor!",
+      "footer_text": "¡Pasos pequeños, sonrisas grandes!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: bebés dragón aprendiendo trabajo en equipo en un valle brillante. Top headline text in bold blue cartoon font: '¡Hora de Equipo!'. Subtitle in green playful font: '¡Practicar Te Hace Mejor!'. Add one speech bubble saying: '¡Guau! ¡Cada día lo hacemos mejor!'. Bottom supplementary text: '¡Pasos pequeños, sonrisas grandes!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "pequeños astronautas jugando a lanzar la pelota en la luna",
+      "title_text": "¡Ven a Jugar!",
+      "subtitle_text": "¡Practicar Te Hace Mejor!",
+      "bubble_text": "¡Yo puedo, juguemos juntos!",
+      "footer_text": "¡Podemos jugar con nuestros amigos otra vez!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: pequeños astronautas jugando a lanzar la pelota en la luna. Top headline text in bold blue cartoon font: '¡Ven a Jugar!'. Subtitle in green playful font: '¡Practicar Te Hace Mejor!'. Add one speech bubble saying: '¡Yo puedo, juguemos juntos!'. Bottom supplementary text: '¡Podemos jugar con nuestros amigos otra vez!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "pequeños astronautas jugando a lanzar la pelota en la luna",
+      "title_text": "¡Ven a Jugar!",
+      "subtitle_text": "¡Intenta, Aprende y Crece!",
+      "bubble_text": "¡Yo puedo, juguemos juntos!",
+      "footer_text": "¡Aprender es más divertido cuando jugamos juntos!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: pequeños astronautas jugando a lanzar la pelota en la luna. Top headline text in bold blue cartoon font: '¡Ven a Jugar!'. Subtitle in green playful font: '¡Intenta, Aprende y Crece!'. Add one speech bubble saying: '¡Yo puedo, juguemos juntos!'. Bottom supplementary text: '¡Aprender es más divertido cuando jugamos juntos!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "animales del bosque pintando juntos en un prado",
+      "title_text": "¡Gran Día de Diversión!",
+      "subtitle_text": "¡Muestra Tus Habilidades!",
+      "bubble_text": "¡Yo puedo, juguemos juntos!",
+      "footer_text": "¡Podemos jugar con nuestros amigos otra vez!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: animales del bosque pintando juntos en un prado. Top headline text in bold blue cartoon font: '¡Gran Día de Diversión!'. Subtitle in green playful font: '¡Muestra Tus Habilidades!'. Add one speech bubble saying: '¡Yo puedo, juguemos juntos!'. Bottom supplementary text: '¡Podemos jugar con nuestros amigos otra vez!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "dos gatitos volando cometas en un parque soleado",
+      "title_text": "¡Gran Día de Diversión!",
+      "subtitle_text": "¡Practicar Te Hace Mejor!",
+      "bubble_text": "¡Yo puedo, juguemos juntos!",
+      "footer_text": "¡Podemos jugar con nuestros amigos otra vez!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: dos gatitos volando cometas en un parque soleado. Top headline text in bold blue cartoon font: '¡Gran Día de Diversión!'. Subtitle in green playful font: '¡Practicar Te Hace Mejor!'. Add one speech bubble saying: '¡Yo puedo, juguemos juntos!'. Bottom supplementary text: '¡Podemos jugar con nuestros amigos otra vez!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "animales del bosque pintando juntos en un prado",
+      "title_text": "¡Hora de Equipo!",
+      "subtitle_text": "¡Con Amigos se Aprende Mejor!",
+      "bubble_text": "¡Jeje, ahora verán lo que puedo hacer!",
+      "footer_text": "¡Aprender es más divertido cuando jugamos juntos!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: animales del bosque pintando juntos en un prado. Top headline text in bold blue cartoon font: '¡Hora de Equipo!'. Subtitle in green playful font: '¡Con Amigos se Aprende Mejor!'. Add one speech bubble saying: '¡Jeje, ahora verán lo que puedo hacer!'. Bottom supplementary text: '¡Aprender es más divertido cuando jugamos juntos!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "un conejito y un patito compartiendo merienda en picnic",
+      "title_text": "¡Jugar, Aprender y Sonreír!",
+      "subtitle_text": "¡Muestra Tus Habilidades!",
+      "bubble_text": "¡Jeje, ahora verán lo que puedo hacer!",
+      "footer_text": "¡Aprender es más divertido cuando jugamos juntos!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: un conejito y un patito compartiendo merienda en picnic. Top headline text in bold blue cartoon font: '¡Jugar, Aprender y Sonreír!'. Subtitle in green playful font: '¡Muestra Tus Habilidades!'. Add one speech bubble saying: '¡Jeje, ahora verán lo que puedo hacer!'. Bottom supplementary text: '¡Aprender es más divertido cuando jugamos juntos!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "tres perritos practicando fútbol en un campo alegre",
+      "title_text": "¡Gran Día de Diversión!",
+      "subtitle_text": "¡Muestra Tus Habilidades!",
+      "bubble_text": "¡Guau! ¡Cada día lo hacemos mejor!",
+      "footer_text": "¡Aprender es más divertido cuando jugamos juntos!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: tres perritos practicando fútbol en un campo alegre. Top headline text in bold blue cartoon font: '¡Gran Día de Diversión!'. Subtitle in green playful font: '¡Muestra Tus Habilidades!'. Add one speech bubble saying: '¡Guau! ¡Cada día lo hacemos mejor!'. Bottom supplementary text: '¡Aprender es más divertido cuando jugamos juntos!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "bebés dragón aprendiendo trabajo en equipo en un valle brillante",
+      "title_text": "¡Jugar, Aprender y Sonreír!",
+      "subtitle_text": "¡Con Amigos se Aprende Mejor!",
+      "bubble_text": "¡Yo puedo, juguemos juntos!",
+      "footer_text": "¡Podemos jugar con nuestros amigos otra vez!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: bebés dragón aprendiendo trabajo en equipo en un valle brillante. Top headline text in bold blue cartoon font: '¡Jugar, Aprender y Sonreír!'. Subtitle in green playful font: '¡Con Amigos se Aprende Mejor!'. Add one speech bubble saying: '¡Yo puedo, juguemos juntos!'. Bottom supplementary text: '¡Podemos jugar con nuestros amigos otra vez!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "animales del bosque pintando juntos en un prado",
+      "title_text": "¡Hora de Equipo!",
+      "subtitle_text": "¡Con Amigos se Aprende Mejor!",
+      "bubble_text": "¡Jeje, ahora verán lo que puedo hacer!",
+      "footer_text": "¡Aprender es más divertido cuando jugamos juntos!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: animales del bosque pintando juntos en un prado. Top headline text in bold blue cartoon font: '¡Hora de Equipo!'. Subtitle in green playful font: '¡Con Amigos se Aprende Mejor!'. Add one speech bubble saying: '¡Jeje, ahora verán lo que puedo hacer!'. Bottom supplementary text: '¡Aprender es más divertido cuando jugamos juntos!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "tres perritos jugando con una pelota sobre césped verde",
+      "title_text": "¡Gran Día de Diversión!",
+      "subtitle_text": "¡Practicar Te Hace Mejor!",
+      "bubble_text": "¡Yo puedo, juguemos juntos!",
+      "footer_text": "¡Podemos jugar con nuestros amigos otra vez!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: tres perritos jugando con una pelota sobre césped verde. Top headline text in bold blue cartoon font: '¡Gran Día de Diversión!'. Subtitle in green playful font: '¡Practicar Te Hace Mejor!'. Add one speech bubble saying: '¡Yo puedo, juguemos juntos!'. Bottom supplementary text: '¡Podemos jugar con nuestros amigos otra vez!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "un conejito y un patito compartiendo merienda en picnic",
+      "title_text": "¡Gran Día de Diversión!",
+      "subtitle_text": "¡Muestra Tus Habilidades!",
+      "bubble_text": "¡Jeje, ahora verán lo que puedo hacer!",
+      "footer_text": "¡Aprender es más divertido cuando jugamos juntos!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: un conejito y un patito compartiendo merienda en picnic. Top headline text in bold blue cartoon font: '¡Gran Día de Diversión!'. Subtitle in green playful font: '¡Muestra Tus Habilidades!'. Add one speech bubble saying: '¡Jeje, ahora verán lo que puedo hacer!'. Bottom supplementary text: '¡Aprender es más divertido cuando jugamos juntos!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "tres dinosaurios amigos bailando bajo nubes arcoíris",
+      "title_text": "¡Jugar, Aprender y Sonreír!",
+      "subtitle_text": "¡Muestra Tus Habilidades!",
+      "bubble_text": "¡Jeje, ahora verán lo que puedo hacer!",
+      "footer_text": "¡Podemos jugar con nuestros amigos otra vez!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: tres dinosaurios amigos bailando bajo nubes arcoíris. Top headline text in bold blue cartoon font: '¡Jugar, Aprender y Sonreír!'. Subtitle in green playful font: '¡Muestra Tus Habilidades!'. Add one speech bubble saying: '¡Jeje, ahora verán lo que puedo hacer!'. Bottom supplementary text: '¡Podemos jugar con nuestros amigos otra vez!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "un conejito y un patito compartiendo merienda en picnic",
+      "title_text": "¡Jugar, Aprender y Sonreír!",
+      "subtitle_text": "¡Con Amigos se Aprende Mejor!",
+      "bubble_text": "¡Jeje, ahora verán lo que puedo hacer!",
+      "footer_text": "¡Podemos jugar con nuestros amigos otra vez!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: un conejito y un patito compartiendo merienda en picnic. Top headline text in bold blue cartoon font: '¡Jugar, Aprender y Sonreír!'. Subtitle in green playful font: '¡Con Amigos se Aprende Mejor!'. Add one speech bubble saying: '¡Jeje, ahora verán lo que puedo hacer!'. Bottom supplementary text: '¡Podemos jugar con nuestros amigos otra vez!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "dos gatitos volando cometas en un parque soleado",
+      "title_text": "¡Hora de Equipo!",
+      "subtitle_text": "¡Con Amigos se Aprende Mejor!",
+      "bubble_text": "¡Yo puedo, juguemos juntos!",
+      "footer_text": "¡Podemos jugar con nuestros amigos otra vez!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: dos gatitos volando cometas en un parque soleado. Top headline text in bold blue cartoon font: '¡Hora de Equipo!'. Subtitle in green playful font: '¡Con Amigos se Aprende Mejor!'. Add one speech bubble saying: '¡Yo puedo, juguemos juntos!'. Bottom supplementary text: '¡Podemos jugar con nuestros amigos otra vez!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "un conejito y un patito compartiendo merienda en picnic",
+      "title_text": "¡Aprendamos Juntos!",
+      "subtitle_text": "¡Practicar Te Hace Mejor!",
+      "bubble_text": "¡Jeje, ahora verán lo que puedo hacer!",
+      "footer_text": "¡Podemos jugar con nuestros amigos otra vez!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: un conejito y un patito compartiendo merienda en picnic. Top headline text in bold blue cartoon font: '¡Aprendamos Juntos!'. Subtitle in green playful font: '¡Practicar Te Hace Mejor!'. Add one speech bubble saying: '¡Jeje, ahora verán lo que puedo hacer!'. Bottom supplementary text: '¡Podemos jugar con nuestros amigos otra vez!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "amigos del océano construyendo un castillo de arena",
+      "title_text": "¡Jugar, Aprender y Sonreír!",
+      "subtitle_text": "¡Con Amigos se Aprende Mejor!",
+      "bubble_text": "¡Yo puedo, juguemos juntos!",
+      "footer_text": "¡Podemos jugar con nuestros amigos otra vez!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: amigos del océano construyendo un castillo de arena. Top headline text in bold blue cartoon font: '¡Jugar, Aprender y Sonreír!'. Subtitle in green playful font: '¡Con Amigos se Aprende Mejor!'. Add one speech bubble saying: '¡Yo puedo, juguemos juntos!'. Bottom supplementary text: '¡Podemos jugar con nuestros amigos otra vez!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "animales del bosque pintando juntos en un prado",
+      "title_text": "¡Aprendamos Juntos!",
+      "subtitle_text": "¡Muestra Tus Habilidades!",
+      "bubble_text": "¡Yo puedo, juguemos juntos!",
+      "footer_text": "¡Aprender es más divertido cuando jugamos juntos!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: animales del bosque pintando juntos en un prado. Top headline text in bold blue cartoon font: '¡Aprendamos Juntos!'. Subtitle in green playful font: '¡Muestra Tus Habilidades!'. Add one speech bubble saying: '¡Yo puedo, juguemos juntos!'. Bottom supplementary text: '¡Aprender es más divertido cuando jugamos juntos!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "amigos del océano construyendo un castillo de arena",
+      "title_text": "¡Aprendamos Juntos!",
+      "subtitle_text": "¡Intenta, Aprende y Crece!",
+      "bubble_text": "¡Jeje, ahora verán lo que puedo hacer!",
+      "footer_text": "¡Pasos pequeños, sonrisas grandes!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: amigos del océano construyendo un castillo de arena. Top headline text in bold blue cartoon font: '¡Aprendamos Juntos!'. Subtitle in green playful font: '¡Intenta, Aprende y Crece!'. Add one speech bubble saying: '¡Jeje, ahora verán lo que puedo hacer!'. Bottom supplementary text: '¡Pasos pequeños, sonrisas grandes!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "pequeños astronautas jugando a lanzar la pelota en la luna",
+      "title_text": "¡Hora de Equipo!",
+      "subtitle_text": "¡Con Amigos se Aprende Mejor!",
+      "bubble_text": "¡Guau! ¡Cada día lo hacemos mejor!",
+      "footer_text": "¡Podemos jugar con nuestros amigos otra vez!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: pequeños astronautas jugando a lanzar la pelota en la luna. Top headline text in bold blue cartoon font: '¡Hora de Equipo!'. Subtitle in green playful font: '¡Con Amigos se Aprende Mejor!'. Add one speech bubble saying: '¡Guau! ¡Cada día lo hacemos mejor!'. Bottom supplementary text: '¡Podemos jugar con nuestros amigos otra vez!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    },
+    {
+      "lang": "es",
+      "scene": "tres perritos jugando con una pelota sobre césped verde",
+      "title_text": "¡Jugar, Aprender y Sonreír!",
+      "subtitle_text": "¡Intenta, Aprende y Crece!",
+      "bubble_text": "¡Jeje, ahora verán lo que puedo hacer!",
+      "footer_text": "¡Pasos pequeños, sonrisas grandes!",
+      "prompt": "Healing-style hand-drawn children's poster, soft painterly lines, cheerful composition, clear focal subject, decorative birds and stars, vibrant but balanced palette, fresh greens and blues with pink and yellow accents, print-friendly, kid-safe, high clarity. Scene: tres perritos jugando con una pelota sobre césped verde. Top headline text in bold blue cartoon font: '¡Jugar, Aprender y Sonreír!'. Subtitle in green playful font: '¡Intenta, Aprende y Crece!'. Add one speech bubble saying: '¡Jeje, ahora verán lo que puedo hacer!'. Bottom supplementary text: '¡Pasos pequeños, sonrisas grandes!'. Ensure text is legible, centered layout, balanced whitespace.",
+      "negative_prompt": "low resolution, blurry text, distorted letters, deformed anatomy, scary mood, dark palette, watermark, logo artifacts"
+    }
+  ]
+}

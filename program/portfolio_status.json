@@ -1,0 +1,119 @@
+{
+  "generated_count": 6,
+  "generated_books": [
+    {
+      "pdf": "output/Benny_Bear's_First_Honey_8x10.pdf",
+      "pdf_size_bytes": 19338,
+      "metadata_file": "output/Benny_Bear's_First_Honey_metadata.json",
+      "title": "Benny Bear's First Honey",
+      "language": "en",
+      "age_range": "4-7",
+      "trim_size": "8x10",
+      "ready": true
+    },
+    {
+      "pdf": "output/La_Semillita_Valiente_8x10.pdf",
+      "pdf_size_bytes": 24115,
+      "metadata_file": "output/La_Semillita_Valiente_metadata.json",
+      "title": "La Semillita Valiente",
+      "language": "es",
+      "age_range": "4-7",
+      "trim_size": "8x10",
+      "ready": true
+    },
+    {
+      "pdf": "output/Luna_and_the_Moon_8x10.pdf",
+      "pdf_size_bytes": 17779,
+      "metadata_file": "output/Luna_and_the_Moon_metadata.json",
+      "title": "Luna and the Moon",
+      "language": "en",
+      "age_range": "3-6",
+      "trim_size": "8x10",
+      "ready": true
+    },
+    {
+      "pdf": "output/Mia_Chases_the_Rainbow_8x10.pdf",
+      "pdf_size_bytes": 18559,
+      "metadata_file": "output/Mia_Chases_the_Rainbow_metadata.json",
+      "title": "Mia Chases the Rainbow",
+      "language": "en",
+      "age_range": "3-6",
+      "trim_size": "8x10",
+      "ready": true
+    },
+    {
+      "pdf": "output/Sammy_Finds_His_Shell_8x10.pdf",
+      "pdf_size_bytes": 19246,
+      "metadata_file": "output/Sammy_Finds_His_Shell_metadata.json",
+      "title": "Sammy Finds His Shell",
+      "language": "en",
+      "age_range": "4-7",
+      "trim_size": "8x10",
+      "ready": true
+    },
+    {
+      "pdf": "output/The_Brave_Little_Seed_8x10.pdf",
+      "pdf_size_bytes": 23730,
+      "metadata_file": "output/The_Brave_Little_Seed_metadata.json",
+      "title": "The Brave Little Seed",
+      "language": "en",
+      "age_range": "4-7",
+      "trim_size": "8x10",
+      "ready": true
+    }
+  ],
+  "pipeline_count": 5,
+  "pipeline": [
+    {
+      "slug": "letter-tracing-farm",
+      "title": "Letter Tracing Farm Friends",
+      "language": "en",
+      "age_range": "3-5",
+      "trim_size": "8.5x8.5",
+      "category": "activity",
+      "status": "planned",
+      "created_at": "2026-03-05T15:45:01"
+    },
+    {
+      "slug": "number-tracing-space",
+      "title": "Number Tracing Space Adventure",
+      "language": "en",
+      "age_range": "3-5",
+      "trim_size": "8.5x8.5",
+      "category": "activity",
+      "status": "planned",
+      "created_at": "2026-03-05T15:45:01"
+    },
+    {
+      "slug": "my-first-scissor-skills",
+      "title": "My First Scissor Skills Workbook",
+      "language": "en",
+      "age_range": "4-6",
+      "trim_size": "8.5x11",
+      "category": "activity",
+      "status": "planned",
+      "created_at": "2026-03-05T15:45:01"
+    },
+    {
+      "slug": "cuentos-animales-valientes",
+      "title": "Cuentos de Animales Valientes",
+      "language": "es",
+      "age_range": "4-7",
+      "trim_size": "8x10",
+      "category": "story",
+      "status": "planned",
+      "created_at": "2026-03-05T15:45:01"
+    },
+    {
+      "slug": "kindness-coloring-book",
+      "title": "Kindness Coloring Book for Kids",
+      "language": "en",
+      "age_range": "4-8",
+      "trim_size": "8.5x11",
+      "category": "coloring",
+      "status": "planned",
+      "created_at": "2026-03-05T15:45:01"
+    }
+  ],
+  "updated_at": "2026-03-05T15:45:01"
+}

@@ -1,0 +1,72 @@
+{
+  "mazes": [
+    {
+      "index": 1,
+      "solvable": true,
+      "path_len": 39
+    },
+    {
+      "index": 2,
+      "solvable": true,
+      "path_len": 57
+    },
+    {
+      "index": 3,
+      "solvable": true,
+      "path_len": 77
+    },
+    {
+      "index": 4,
+      "solvable": true,
+      "path_len": 47
+    }
+  ],
+  "word_searches": [
+    {
+      "index": 1,
+      "valid": true,
+      "words": [
+        "CAT",
+        "DOG",
+        "SUN",
+        "MOON",
+        "BOOK"
+      ]
+    },
+    {
+      "index": 2,
+      "valid": true,
+      "words": [
+        "APPLE",
+        "FISH",
+        "CAR",
+        "STAR",
+        "TREE"
+      ]
+    }
+  ],
+  "find_me": [
+    {
+      "index": 1,
+      "counts": {
+        "\u2b50": 13,
+        "\ud83c\udf4e": 15,
+        "\ud83d\ude97": 10,
+        "\ud83d\udc1f": 14
+      }
+    },
+    {
+      "index": 2,
+      "counts": {
+        "\u2b50": 10,
+        "\ud83c\udf4e": 17,
+        "\ud83d\ude97": 16,
+        "\ud83d\udc1f": 15
+      }
+    }
+  ],
+  "summary": {
+    "all_ok": true,
+    "seed": 42
+  }
+}

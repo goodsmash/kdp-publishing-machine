@@ -1,0 +1,46 @@
+{
+  "book": "The Brave Little Seed",
+  "generated": "2026-03-05T02:58:30.973991",
+  "images": [
+    {
+      "page": 1,
+      "scene": "tiny brown seed sitting on a colorful flower petal, sun shining, garden background",
+      "file": "illustrations/qwen_images/The_Brave_Little_Seed_page01_20260305_025333.png"
+    },
+    {
+      "page": 2,
+      "scene": "wind blowing through a garden, flowers bending, leaves swirling",
+      "file": "illustrations/qwen_images/The_Brave_Little_Seed_page02_20260305_025413.png"
+    },
+    {
+      "page": 3,
+      "scene": "seed tumbling through the blue sky, spinning, fluffy white clouds",
+      "file": "illustrations/qwen_images/The_Brave_Little_Seed_page03_20260305_025453.png"
+    },
+    {
+      "page": 4,
+      "scene": "seed resting in rich brown soil underground, cross section view",
+      "file": "illustrations/qwen_images/The_Brave_Little_Seed_page04_20260305_025533.png"
+    },
+    {
+      "page": 5,
+      "scene": "rain falling on garden soil with sun peeking through clouds",
+      "file": "illustrations/qwen_images/The_Brave_Little_Seed_page05_20260305_025613.png"
+    },
+    {
+      "page": 6,
+      "scene": "tiny green sprout pushing through soil, first leaves unfurling",
+      "file": "illustrations/qwen_images/The_Brave_Little_Seed_page06_20260305_025653.png"
+    },
+    {
+      "page": 7,
+      "scene": "small plant growing taller with green leaves in sunny garden",
+      "file": "illustrations/qwen_images/The_Brave_Little_Seed_page07_20260305_025734.png"
+    },
+    {
+      "page": 8,
+      "scene": "beautiful blooming flower with pink petals open wide in garden",
+      "file": "illustrations/qwen_images/The_Brave_Little_Seed_page08_20260305_025812.png"
+    }
+  ]
+}
